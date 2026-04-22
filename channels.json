@@ -1,4 +1,12 @@
 [
+["beIN Sport 1 (event)", "http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8", "beIN Sport","v"],  
+["beIN Sport 2 (event)", "http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8", "beIN Sport","v"],  
+["beIN Sport 3 (event)", "http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8", "beIN Sport","v"],  
+["beIN Sport 4 (event)", "http://stream.mytvplus.net:7005/sport/ch4/ch4_1080.m3u8", "beIN Sport","v"],  
+["beIN Sport 5 (event)", "http://stream.mytvplus.net:7006/sport/ch5/ch5_1080.m3u8", "beIN Sport","v"],  
+["beIN Sport 6 (event)", "http://stream.mytvplus.net:7002/sport/ch6/ch6_1080.m3u8", "beIN Sport","v"],  
+["beIN Sport 8 (event)", "http://stream.mytvplus.net:7003/sport/ch8/ch8_1080.m3u8", "beIN Sport","v"],  
+["beIN Sport 9 (event)", "http://stream.mytvplus.net:7004/sport/ch9/ch9_1080.m3u8", "beIN Sport","v"],   
 ["Abdulmajeed Abdullah (1080p)", "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8", "موسيقى", "v"],
 ["Alarabiya (1080p)", "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8", "أخبار", "v"],
 ["Al Arabiya (1080p)", "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8", "أخبار", "v"],
@@ -185,5 +193,10 @@
 ["Watan TV (1080p)", "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8", "عام", "v"],
 ["Zagros (720p) [Not 24/7]", "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8", "عام", "v"],
 ["Watar Radio (1080p)", "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8", "غير مصنف", "v"],
-["MBC 3", "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8", "مهم","v"]  
+["MBC 3", "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8", "مهم","v"]
+["UTV", "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8", "ترفيه","v"],  
+["Super Sport", "https://stream.veo.buzz:6050/sport/ch3/ch3_360.m3u8", "رياضة","v"], 
+  
+  
+
 ]
