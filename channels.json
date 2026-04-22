@@ -184,5 +184,5 @@
 ["Watan TV (1080p)", "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8", "عام", "v"],
 ["Zagros (720p) [Not 24/7]", "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8", "عام", "v"],
 ["Watar Radio (1080p)", "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8", "غير مصنف", "v"],
-["MBC 3", "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8", "مهم","v"],
+["MBC 3", "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8", "مهم","v"]
 ]
