@@ -14,6 +14,7 @@
 ["beIN Sport 6 (event)", "http://stream.mytvplus.net:7002/sport/ch6/ch6_1080.m3u8", "كرة قدم","v"],  
 ["beIN Sport 8 (event)", "http://stream.mytvplus.net:7003/sport/ch8/ch8_1080.m3u8", "كرة قدم","v"],  
 ["beIN Sport 9 (event)", "http://stream.mytvplus.net:7004/sport/ch9/ch9_1080.m3u8", "كرة قدم","v"],
+["Al-kass Five", "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8", "كرة قدم",  "v"],  
 ["Abdulmajeed Abdullah (1080p)", "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8", "موسيقى", "v"],
 ["Alarabiya (1080p)", "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8", "أخبار", "v"],
 ["Al Arabiya (1080p)", "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8", "أخبار", "v"],
