@@ -1,5 +1,9 @@
 [ 
 ["سوبر سبورت", "https://stream.veo.buzz:6050/sport/ch3/ch3_360.m3u8", "كرة قدم","v"],
+["بث مباراة العراق","https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/EG89jQvzZJXyafbP16REDMaXYlY3LNuV8WVPkSqZnIaOK5yeLy_HYKxeVHMz4ImwvA4UnFo-_VBkq4FGJtRo8g/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live", "كرة قدم", "v"],
+["بث مباراة العراق","https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/fHeLdOt9CvdI2ZHGNyf5eBB6vPVPVPjHBMIy8iOCk1dtzof6GdOfexkVIVmw-6IYaH1NTat7BEWSj5Y9xj5Ukw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live", "كرة قدم", "v"],
+["بي ان سبورت 2","https://match-now.site/live/blue_sport_2/index.m3u8", "كرة قدم", "v"],
+["بي ان سبورت 3","https://match-now.site/live/blue_sport_3/index.m3u8", "كرة قدم", "v"],  
 ["بث مباراة العراق","https://match-now.site/live/blue_sport_1/index.m3u8", "كرة قدم", "v"],  
 ["بث مباراة العراق","https://news.azewo.site/albaplayer/ch10/?serv=1", "كرة قدم", "i"],
 ["بث مباراة العراق","https://zz.depoooo.com/albaplayer/ssc-2/?serv=1", "كرة قدم", "i"],  
