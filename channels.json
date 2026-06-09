@@ -1,681 +1,244 @@
 [
-  {
-    "id": "alkaas-1",
-    "name": "الكأس 1",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0d/AlKass_Sports_Channels_logo.svg/200px-AlKass_Sports_Channels_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alkaas-2",
-    "name": "الكأس 2",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0d/AlKass_Sports_Channels_logo.svg/200px-AlKass_Sports_Channels_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alkaas-3",
-    "name": "الكأس 3",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0d/AlKass_Sports_Channels_logo.svg/200px-AlKass_Sports_Channels_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alkaas-4",
-    "name": "الكأس 4",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0d/AlKass_Sports_Channels_logo.svg/200px-AlKass_Sports_Channels_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alkaas-5",
-    "name": "الكأس 5",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0d/AlKass_Sports_Channels_logo.svg/200px-AlKass_Sports_Channels_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alkaas-6",
-    "name": "الكأس 6",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0d/AlKass_Sports_Channels_logo.svg/200px-AlKass_Sports_Channels_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alkaas-shoof",
-    "name": "الكأس شوف",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0d/AlKass_Sports_Channels_logo.svg/200px-AlKass_Sports_Channels_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "iraqia-sports",
-    "name": "العراقية الرياضية",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Iraqi_Media_Network_Logo.svg/200px-Iraqi_Media_Network_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "bein-1",
-    "name": "بي إن سبورت 1",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر حدث", "url": "http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "bein-2",
-    "name": "بي إن سبورت 2",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر حدث", "url": "http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "bein-3",
-    "name": "بي إن سبورت 3",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر حدث", "url": "http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "bein-4",
-    "name": "بي إن سبورت 4",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر حدث", "url": "http://stream.mytvplus.net:7005/sport/ch4/ch4_1080.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "supersport",
-    "name": "سوبر سبورت",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/SuperSport_logo.svg/200px-SuperSport_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://stream.veo.buzz:6050/sport/ch3/ch3_360.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "jordan-sports",
-    "name": "الأردن الرياضية",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jordan_TV_Logo.png/200px-Jordan_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "http://93.184.10.248/JordanSport/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "kuwait-sports",
-    "name": "الكويت الرياضية",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kuwait_TV_logo.png/200px-Kuwait_TV_logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8", "type": "v"},
-      {"label": "بلاس", "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "iraq-match-1",
-    "name": "بث مباراة العراق",
-    "category": "كرة قدم",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Iraqi_Media_Network_Logo.svg/200px-Iraqi_Media_Network_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://news.azewo.site/albaplayer/ch10/?serv=1", "type": "i"},
-      {"label": "سيرفر 2", "url": "https://zz.depoooo.com/albaplayer/ssc-2/?serv=1", "type": "i"}
-    ]
-  },
-  {
-    "id": "mbc1",
-    "name": "MBC 1",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MBC_1_Arabic.svg/200px-MBC_1_Arabic.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8", "type": "v"},
-      {"label": "مصر", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc3",
-    "name": "MBC 3",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MBC3_Logo.svg/200px-MBC3_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc4",
-    "name": "MBC 4",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MBC4_Logo.svg/200px-MBC4_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc5",
-    "name": "MBC 5",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MBC5_Logo.svg/200px-MBC5_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc-drama",
-    "name": "MBC دراما",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/MBC_Drama_Logo.svg/200px-MBC_Drama_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8", "type": "v"},
-      {"label": "بلاس", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc-masr",
-    "name": "MBC مصر",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MBC_1_Arabic.svg/200px-MBC_1_Arabic.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8", "type": "v"},
-      {"label": "مصر 2", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8", "type": "v"},
-      {"label": "دراما", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc-iraq",
-    "name": "MBC عراق",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MBC_1_Arabic.svg/200px-MBC_1_Arabic.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc-fm",
-    "name": "MBC FM",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MBC_1_Arabic.svg/200px-MBC_1_Arabic.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc-bollywood",
-    "name": "MBC بوليوود",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MBC_1_Arabic.svg/200px-MBC_1_Arabic.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mbc-persia",
-    "name": "MBC فارسيا",
-    "category": "MBC",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MBC_1_Arabic.svg/200px-MBC_1_Arabic.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://hls.mbcpersia.live/hls/stream.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alarabiya",
-    "name": "العربية",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Al_Arabiya_Logo.svg/200px-Al_Arabiya_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8", "type": "v"},
-      {"label": "إنجليزية", "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alhadath",
-    "name": "الحدث",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Al_Arabiya_Logo.svg/200px-Al_Arabiya_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "aljazeera",
-    "name": "الجزيرة",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Al_Jazeera_Logo.svg/200px-Al_Jazeera_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8", "type": "v"},
-      {"label": "إنجليزية", "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8", "type": "v"},
-      {"label": "مباشر", "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "aljazeera-mubashir",
-    "name": "الجزيرة مباشر 24",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Al_Jazeera_Logo.svg/200px-Al_Jazeera_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "skynews-arabia",
-    "name": "سكاي نيوز عربية",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sky_News_Arabia_Logo.svg/200px-Sky_News_Arabia_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://stream.skynewsarabia.com/ott/ott.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://stream.skynewsarabia.com/hls/sna.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alekhbariya",
-    "name": "الإخبارية",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Al_Ekhbariya_Logo.png/200px-Al_Ekhbariya_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "almasira",
-    "name": "المسيرة",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Al_Masirah_TV_Logo.png/200px-Al_Masirah_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alhaqiqa",
-    "name": "الحقيقة الدولية",
-    "category": "أخبار",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://ghaasiflu.online/alhqeqa/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alghad",
-    "name": "الغد",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AlGhad_TV_Logo.png/200px-AlGhad_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alsharqiya-news",
-    "name": "الشرقية نيوز",
-    "category": "أخبار",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Al-Sharqiya_TV.png/200px-Al-Sharqiya_TV.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alsharqiya",
-    "name": "الشرقية",
-    "category": "ترفيه",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Al-Sharqiya_TV.png/200px-Al-Sharqiya_TV.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8", "type": "v"},
-      {"label": "من قبل", "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "quran-kariim",
-    "name": "القرآن الكريم",
-    "category": "ديني",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Saudi_Quran_logo.svg/200px-Saudi_Quran_logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://ktvlive.online/stream/hls/ch1.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "imam-hussain",
-    "name": "الإمام الحسين 1",
-    "category": "ديني",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live.imamhossaintv.com/live/ih2.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "al-marjaeia",
-    "name": "المرجعية",
-    "category": "ديني",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "عربي", "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8", "type": "v"},
-      {"label": "فارسي", "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "sharjah-tv",
-    "name": "الشارقة",
-    "category": "ديني",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sharjah_TV_logo.png/200px-Sharjah_TV_logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8", "type": "v"},
-      {"label": "سيرفر 3", "url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "iqraa",
-    "name": "اقرأ",
-    "category": "ديني",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/IqraaTV_Logo.svg/200px-IqraaTV_Logo.svg.png",
-    "servers": [
-      {"label": "أفريقيا/أوروبا", "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8", "type": "v"},
-      {"label": "القرآن", "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8", "type": "v"},
-      {"label": "عربية", "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "saudi-tv",
-    "name": "السعودية",
-    "category": "عام",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Saudi_TV1.svg/200px-Saudi_TV1.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "jordan-tv",
-    "name": "القناة الأردنية الفضائية",
-    "category": "عام",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jordan_TV_Logo.png/200px-Jordan_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "roya-tv",
-    "name": "رؤيا",
-    "category": "عام",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Roya_TV_Logo.png/200px-Roya_TV_Logo.png",
-    "servers": [
-      {"label": "رئيسية", "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8", "type": "v"},
-      {"label": "دراما", "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8", "type": "v"},
-      {"label": "كوميدي", "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8", "type": "v"},
-      {"label": "طبخ", "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "iraq-mustaqbal",
-    "name": "عراق المستقبل",
-    "category": "عام",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "libya-wataniya",
-    "name": "ليبيا الوطنية",
-    "category": "عام",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "qatar-tv",
-    "name": "قطر تي في",
-    "category": "عام",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Qatar_TV_Logo.png/200px-Qatar_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8", "type": "v"},
-      {"label": "قطر 2", "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "alrayyan",
-    "name": "الريان",
-    "category": "عام",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Al_Rayyan_TV_Logo.png/200px-Al_Rayyan_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8", "type": "v"},
-      {"label": "القديم", "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "bab-alhara",
-    "name": "باب الحارة",
-    "category": "مسلسلات",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "panorama-fm",
-    "name": "بانوراما إف إم",
-    "category": "موسيقى",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Panorama_FM_Logo.png/200px-Panorama_FM_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "tarab",
-    "name": "طرب",
-    "category": "موسيقى",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "marina",
-    "name": "مارينا",
-    "category": "موسيقى",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "wanasa",
-    "name": "وناسة",
-    "category": "موسيقى",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "rashid-majed",
-    "name": "راشد الماجد",
-    "category": "موسيقى",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "fairuz",
-    "name": "فيروز",
-    "category": "موسيقى",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "spacetoon",
-    "name": "سبيستون عربي",
-    "category": "أطفال",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Spacetoon_Logo.svg/200px-Spacetoon_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "roya-kids",
-    "name": "رؤيا كيدز",
-    "category": "أطفال",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Roya_TV_Logo.png/200px-Roya_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8", "type": "v"},
-      {"label": "أصلية", "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "atfal-mawahib",
-    "name": "أطفال ومواهب",
-    "category": "أطفال",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "aljazeera-doc",
-    "name": "الجزيرة الوثائقية",
-    "category": "وثائقي",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Al_Jazeera_Logo.svg/200px-Al_Jazeera_Logo.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "asharq-doc",
-    "name": "الشرق وثائقي",
-    "category": "وثائقي",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8", "type": "v"},
-      {"label": "ديسكفري", "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "aflam-action",
-    "name": "أفلام أكشن",
-    "category": "أفلام",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "aflam-ithara",
-    "name": "أفلام إثارة",
-    "category": "أفلام",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "mix-hollywood",
-    "name": "ميكس هوليوود",
-    "category": "أفلام",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "ifilm-arabic",
-    "name": "آي فيلم عربي",
-    "category": "أفلام",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://live.presstv.ir/hls/ifilmar.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "hdfzone",
-    "name": "هدف زون",
-    "category": "رياضة",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "bahrain-sports",
-    "name": "البحرين الرياضية",
-    "category": "رياضة",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8", "type": "v"},
-      {"label": "سيرفر 2", "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "oman-sports",
-    "name": "عُمان الرياضية",
-    "category": "رياضة",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "as3sport",
-    "name": "إيه إس 3 سبورت",
-    "category": "رياضة",
-    "logo": "https://i.imgur.com/8mdt9Eg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "saudi-thaqafia",
-    "name": "السعودية الثقافية",
-    "category": "ثقافة",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Saudi_TV1.svg/200px-Saudi_TV1.svg.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8", "type": "v"}
-    ]
-  },
-  {
-    "id": "palestine-live",
-    "name": "فلسطين المباشر",
-    "category": "عام",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Palestine_TV_Logo.png/200px-Palestine_TV_Logo.png",
-    "servers": [
-      {"label": "سيرفر 1", "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8", "type": "v"},
-      {"label": "فضائية", "url": "https://pbc.furrera.ps/palestinehd/index.m3u8", "type": "v"}
-    ]
-  }
+  ["سوبر سبورت", "كرة قدم", "logo_url", "v|https://stream.veo.buzz:6050/sport/ch3/ch3_360.m3u8|سيرفر1"],
+  ["بث مباراة العراق", "كرة قدم", "logo_url", "i|https://news.azewo.site/albaplayer/ch10/?serv=1|سيرفر1"],
+  ["بث مباراة العراق", "كرة قدم", "logo_url", "i|https://zz.depoooo.com/albaplayer/ssc-2/?serv=1|سيرفر1"],
+  ["بي إن سبورت 1 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8|سيرفر1"],
+  ["بي إن سبورت 2 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8|سيرفر1"],
+  ["بي إن سبورت 3 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8|سيرفر1"],
+  ["بي إن سبورت 4 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7005/sport/ch4/ch4_1080.m3u8|سيرفر1"],
+  [" بي إن سبورت 5 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7006/sport/ch5/ch5_1080.m3u8|سيرفر1"],
+  ["بي إن سبورت 6 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7002/sport/ch6/ch6_1080.m3u8|سيرفر1"],
+  ["بي إن سبورت 8 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7003/sport/ch8/ch8_1080.m3u8|سيرفر1"],
+  ["بي إن سبورت 9 (حدث) فقط ايرثلنك", "كرة قدم", "logo_url", "v|http://stream.mytvplus.net:7004/sport/ch9/ch9_1080.m3u8|سيرفر1"],
+  ["العراقية الرياضية (720p)", "كرة قدم", "logo_url", "v|https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8|سيرفر1"],
+  ["الكأس الأولى (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8|سيرفر1"],
+  ["الكأس الثانية (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8|سيرفر1"],
+  ["الكأس الثالثة (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8|سيرفر1"],
+  ["الكأس الرابعة (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8|سيرفر1"],
+  ["الكأس الخامسة (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8|سيرفر1"],
+  ["الكأس السادسة (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8|سيرفر1"],
+  ["الكأس شوف (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8|سيرفر1"],
+  ["الكأس شوف 2 (1080p)", "كرة قدم", "logo_url", "v|https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8|سيرفر1"],
+  ["إيه إس 3 سبورت (1080p)", "كرة قدم", "logo_url", "v|https://streamtv.as3sport.online:3394/hybrid/play.m3u8|سيرفر1"],
+  ["البحرين الرياضية 1 (720p)", "كرة قدم", "logo_url", "v|https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8|سيرفر1"],
+  ["البحرين الرياضية 2 (720p)", "كرة قدم", "logo_url", "v|https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8|سيرفر1"],
+  ["بي إن سبورتس إكسترا إسباني (1080p)", "كرة قدم", "logo_url", "v|https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8|سيرفر1"],
+  ["كريكت غولد (1080p)", "كرة قدم", "logo_url", "v|https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8|سيرفر1"],
+  ["دازن كومبات (1080p)", "كرة قدم", "logo_url", "v|https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8|سيرفر1"],
+  ["دي سبورتس أوروغواي", "كرة قدم", "logo_url", "v|https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8|سيرفر1"],
+  ["فنربهتشه تي في", "كرة قدم", "logo_url", "v|http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس (720p)", "كرة قدم", "logo_url", "v|https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس فرنسي (720p)", "كرة قدم", "logo_url", "v|https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس ألماني (720p)", "كرة قدم", "logo_url", "v|https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس أمريكا اللاتينية (720p)", "كرة قدم", "logo_url", "v|https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس إيطالي (720p)", "كرة قدم", "logo_url", "v|https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس برتغالي (720p)", "كرة قدم", "logo_url", "v|https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس إسباني (720p)", "كرة قدم", "logo_url", "v|https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس الولايات المتحدة (720p)", "كرة قدم", "logo_url", "v|https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8|سيرفر1"],
+  ["فيفا بلاس نساء (720p)", "كرة قدم", "logo_url", "v|https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8|سيرفر1"],
+  ["إيه سي سي دي إن (1080p)", "كرة قدم", "logo_url", "v|https://raycom-accdn-firetv.amagi.tv/playlist.m3u8|سيرفر1"],
+  ["إيه سي آي سبورت (1080p)", "كرة قدم", "logo_url", "v|https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8|سيرفر1"],
+  ["فوكس ديبورتيس (1280p)", "كرة قدم", "logo_url", "v|https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8|سيرفر1"],
+  ["الأردن الرياضية (1080p)", "كرة قدم", "logo_url", "v|http://93.184.10.248/JordanSport/index.m3u8|سيرفر1"],
+  ["الكويت الرياضية (1080p)", "كرة قدم", "logo_url", "v|https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8|سيرفر1"],
+  ["الكويت الرياضية بلاس (1080p)", "كرة قدم", "logo_url", "v|https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8|سيرفر1"],
+  ["مولتيفيجن سبورتس (720p)", "كرة قدم", "logo_url", "v|https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8|سيرفر1"],
+  ["عُمان الرياضية (1080p)", "كرة قدم", "logo_url", "v|https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8|سيرفر1"],
+  ["MBC+ دراما", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8|سيرفر1"],
+  ["MBC بوليوود", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8|سيرفر1"],
+  ["MBC عراق", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8|سيرفر1"],
+  ["MBC مصر 2", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8|سيرفر1"],
+  ["ليبيا الوطنية", "ترفيه", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8|سيرفر1"],
+  ["الشرقية", "ترفيه", "logo_url", "v|https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8|سيرفر1"],
+  ["الشرقية الإخبارية", "ترفيه", "logo_url", "v|https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8|سيرفر1"],
+  ["القرآن الكريم", "ترفيه", "logo_url", "v|https://ktvlive.online/stream/hls/ch1.m3u8|سيرفر1"],
+  ["عراق المستقبل", "ترفيه", "logo_url", "v|https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8|سيرفر1"],
+  ["الإمام الحسين 1", "ترفيه", "logo_url", "v|https://live.imamhossaintv.com/live/ih2.m3u8|سيرفر1"],
+  ["عبدالمجيد عبدالله (1080p)", "موسیقى", "logo_url", "v|https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8|سيرفر1"],
+  ["العربية (1080p)", "أخبار", "logo_url", "v|https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8|سيرفر1"],
+  ["العربية (1080p)", "أخبار", "logo_url", "v|https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8|سيرفر1"],
+  ["العربية (1080p)", "أخبار", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8|سيرفر1"],
+  ["العربية للأعمال (1080p)", "أعمال", "logo_url", "v|https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8|سيرفر1"],
+  ["العربية الإنجليزية (1080p)", "أخبار", "logo_url", "v|https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8|سيرفر1"],
+  ["العربية الإنجليزية (1080p)", "أخبار", "logo_url", "v|https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8|سيرفر1"],
+  ["برامج العربية (1280p)", "وثائقي;أخبار", "logo_url", "v|https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8|سيرفر1"],
+  ["العربي 2 (1080p)", "أخبار", "logo_url", "v|https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8|سيرفر1"],
+  ["العربي 2 (1080p)", "أخبار", "logo_url", "v|https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8|سيرفر1"],
+  ["العربي 2 (1080p)", "أخبار", "logo_url", "v|https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617|سيرفر1"],
+  ["العربي (1080p)", "أخبار", "logo_url", "v|https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8|سيرفر1"],
+  ["العربي (1080p)", "أخبار", "logo_url", "v|https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8|سيرفر1"],
+  ["العربي (1080p)", "أخبار", "logo_url", "v|https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616|سيرفر1"],
+  ["الإخبارية (1080p)", "أخبار", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8|سيرفر1"],
+  ["الإخبارية (360p)", "أخبار", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8|سيرفر1"],
+  ["الغد (1080p)", "أخبار", "logo_url", "v|https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8|سيرفر1"],
+  ["الحدث (1080p)", "أخبار", "logo_url", "v|https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8|سيرفر1"],
+  ["الحدث (1080p)", "أخبار", "logo_url", "v|https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8|سيرفر1"],
+  ["الحقيقة الدولية (1080p)", "أخبار", "logo_url", "v|https://ghaasiflu.online/alhqeqa/index.m3u8|سيرفر1"],
+  ["السعودية (1080p)", "عام", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8|سيرفر1"],
+  ["السعودية (360p)", "عام", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8|سيرفر1"],
+  ["السعودية الآن (1080p)", "غير مصنف", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8|سيرفر1"],
+  ["الشلال (1080p)", "عام", "logo_url", "v|https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8|سيرفر1"],
+  ["الشرقية (1080p)", "عام", "logo_url", "v|https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8|سيرفر1"],
+  ["الشرقية من قبل (1080p)", "عام", "logo_url", "v|https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8|سيرفر1"],
+  ["الشرقية نيوز (1080p)", "أخبار", "logo_url", "v|https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8|سيرفر1"],
+  ["السنة النبوية (360p)", "ديني", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8|سيرفر1"],
+  ["التغيير (1080p)", "أخبار", "logo_url", "v|https://jmc-live.ercdn.net/altaghier/altaghier.m3u8|سيرفر1"],
+  ["الولاية (720p)", "ديني", "logo_url", "v|https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8|سيرفر1"],
+  ["الوسطى (1080p)", "عام", "logo_url", "v|https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8|سيرفر1"],
+  ["اليوم (1080p)", "أخبار", "logo_url", "v|https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8|سيرفر1"],
+  ["عمان تي في (720p)", "عام", "logo_url", "v|https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8|سيرفر1"],
+  ["عمان تي في (720p)", "عام", "logo_url", "v|https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8|سيرفر1"],
+  ["عمو يزيد (576p)", "أطفال", "logo_url", "v|http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8|سيرفر1"],
+  ["الشرق ديسكفري (1080p)", "وثائقي;تعليم", "logo_url", "v|https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8|سيرفر1"],
+  ["الشرق وثائقي (1080p)", "وثائقي", "logo_url", "v|https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8|سيرفر1"],
+  ["الشرق للأخبار (1080p)", "أعمال;أخبار", "logo_url", "v|https://live-news.asharq.com/asharq.m3u8|سيرفر1"],
+  ["الشرق للأخبار (1080p)", "أعمال;أخبار", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8|سيرفر1"],
+  ["الشرق للأخبار (1080p)", "أعمال;أخبار", "logo_url", "v|https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8|سيرفر1"],
+  ["الشرق راديو (1080p)", "أعمال;أخبار", "logo_url", "v|https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8|سيرفر1"],
+  ["الصراط (576p)", "ديني", "logo_url", "v|https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8|سيرفر1"],
+  ["أطفال ومواهب (1080p)", "أطفال", "logo_url", "v|https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8|سيرفر1"],
+  ["أطفال ومواهب (1080p)", "أطفال", "logo_url", "v|https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8|سيرفر1"],
+  ["آفار تي في (1080p)", "غير مصنف", "logo_url", "v|https://avr.host247.net/live/AvarTv/playlist.m3u8|سيرفر1"],
+  ["باب الحارة (1080p)", "مسلسلات", "logo_url", "v|https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8|سيرفر1"],
+  ["بيغ تايم بلاس (1080p)", "غير مصنف", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8|سيرفر1"],
+  ["قناة 4 للشباب", "ديني", "logo_url", "v|https://ch14.tv/live/ch4teenclip/playlist.m3u8|سيرفر1"],
+  ["إذاعة الراديو 9090 FM (480p)", "موسیقى", "logo_url", "v|https://9090video.mobtada.com/hls/stream.m3u8|سيرفر1"],
+  ["إيمان تي في (1080p)", "عائلة", "logo_url", "v|https://avr.host247.net/live/emantv/playlist.m3u8|سيرفر1"],
+  ["فيروز (1080p)", "موسیقى", "logo_url", "v|https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8|سيرفر1"],
+  ["الفلسطينية (1080p)", "موسیقى", "logo_url", "v|https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8|سيرفر1"],
+  ["إف إكس 1", "ترفيه", "logo_url", "v|https://fxtvhls.wns.live/hls/stream.m3u8|سيرفر1"],
+  ["إف إكس 2", "ترفيه", "logo_url", "v|https://toonixhls.wns.live/hls/stream.m3u8|سيرفر1"],
+  ["هدف زون (1080p)", "رياضة", "logo_url", "v|https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8|سيرفر1"],
+  ["إذاعة القرآن الكريم نابلس (720p)", "ديني", "logo_url", "v|http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8|سيرفر1"],
+  ["آي فيلم عربي", "أفلام", "logo_url", "v|https://live.presstv.ir/hls/ifilmar.m3u8|سيرفر1"],
+  ["آي نيوز (1080p)", "أخبار", "logo_url", "v|https://live.i-news.tv/hls/stream.m3u8|سيرفر1"],
+  ["اقرأ أفريقيا وأوروبا (1080p)", "ديني", "logo_url", "v|https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8|سيرفر1"],
+  ["اقرأ العربية (1080p)", "ديني", "logo_url", "v|https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8|سيرفر1"],
+  ["اقرأ القرآن (1080p)", "ديني", "logo_url", "v|https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8|سيرفر1"],
+  ["إيران برس", "أخبار", "logo_url", "v|https://live.presstv.ir/hls/presstv_5_482/index.m3u8|سيرفر1"],
+  ["عراق المستقبل (480p)", "عام", "logo_url", "v|https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8|سيرفر1"],
+  ["إذاعة جدة (1080p)", "موسیقى", "logo_url", "v|https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/playlist.m3u8|سيرفر1"],
+  ["أرشيف الأردن (1080p)", "غير مصنف", "logo_url", "v|https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8|سيرفر1"],
+  ["الأردن الكوميدي (1080p)", "كوميديا", "logo_url", "v|https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8|سيرفر1"],
+  ["الأردن دراما (1080p)", "غير مصنف", "logo_url", "v|https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8|سيرفر1"],
+  ["الأردن للطبخ (1080p)", "طبخ", "logo_url", "v|https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8|سيرفر1"],
+  ["أغاني الأردن (1080p)", "موسیقى", "logo_url", "v|https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8|سيرفر1"],
+  ["الأردن الرياضية (1080p)", "رياضة", "logo_url", "v|http://93.184.10.248/JordanSport/index.m3u8|سيرفر1"],
+  ["الأردن الرياضية (1080p) [محجوبة جغرافياً]", "رياضة", "logo_url", "v|https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8|سيرفر1"],
+  ["الأردن للسياحة (1080p)", "غير مصنف", "logo_url", "v|https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8|سيرفر1"],
+  ["القناة الأردنية الفضائية (1080p)", "عام", "logo_url", "v|https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8|سيرفر1"],
+  ["الكويت الإخبارية (1080p)", "أخبار", "logo_url", "v|https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8|سيرفر1"],
+  ["الكويت الإخبارية (360p)", "أخبار", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8|سيرفر1"],
+  ["الكويت الرياضية (1080p)", "رياضة", "logo_url", "v|https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8|سيرفر1"],
+  ["الكويت الرياضية بلاس (1080p)", "رياضة", "logo_url", "v|https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8|سيرفر1"],
+  ["ماجد المهندس (1080p)", "موسیقى", "logo_url", "v|https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8|سيرفر1"],
+  ["مكة تي في (576p)", "ديني", "logo_url", "v|https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8|سيرفر1"],
+  ["مارينا (1080p)", "موسیقى", "logo_url", "v|https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8|سيرفر1"],
+  ["المرجعية عربي (1080p)", "ديني", "logo_url", "v|https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8|سيرفر1"],
+  ["المرجعية فارسي (240p)", "ديني", "logo_url", "v|https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8|سيرفر1"],
+  ["MBC 1 (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8|سيرفر1"],
+  ["MBC 1 مصر (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8|سيرفر1"],
+  ["MBC 4 (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8|سيرفر1"],
+  ["MBC 5 (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8|سيرفر1"],
+  ["MBC بوليوود (1080p) [محجوبة جغرافياً]", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8|سيرفر1"],
+  ["MBC دراما (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8|سيرفر1"],
+  ["MBC FM (1080p)", "MBC", "logo_url", "v|https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8|سيرفر1"],
+  ["MBC FM (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8|سيرفر1"],
+  ["MBC عراق (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8|سيرفر1"],
+  ["MBC مصر 2 (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8|سيرفر1"],
+  ["MBC مصر (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8|سيرفر1"],
+  ["MBC مصر دراما (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8|سيرفر1"],
+  ["MBC فارسيا (1080p)", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8|سيرفر1"],
+  ["MBC فارسيا (720p)", "MBC", "logo_url", "v|https://hls.mbcpersia.live/hls/stream.m3u8|سيرفر1"],
+  ["MBC+ دراما (1080p)", "أفلام", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8|سيرفر1"],
+  ["ميكس هوليوود (1080p)", "أفلام", "logo_url", "v|https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8|سيرفر1"],
+  ["ميكس كوردي (1080p)", "عائلة", "logo_url", "v|https://avr.host247.net/live/Mix-kurdy/playlist.m3u8|سيرفر1"],
+  ["محمد عبده (1080p)", "موسیقى", "logo_url", "v|https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8|سيرفر1"],
+  ["أفلام أكشن (1080p)", "أفلام", "logo_url", "v|https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8|سيرفر1"],
+  ["أفلام إثارة (1080p)", "أفلام", "logo_url", "v|https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8|سيرفر1"],
+  ["قناة مساواة (1080p)", "عام", "logo_url", "v|https://pbc.furrera.ps/musawahd/index.m3u8|سيرفر1"],
+  ["نداء الإسلام راديو (1080p)", "موسیقى", "logo_url", "v|https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8|سيرفر1"],
+  ["نجوم إف إم تي في (672p)", "موسیقى", "logo_url", "v|https://nogoumtv.nrpstream.com/hls/stream.m3u8|سيرفر1"],
+  ["فلسطين التعليمية (1080p)", "تعليم", "logo_url", "v|https://pbc.furrera.ps/PalestineEDU/index.m3u8|سيرفر1"],
+  ["فلسطين المباشر (1080p)", "عام", "logo_url", "v|https://pbc.furrera.ps/palestinelivehd/index.m3u8|سيرفر1"],
+  ["القناة الفلسطينية الفضائية (1080p)", "عام", "logo_url", "v|https://pbc.furrera.ps/palestinehd/index.m3u8|سيرفر1"],
+  ["القناة الفلسطينية الفضائية (360p)", "عام", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8|سيرفر1"],
+  ["فلسطين اليوم (480p) [محجوبة جغرافياً]", "أخبار", "logo_url", "v|https://live.paltodaytv.com/paltv/live/playlist.m3u8|سيرفر1"],
+  ["بانوراما إف إم (1080p)", "موسیقى", "logo_url", "v|https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8|سيرفر1"],
+  ["بانوراما إف إم (1080p)", "موسیقى", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8|سيرفر1"],
+  ["قطر تي في 2 (720p)", "عام", "logo_url", "v|https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8|سيرفر1"],
+  ["قطر تي في (1080p)", "عام", "logo_url", "v|https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8|سيرفر1"],
+  ["إذاعة القرآن الكريم (1080p)", "غير مصنف", "logo_url", "v|https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8|سيرفر1"],
+  ["رابح صقر (1080p)", "موسیقى", "logo_url", "v|https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8|سيرفر1"],
+  ["راديو البلد تي في (720p)", "عام", "logo_url", "v|http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8|سيرفر1"],
+  ["راديو البلد تي في (576p)", "عام", "logo_url", "v|https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8|سيرفر1"],
+  ["راديو فن الأردن (1080p)", "غير مصنف", "logo_url", "v|http://45.63.116.205/hls2/stream1.m3u8|سيرفر1"],
+  ["راديو يقين الأردن (1080p)", "غير مصنف", "logo_url", "v|http://45.63.116.205/hls4/stream1.m3u8|سيرفر1"],
+  ["راجين تي في (1080p)", "غير مصنف", "logo_url", "v|https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8|سيرفر1"],
+  ["راشد الماجد (1080p)", "موسیقى", "logo_url", "v|https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8|سيرفر1"],
+  ["رسول الله تي في (1080p)", "ديني", "logo_url", "v|https://avr.host247.net/live/rasoulallahtv/playlist.m3u8|سيرفر1"],
+  ["روجافا تي في (1080p)", "عام", "logo_url", "v|https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8|سيرفر1"],
+  ["رؤيا الكوميدي (1080p)", "كوميديا", "logo_url", "v|https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8|سيرفر1"],
+  ["رؤيا دراما (1080p)", "مسلسلات", "logo_url", "v|https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8|سيرفر1"],
+  ["رؤيا كيدز", "أطفال", "logo_url", "v|https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8|سيرفر1"],
+  ["رؤيا كيدز الأصلية (1080p)", "أطفال", "logo_url", "v|https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8|سيرفر1"],
+  ["رؤيا للطبخ (1080p)", "طبخ", "logo_url", "v|https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8|سيرفر1"],
+  ["الإذاعة السعودية (1080p)", "غير مصنف", "logo_url", "v|https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8|سيرفر1"],
+  ["السعودية الثقافية (1080p)", "ثقافة", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8|سيرفر1"],
+  ["إس بي سي (1080p)", "عام", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8|سيرفر1"],
+  ["شباب إف إم (720p)", "غير مصنف", "logo_url", "v|https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8|سيرفر1"],
+  ["شمس تي في (1080p)", "أخبار", "logo_url", "v|https://stream.shams.tv/hls/stream.m3u8|سيرفر1"],
+  ["الشارقة إذاعة القرآن (1080p)", "ديني", "logo_url", "v|https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8|سيرفر1"],
+  ["الشارقة (1080p)", "ديني", "logo_url", "v|https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8|سيرفر1"],
+  ["الشارقة (1080p)", "ديني", "logo_url", "v|https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8|سيرفر1"],
+  ["الشارقة (360p)", "ديني", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8|سيرفر1"],
+  ["سكاي نيوز عربية (1080p)", "أخبار", "logo_url", "v|https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8|سيرفر1"],
+  ["سكاي نيوز عربية (1080p)", "أخبار", "logo_url", "v|https://stream.skynewsarabia.com/ott/ott.m3u8|سيرفر1"],
+  ["سكاي نيوز عربية (720p)", "أخبار", "logo_url", "v|https://stream.skynewsarabia.com/hls/sna.m3u8|سيرفر1"],
+  ["سكاي نيوز عربية عمودي (1280p)", "أخبار", "logo_url", "v|https://stream.skynewsarabia.com/vertical/vertical.m3u8|سيرفر1"],
+  ["سكاي نيوز عربية عمودي (1080p)", "أخبار", "logo_url", "v|https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8|سيرفر1"],
+  ["سبيستون عربي (1080p)", "رسوم متحركة;أطفال", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8|سيرفر1"],
+  ["طرب (1080p)", "موسیقى", "logo_url", "v|https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8|سيرفر1"],
+  ["VOX1", "ترفيه", "logo_url", "v|https://hls.vox1.live/hls/stream.m3u8|سيرفر1"],
+  ["وناسة (1080p)", "موسیقى", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8|سيرفر1"],
+  ["وطن تي في (1080p)", "عام", "logo_url", "v|https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8|سيرفر1"],
+  ["زاغروس (720p)", "عام", "logo_url", "v|https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8|سيرفر1"],
+  ["وتر راديو (1080p)", "غير مصنف", "logo_url", "v|https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8|سيرفر1"],
+  ["MBC 3", "MBC", "logo_url", "v|https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8|سيرفر1"],
+  ["القمر (1080p)", "غير مصنف", "logo_url", "v|https://streamer3.premio.link/alqamar/playlist.m3u8|سيرفر1"],
+  ["الريان القديم (1080p)", "عام", "logo_url", "v|https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8|سيرفر1"],
+  ["الريان (1080p)", "عام", "logo_url", "v|https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8|سيرفر1"],
+  ["الجوادين (1080p)", "ديني", "logo_url", "v|https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8|سيرفر1"],
+  ["الجزيرة (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8|سيرفر1"],
+  ["الجزيرة (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8|سيرفر1"],
+  ["الجزيرة (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8|سيرفر1"],
+  ["الجزيرة الإنجليزية (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8|سيرفر1"],
+  ["الجزيرة الإنجليزية (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8|سيرفر1"],
+  ["الجزيرة عربي (1080p)", "أخبار", "logo_url", "v|https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8|سيرفر1"],
+  ["الجزيرة (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8|سيرفر1"],
+  ["الجزيرة عربي (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-aja.getaj.net/AJA/index.m3u8|سيرفر1"],
+  ["الجزيرة الإنجليزية (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8|سيرفر1"],
+  ["الجزيرة الإنجليزية", "أخبار", "logo_url", "v|https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8|سيرفر1"],
+  ["الجزيرة", "أخبار", "logo_url", "v|https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8|سيرفر1"],
+  ["الجزيرة الوثائقية (1080p) [محجوبة جغرافياً]", "وثائقي", "logo_url", "v|https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8|سيرفر1"],
+  ["الجزيرة الوثائقية (1080p) [محجوبة جغرافياً]", "وثائقي", "logo_url", "v|https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8|سيرفر1"],
+  ["الجزيرة الوثائقية (1080p) [محجوبة جغرافياً]", "وثائقي", "logo_url", "v|https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8|سيرفر1"],
+  ["الجزيرة الوثائقية (1080p) [محجوبة جغرافياً]", "وثائقي", "logo_url", "v|https://live-hls-web-ajd.getaj.net/AJD/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر 24 (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر 24 (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر 24 (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-ajm.getaj.net/AJM/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر 2 (1080p)", "أخبار", "logo_url", "v|https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر 2 (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8|سيرفر1"],
+  ["الجزيرة مباشر 2 (1080p)", "أخبار", "logo_url", "v|https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8|سيرفر1"],
+  ["المعارف (1080p)", "ديني", "logo_url", "v|https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8|سيرفر1"],
+  ["المدينة (720p)", "غير مصنف", "logo_url", "v|https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8|سيرفر1"],
+  ["المسيرة (720p)", "أخبار", "logo_url", "v|https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8|سيرفر1"],
+  ["النجاح نيوز (720p)", "أخبار", "logo_url", "v|https://streaming.najah.edu:8443/hls/AlNajah.m3u8|سيرفر1"],
+  ["القرآن الكريم (1080p)", "ديني", "logo_url", "v|https://ktvlive.online/stream/hls/ch1.m3u8|سيرفر1"],
+  ["القرآن الكريم (360p)", "ديني", "logo_url", "v|https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8|سيرفر1"],
+  ["الساحات (720p)", "ديني", "logo_url", "v|https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8|سيرفر1"]
 ]
