@@ -1,9 +1,6 @@
 [
 ["Super Sport", "https://stream.veo.buzz:6050/sport/ch3/ch3_360.m3u8","رياضة","v"],
-["كأس العالم" ,"https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/NwhlonvK2Z5geeyfmo6FaUhJu2aQobwruLtRhqpfLrOM1JUB_eCvrijQ-GVfA7SC_b_01QwMrRjTkrksJLScJA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live","كرة قدم", "v"],
- ["كأس العالم" ,"https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VFj0YRcRrwWR0kVFhyYJx24fwSDiQHpmybIgS_4is-EOeBNvlF7PGV29K5RZjhjZkx1zXQhBcMTy9eqraC6CYw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live","كرة قدم", "v"],
 ["كأس العالم" ,"https://p4.panda-hd.online/albaplayer/extra-2/?serv=1","كرة قدم", "i"],
-["كأس العالم" ,"https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VFj0YRcRrwWR0kVFhyYJx24fwSDiQHpmybIgS_4is-EOeBNvlF7PGV29K5RZjhjZkx1zXQhBcMTy9eqraC6CYw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live","كرة قدم", "v"],
 ["كأس العالم" ,"https://www.krdtv.online/player/avasport","كرة قدم", "i"],
 ["كأس العالم" ,"https://cdn.karwan.tv/biner-zaxo/embed.html","كرة قدم", "i"],
 
