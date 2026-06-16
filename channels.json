@@ -1,10 +1,12 @@
 [
 ["Super Sport", "https://stream.veo.buzz:6050/sport/ch3/ch3_360.m3u8","رياضة","v"],
-["كأس العالم" ,"https://tv.muesra.sbs/albaplayer/ferancz/","كرة قدم", "i"],
-  
-["كأس العالم" ,"https://39.256529.sbs/albaplayer/ch1/","كرة قدم", "i"],
-["كأس العالم 2" ,"https://zz.depoooo.com/albaplayer/bein-1/?serv=1","كرة قدم", "i"], 
-["8 كأس العالم" ,"https://zz.depoooo.com/albaplayer/bein-2/","كرة قدم", "i"],  
+["كأس العالم-1" ,"https://tv.muesra.sbs/albaplayer/ferancz/","كرة قدم", "i"],
+["كأس العالم-2" ,"https://5.kooralive360.com/albaplayer/bein-sports-hd-1/","كرة قدم", "i"],
+["كأس العالم-3" ,"https://39.256529.sbs/albaplayer/ch1","كرة قدم", "i"],
+ ["كأس العالم-4" ,"https://s19.yalla-sport.top/ch/ch1.php","كرة قدم", "i"],
+["كأس العالم-5" ,"https://39.256529.sbs/albaplayer/ch1/","كرة قدم", "i"],
+["كأس العالم-6 " ,"https://zz.depoooo.com/albaplayer/bein-1/?serv=1","كرة قدم", "i"], 
+[" كأس العالم-7" ,"https://zz.depoooo.com/albaplayer/bein-2/","كرة قدم", "i"],  
 ["beIN Sport 1 (event)", "http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8", "كرة قدم","v"],  
 ["beIN Sport 2 (event)", "http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8", "كرة قدم","v"],  
 ["beIN Sport 3 (event)", "http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8", "كرة قدم","v"],  
