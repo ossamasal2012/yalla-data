@@ -1,5 +1,6 @@
 [
     ["TEST  ", "http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts", "كرة قدم","v"],  
+    ["TEST  ", "http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798792&extension=ts", "كرة قدم","v"],  
 
 ["beIN Sport  ", "https://adam-bein.vercel.app/api/channel?ch=beeein", "كرة قدم","v"],  
 ["beIN Sport News ", "https://adam-bein.vercel.app/api/channel?ch=beeenews", "كرة قدم","v"],    
