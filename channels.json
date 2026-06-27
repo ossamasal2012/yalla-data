@@ -1,7 +1,7 @@
 [
- [ "test ", "https://ex.moorarts.xyz/diluoe1_720/index.m3u8", "كرة قدم","v"],  
- [ "test ", "https://as.voodevon.xyz/noozile2_720/index.m3u8", "كرة قدم","v"],  
- [ "test ", "https://as.voodevon.xyz/noozile2.m3u8", "كرة قدم","v"],     
+ [ "koora city 1", "https://ex.moorarts.xyz/diluoe1_720/index.m3u8", "كرة قدم","v"],  
+ [ "koora city 2", "https://as.voodevon.xyz/noozile2_720/index.m3u8", "كرة قدم","v"],  
+ [ "koora city 3", "https://as.voodevon.xyz/noozile2.m3u8", "كرة قدم","v"],     
 [ "test ", "http://line.iptventes.site/live/0034760186/e698e4249843/1862038.ts", "كرة قدم","v"],  
 ["beIN Sport  ", "https://adam-bein.vercel.app/api/channel?ch=beeein", "كرة قدم","v"],  
 ["beIN Sport News ", "https://adam-bein.vercel.app/api/channel?ch=beeenews", "كرة قدم","v"],    
