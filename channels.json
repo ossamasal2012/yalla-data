@@ -3,11 +3,17 @@
  [ "koora city 2", "https://as.voodevon.xyz/noozile2_720/index.m3u8", "كرة قدم","v"],  
  [ "koora city 3", "https://as.voodevon.xyz/noozile2.m3u8", "كرة قدم","v"],     
 [ "koora city 4", "https://ex.moorarts.xyz/diluoe1_720/index.m3u8", "كرة قدم","v"], 
-  [ "koora city 5", "https://ex.moorarts.xyz/diluoe1_480/index.m3u8", "كرة قدم","v"],    
+  [ "koora city 5", "https://ex.moorarts.xyz/diluoe1_480/index.m3u8", "كرة قدم","v"],
+ ["BeIN Sport MAX 1", "https://stream.camcloud.stream/stream/9c78c4827f59/playlist.m3u8", "كرة قدم","v"],  
+["BeIN Sport MAX 1", "https://stream.camcloud.stream/stream/769f5148143e/playlist.m3u8", "كرة قدم","v"],  
+["BeIN Sport MAX 1", "https://stream.camcloud.stream/stream/9b108ca51de9/playlist.m3u8", "كرة قدم","v"],  
+["BeIN Sport MAX 2", "https://stream.camcloud.stream/stream/a8bcbb987552/playlist.m3u8", "كرة قدم","v"],  
+["BeIN Sport MAX 2", "https://stream.camcloud.stream/stream/ee077fee33a0/playlist.m3u8", "كرة قدم","v"],  
+["BeIN Sport MAX 2", "https://stream.camcloud.stream/stream/5f2ff374bad1/playlist.m3u8", "كرة قدم","v"],  
+
 ["BeIN Sport MAX 3 ", "https://stream.camcloud.stream/stream/56681b810c24/playlist.m3u8", "كرة قدم","v"],  
  ["BeIN Sport MAX 3 ", "https://stream.camcloud.stream/stream/98dd299e7ae3/playlist.m3u8", "كرة قدم","v"],  
 ["BeIN Sport MAX 3 ", "https://stream.camcloud.stream/stream/2374d9843dd4/playlist.m3u8", "كرة قدم","v"],  
- [ "test ", "", "كرة قدم","v"], 
 
 
 
