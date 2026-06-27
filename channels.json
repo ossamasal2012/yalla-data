@@ -4,8 +4,11 @@
  [ "koora city 3", "https://as.voodevon.xyz/noozile2.m3u8", "كرة قدم","v"],     
 [ "koora city 4", "https://ex.moorarts.xyz/diluoe1_720/index.m3u8", "كرة قدم","v"], 
   [ "koora city 5", "https://ex.moorarts.xyz/diluoe1_480/index.m3u8", "كرة قدم","v"],    
- [ "test ", "https://stream.camcloud.stream/stream/56681b810c24/playlist.m3u8", "كرة قدم","v"],  
- [ "test ", "", "كرة قدم","v"],  
+["BeIN Sport MAX 3 ", "https://stream.camcloud.stream/stream/56681b810c24/playlist.m3u8", "كرة قدم","v"],  
+ ["BeIN Sport MAX 3 ", "https://stream.camcloud.stream/stream/98dd299e7ae3/playlist.m3u8", "كرة قدم","v"],  
+["BeIN Sport MAX 3 ", "https://stream.camcloud.stream/stream/2374d9843dd4/playlist.m3u8", "كرة قدم","v"],  
+ [ "test ", "", "كرة قدم","v"], 
+
 
 
 ["beIN Sport  ", "https://adam-bein.vercel.app/api/channel?ch=beeein", "كرة قدم","v"],  
