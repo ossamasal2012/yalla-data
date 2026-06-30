@@ -15,29 +15,11 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 2 (linkip)",
-        "u": "https://stm.linkip.org/live/1956_.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 3 (API)",
+
+        "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
         "t": "v"
-      },
-      {
-        "n": "سيرفر 4 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/a8bcbb987552/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 5 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/ee077fee33a0/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 6 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/5f2ff374bad1/playlist.m3u8",
-        "t": "v"
+
       }
     ]
   },
@@ -47,7 +29,7 @@
     "s": [
       {
 
-        "n": "سيرفر 2 (API)",
+        "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beeein",
         "t": "v"
       }
@@ -85,20 +67,7 @@
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax4",
         "t": "v"
       },
-      {
-        "n": "سيرفر 2 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/490a4e58f0da/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 3 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/686be4c2621d/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 4 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/0f7ca424775d/playlist.m3u8",
-        "t": "v"
+
       }
     ]
   },
