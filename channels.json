@@ -4,28 +4,8 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 (linkip)",
-        "u": "https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1957_.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 (API)",
-        "u": "https://stream.camcloud.stream/stream/9b108ca51de9/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 3 (camcloud)",
+        "n": "سيرفر 1 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 4 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/769f5148143e/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 5 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/9c78c4827f59/playlist.m3u8",
         "t": "v"
       }
     ]
@@ -34,11 +14,6 @@
     "n": "BeIN Sport MAX 2",
     "c": "كرة قدم",
     "s": [
-      {
-        "n": "سيرفر 1 (linkip)",
-        "u": "https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1956_.m3u8",
-        "t": "v"
-      },
       {
         "n": "سيرفر 2 (linkip)",
         "u": "https://stm.linkip.org/live/1956_.m3u8",
@@ -71,11 +46,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 (linkip)",
-        "u": "https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1953_.m3u8",
-        "t": "v"
-      },
-      {
+
         "n": "سيرفر 2 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beeein",
         "t": "v"
@@ -86,11 +57,6 @@
     "n": "beIN Sport News",
     "c": "كرة قدم",
     "s": [
-      {
-        "n": "سيرفر 1 (linkip)",
-        "u": "https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1952_.m3u8",
-        "t": "v"
-      },
       {
         "n": "سيرفر 2 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beeenews",
@@ -106,21 +72,7 @@
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax3",
         "t": "v"
-      },
-      {
-        "n": "سيرفر 2 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/56681b810c24/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 3 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/98dd299e7ae3/playlist.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 4 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/2374d9843dd4/playlist.m3u8",
-        "t": "v"
+
       }
     ]
   },
