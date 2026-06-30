@@ -10,7 +10,7 @@
       },
       {
         "n": "سيرفر 2 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
+        "u": "https://stream.camcloud.stream/stream/9b108ca51de9/playlist.m3u8",
         "t": "v"
       },
       {
@@ -25,7 +25,7 @@
       },
       {
         "n": "سيرفر 5 (camcloud)",
-        "u": "https://stream.camcloud.stream/stream/9b108ca51de9/playlist.m3u8",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
       }
     ]
