@@ -603,8 +603,7 @@
       {
         "n": "سيرفر 1",
         "u": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
-                  "t": "v"
-
+        "t": "v"
       }
     ]
   },
@@ -716,8 +715,6 @@
         "n": "سيرفر 1",
         "u": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"        
                   "t": "v"
-
-
       }
     ]
   },
