@@ -28,12 +28,12 @@
     "s": [
       {
         "n": "سيرفر 1 ",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
+        "u": "https://kid-1gh.pages.dev/kid1.m3u8",
         "t": "v"
-      } 
+        }, 
         {
         "n": "سيرفر 2 ",
-        "u": "https://kid-1gh.pages.dev/kid1.m3u8",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
       }
     ]
