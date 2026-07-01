@@ -45,9 +45,13 @@
       {
 
         "n": "سيرفر 1 (API)",
+        "u": "https://kid-1gh.pages.dev/kid2.m3u8",
+        "t": "v"
+           }, 
+        {
+        "n": "سيرفر 2 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
         "t": "v"
-
       }
     ]
   },
@@ -57,6 +61,11 @@
     "s": [
       {
         "n": "سيرفر 1 (API)",
+        "u": "https://kid-1gh.pages.dev/kid3.m3u8",
+        "t": "v"
+           }, 
+        {
+        "n": "سيرفر 2 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax3",
         "t": "v"
 
@@ -69,6 +78,11 @@
     "s": [
       {
         "n": "سيرفر 1 (API)",
+        "u": "https://kid-1gh.pages.dev/kid4.m3u8",
+        "t": "v"
+           }, 
+        {
+        "n": "سيرفر 2 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax4",
         "t": "v"
       }
