@@ -604,6 +604,7 @@
         "n": "سيرفر 1",
         "u": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
         "t": "v"
+
       }
     ]
   },
@@ -624,7 +625,7 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
                   "t": "v"
 
       }
@@ -635,7 +636,7 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
                   "t": "v"
 
       }
@@ -646,7 +647,7 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
                   "t": "v"
 
       }
@@ -668,7 +669,7 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
+        "u": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
                   "t": "v"
 
       }
@@ -679,7 +680,7 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8"
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
                   "t": "v"
 
       }
@@ -690,7 +691,7 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
                   "t": "v"
 
       }
@@ -698,12 +699,12 @@
   },
 
   {
-     "n": "MBC عراق",
-     "s": [
+    "n": "MBC عراق",
+    "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8"
-        "t": "v"
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+                  "t": "v"
 
       }
     ]
@@ -713,8 +714,10 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"        
+        "u": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",        
                   "t": "v"
+
+
       }
     ]
   },
@@ -723,7 +726,7 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
                   "t": "v"
 
       }
