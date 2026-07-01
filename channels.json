@@ -1,34 +1,5 @@
 [
-  {
-    "n": "BeIN Sport MAX 1",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1 ",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 ",
-        "u": "https://majed-koora.co/stream.php?channel=majed99991a&file=stream.m3u8",
-        "t": "v"
-      } 
-    ]
-  },
-  {
-    "n": "BeIN Sport MAX 2",
-    "c": "كرة قدم",
-    "s": [
-      {
-
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
-        "t": "v"
-
-      }
-    ]
-  },
-  {
+    {
     "n": "beIN Sport",
     "c": "كرة قدم",
     "s": [
@@ -48,6 +19,30 @@
         "n": "سيرفر 2 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beeenews",
         "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "BeIN Sport MAX 1",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 ",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
+        "t": "v"
+      } 
+    ]
+  },
+  {
+    "n": "BeIN Sport MAX 2",
+    "c": "كرة قدم",
+    "s": [
+      {
+
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
+        "t": "v"
+
       }
     ]
   },
