@@ -1,4 +1,48 @@
 [
+        {
+    "n": "بث مباريات كاس العالم",
+    "c": "كرة قدم",
+    "s": [
+      {
+
+        "n": " سيرفر 1",
+        "u": "https://live3.wegoal5.win/BMax2-4/index.m3u8",
+        "t": "v"
+           }, 
+        {
+            "n": "سيرفر 2 ",
+        "u": "https://sh.kooraa36.cfd/endroom1.m3u8",
+        "t": "v"
+                   }, 
+        {
+            "n": "سيرفر 3 ",
+        "u": "https://sh.kooraa36.cfd/endroom1_720/index.m3u8",
+        "t": "v"
+                   }, 
+        {
+            "n": "سيرفر 4 ",
+        "u": "https://live3.wegoal5.win/BMax2-4/index.m3u8",
+        "t": "v"
+                   }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+        "t": "v"
+                   }, 
+        {
+            "n": "سيرفر 6 ",
+        "u": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
+        "t": "v"
+                   }, 
+        {
+            "n": "سيرفر 7 ",
+        "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+
+  
     {
     "n": "beIN Sport",
     "c": "كرة قدم",
