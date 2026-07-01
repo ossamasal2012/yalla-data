@@ -2212,17 +2212,6 @@
     ]
   },
   {
-    "n": "MBC 3",
-    "c": "MBC",
-    "s": [
-      {
-        "n": "سيرفر 1 (edgenextcdn)",
-        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
     "n": "Al Qamar TV (1080p)",
     "c": "غير مصنف",
     "s": [
