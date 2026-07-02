@@ -1,5 +1,17 @@
 [
         {
+    "n": "الوان الرياضية",
+    "c": "كرة قدم",
+    "s": [
+      {
+
+        "n": " سيرفر 1",
+        "u": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/trSLNUb9xrRbJRQ7_8KkyCMOtmA1N-481FS0HCNxD5-KPbVosJPn0nyzSpBhmqfxQRTr8v6jZ2E0kcw1ccDJVA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
+        "t": "v"
+        }
+    ]
+  },          
+        {
     "n": "بث مباريات كاس العالم",
     "c": "كرة قدم",
     "s": [
