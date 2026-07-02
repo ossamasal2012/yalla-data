@@ -16,6 +16,12 @@
     "c": "كرة قدم",
     "s": [
       {
+              "n": " سيرفر 0",
+        "u": "https://player.twitch.tv/?channel=mamam991&locale=ar&parent=mysportv.live",
+        "t": "i"
+           }, 
+        {
+              
 
         "n": " سيرفر 1",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
