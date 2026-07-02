@@ -6,7 +6,7 @@
       {
 
         "n": " سيرفر 1",
-        "u": "https://live3.wegoal5.win/BMax2-4/index.m3u8",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
         "t": "v"
            }, 
         {
@@ -24,6 +24,35 @@
         "u": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
         "t": "v"
                    }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
+        "t": "v"
+                 }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beemax4",
+        "t": "v" }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
+        "t": "v" }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
+        "t": "v" }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
+        "t": "v" }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
+        "t": "v" }, 
+        {
+            "n": "سيرفر 5 ",
+        "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
+        "t": "v" }, 
         {
             "n": "سيرفر 5 ",
         "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
