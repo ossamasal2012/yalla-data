@@ -40,13 +40,13 @@
         {
             "n": "سيرفر 8 ",
         "u": "http://lookprotvappfree.mytunnel.org:8080/memfs/6448db21-165e-4b04-8aa5-aefa291b1c5a.m3u8",
-        "t": "v" }, 
-        {
+        "t": "v"
+        }, 
+                {
             "n": "سيرفر 9 ",
-        "u": "https://majed-koora.co/stream.php?channel=mamam991&file=stream.m3u8",
-        "t": "v" 
-        
-     }
+            "u": "https://majed-koora.co/stream.php?channel=mamam991&file=stream.m3u8",
+            "t": "v"
+        }
     ]
   },
     {
