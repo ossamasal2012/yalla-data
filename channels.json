@@ -936,6 +936,17 @@
         "u": "https://adam-bein.vercel.app/api/channel?ch=mbcmax",
         "t": "v"
       }
+             {
+    "n": "Al Rasheed TV (1080p) [ليس 24/7]",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (Livaat)",
+        "u": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
     ]
   },
   {
