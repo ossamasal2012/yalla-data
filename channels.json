@@ -452,6 +452,28 @@
       }
     ]
   },
+        {
+    "n": "Al Iraqia (1080p)",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (esite-lab)",
+        "u": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Iraqia News (720p)",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (esite-lab)",
+        "u": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
+        "t": "v"
+      }
+    ]
+  },
   {
     "n": "Al Iraqia Sport (720p)",
     "c": "كرة قدم",
