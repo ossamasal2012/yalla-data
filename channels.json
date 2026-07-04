@@ -34,6 +34,11 @@
          "n": " سيرفر 3",
          "u": "https://lbgo.bozztv.com/ssh101/ssh101/yusfstore/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
+                  }, 
+        {
+         "n": " سيرفر 4",
+         "u": "live-aburayhan1111.telewebion.ir/ar/faratar/live/1440p/index.m3u8",
+        "t": "v"
                 
         }
     ]
