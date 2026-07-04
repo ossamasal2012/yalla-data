@@ -65,61 +65,36 @@
     "c": "كرة قدم",
     "s": [
       {
-              "n": " سيرفر سريع",
-         "u": "https://h21.ctv-redirect.site/2203124/66125083692/index.m3u8",
-        "t": "v"
-           }, 
-        {
-         "n": " سيرفر FHD",
-         "u": "https://majed-koora.co/stream.php?channel=mamam991&file=stream.m3u8",
-        "t": "v"
-           }, 
-        {
+              
+        
 
         "n": " سيرفر 1",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
         "t": "v"
            }, 
         {
+           
             "n": "سيرفر 2 ",
-        "u": "https://live3.wegoal5.win/BMax2-4/index.m3u8",
-        "t": "v"
-                   }, 
-        {
-            "n": "سيرفر 3 ",
         "u": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
         "t": "v"
                    }, 
         {
-            "n": "سيرفر 4 ",
+            "n": "سيرفر 3 ",
         "u": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
         "t": "v"
                    }, 
         {
-            "n": "سيرفر 5 ",
+            "n": "سيرفر 4 ",
         "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
         "t": "v"
                  }, 
         {
-            "n": "سيرفر 6 ",
+            "n": "سيرفر 5 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax4",
-        "t": "v" }, 
-        {
-            "n": "سيرفر 7 ",
-        "u": "http://lookprotvappfree.mytunnel.org:8080/memfs/9f872554-8fa9-42ba-b945-1e7db3aa8bf2.m3u8",
-        "t": "v" }, 
-        {
-            "n": "سيرفر 8 ",
-        "u": "http://lookprotvappfree.mytunnel.org:8080/memfs/6448db21-165e-4b04-8aa5-aefa291b1c5a.m3u8",
-        "t": "v"
-                }, 
-         {
-        "n": "سيرفر 9 ",
-        "u": "https://majed-koora.co/stream.php?channel=mamam991&file=stream.m3u8",
-        "t": "v"
+        "t": "v" 
         }
-    ]
-  },
+      ]
+    },
     {
     "n": "beIN Sport",
     "c": "كرة قدم",
