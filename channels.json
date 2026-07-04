@@ -71,9 +71,8 @@
         {
          "n": " سيرفر 4 (1080p) ",
          "u": "https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto",
-        "t": "v",
-        "a": "http://foxfm.xyz/4K-2/mpegts#",
-        "an": "تعليق عربي"
+        "t": "v"
+        
         }
     ]
   }, 
@@ -207,7 +206,9 @@
         {
         "n": "سيرفر 3 ",
         "u": "https://stm.linkip.org/live/1956_.m3u8",
-        "t": "v"
+        "t": "v"و
+        "a": "http://foxfm.xyz/4K-2/mpegts#",
+        "an": "تعليق عربي"         
              },
         {
         "n": "سيرفر 4 ",
