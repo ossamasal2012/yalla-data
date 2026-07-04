@@ -29,6 +29,11 @@
          "n": " سيرفر 3",
          "u": "https://lbgo.bozztv.com/ssh101/ssh101/yusfstore/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
+                 }, 
+        {
+         "n": " سيرفر 4 (4k) ",
+         "u": "https://lbgo.bozztv.com/ssh101/ssh101/yusfstore/chunks.m3u8?lb_backend_hint=7",
+        "t": "v"
         }
     ]
   }, 
