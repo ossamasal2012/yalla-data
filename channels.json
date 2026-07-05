@@ -1077,6 +1077,900 @@
       }
     ]
   },
+         
+  {
+    "n": "beIN Baraem HD",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhsfxcef3g2UlY1GAo/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Drama HD 1",
+    "c": "General",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGg7BRceAV1GEQQ2GHcRfQ/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Dream Works",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhse2lmXkwaDyAACndiFmsTCw/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Fatafeat HD",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhlcWFnXkwMChcPGXEWa3E/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Nat Geo Wild HD",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNNatGeoWildHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Outdoor",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGgfBRMeYwJCVABxKhJROnE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Series HD 1",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGgcChFjAABFXghwNmdjBnE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Series HD 2",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGg-cDRnDw1FVVUlOUNnFBp3Cw/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Disney Junior",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGg-cDRlVAwZVwBzFmJ9ZGsK/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL+",
+    "c": "Canal+ France",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CANAL/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL D",
+    "c": "Canal+ France",
+    "s": [
+      {
+        "n": "سيرفر 1 (probechef)",
+        "u": "http://3242ftgdgfdhtryt.probechef.net:8080/2287341/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL+ Sport",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZMXV9CgQGFxZkY2s/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL Vie HD",
+    "c": "Canal+ France",
+    "s": [
+      {
+        "n": "سيرفر 1 (billyphilly)",
+        "u": "http://stream.billyphilly.com/p/W10GdgR6VVY/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Chasse & Pêche",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CHASSE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Chérie 25",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CHERIE25/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Emotion HD",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CINEEMOTION/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Pop",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR1003/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Premier",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CINEPREMIER/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Frisson",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR1006/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "TF1",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-TF1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 2",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 3",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE3/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 4",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE4/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 5",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE5/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France Foot",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE0/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "W9",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/W9_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "6TER HD",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-6TERHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Paris Première",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-PARISPREMIERE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "City Montreal",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR1004/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Disney Channel FR",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-DISNEYCHANNEL/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Disney Cinema FR",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/DisneyCinema_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Disney Junior",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-DISNEYJR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Nickelodeon",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-NICKELODEON/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Teletoon FR",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-TELETOON/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Nat Geo FR",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/NATGEO_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Nat Geo Wild FR",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/NATGEO_WILD_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "History French",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (185.246.209.71)",
+        "u": "http://185.246.209.71:8080/3740877/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "RMC Sport 1",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZIFlQODg6NS0HGA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "RMC Sport 2",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZIFlQODg6NS0EGA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "RMC Sport 3",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZIFlQODg6NS0FGA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Série Club HD",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-SERIECLUB/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Série +",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (billyphilly)",
+        "u": "http://stream.billyphilly.com/p/UV0HcgJwU1Y/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ushuaïa",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-USHUAIA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Zeste",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR10017/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Action HD",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-ACTIONHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "AlBilad Algérie",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/AlBilad-ALG/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 1",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/alg1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 2",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2CanalAlgerieHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 3 A3",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/alg3/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Tamazight 4",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TV4/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 5 Quran",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TV5/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria TV 7",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TV7ELMAARIFA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Echorouk TV",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2EchoroukTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Echorouk News",
+    "c": "News",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2EchoroukNEWS/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Barlamaniya",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ElBarlamaniya/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Djazair N1",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ElDjazairN1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Hayat",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ELHAYATTVALGERIE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Wataniya",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ElwataniaAlgerie/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Heddaf",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ELHEDDAFTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ennahar",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2EnnaharTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Samira TV",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2SamiraTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Maroc Tamazight",
+    "c": "Maghreb",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2Tamazight/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Tunisia Wataniya",
+    "c": "Maghreb",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TunisiaNat1HD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Tunisia Wataniya 2",
+    "c": "Maghreb",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/satTunisiaNat2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "ON Time Sport HD",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/OzggeXsgLi8CDXVrAAp2bGdb/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  
+  {
+    "n": "MBC Plus",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap9/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Power",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap14/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Premium",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Premium 2",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Seven",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap5/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Ten",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap8/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Toon",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap17/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Variety+",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/3064/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Zoom",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap12/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Iraq HD",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCIRAQHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Masr",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMASR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Masr 2",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMasr2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Movies Action",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNACTIONHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Movies Family",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNFAMLY/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Movies First",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNMoviesFirst2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Showcase",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNMOVIESFIRST/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  }
+
   {
     "n": "Al Rasheed TV (1080p) [ليس 24/7]",
     "c": "عام",
