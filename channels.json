@@ -150,6 +150,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "https://ind.decentdoubts.net/m8n4rf6tGB65/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beeenews",
         "t": "v"
@@ -166,6 +171,11 @@
     "c": "كرة قدم",
     "s": [
       {
+               "n": "سيرفر رئيسي ",
+        "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
@@ -193,6 +203,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2dLfQ/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
 
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
@@ -220,6 +235,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax3",
         "t": "v"
@@ -241,6 +261,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax4",
         "t": "v"
@@ -257,6 +282,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://table.houseinventer.com/pdf/fGxnXkcRABYyNE0TfQ/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax5",
         "t": "v"
@@ -268,6 +298,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://table.houseinventer.com/pdf/cG5tXl8cAlZxKhAXJnE/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax6",
         "t": "v"
@@ -279,6 +314,32 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": " ENGLISH ",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGgncCxhWANNAAoFGXFhZ3E/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {  "n": "سيرفر رئيسي ",
+        "u": "https://ind.decentdoubts.net/7uyHHNNBB6tr9/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {  
+        "n": " ENGLISH ",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhtI286DlZABSoPaB1uGHE/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
+                  
+        "n": " فرنسي ",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhjcWoccUECBVYlaUYcITkK/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
+          
+        "n": "سيرفر وهمي ",
+        "u": "",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
         "t": "v"
@@ -290,6 +351,16 @@
     "c": "كرة قدم",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "",
+        "t": "v"
+        }, 
+        {
+                 "n": "1 سيرفر رئيسي ",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhtcGtnfnINCSAMZhIL/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
         "t": "v"
@@ -301,6 +372,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://ind.decentdoubts.net/184g7j2hd6s5/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
         "t": "v"
@@ -312,6 +388,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://ind.decentdoubts.net/m92h7g3dGG65/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
         "t": "v"
@@ -328,6 +409,7 @@
     "c": "كرة قدم",
     "s": [
       {
+             
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
         "t": "v"
@@ -339,6 +421,11 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر رئيسي ",
+        "u": "https://ind.decentdoubts.net/098b6n2v5GG5tR4/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
         "t": "v"
@@ -351,10 +438,16 @@
     ]
   },
   {
+            
     "n": "beIN Sport 7",
     "c": "كرة قدم",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "https://ind.decentdoubts.net/OQGB87j3v9x4b6hg/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee7",
         "t": "v"
