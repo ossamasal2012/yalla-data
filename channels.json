@@ -335,7 +335,7 @@
         }, 
         {
           
-        "n": "سيرفر وهمي ",
+        "n": "سيرفر رئيسي ",
         "u": "",
         "t": "v"
         }, 
@@ -915,8 +915,9 @@
     "c": "mbc",      
     "s": [
       {
+               
         "n": "سيرفر 1",
-        "u": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
+        "u": "http://cloth.orangecord.net/pdf/3050/index.m3u8?token==",
         "t": "v"
 
       }
@@ -927,6 +928,17 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC2/index.m3u8?token==",
+        "t": "v"
+         
+        }, 
+         {
+              "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3051/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=mbc2",
         "t": "v"
@@ -939,6 +951,16 @@
     "c": "mbc",       
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC3/index.m3u8?token==",
+        "t": "v"
+        }, 
+        { 
+                 "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3052/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
                   "t": "v"
@@ -951,6 +973,15 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC4/index.m3u8?token==",
+        "t": "v"
+        }, 
+        { "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3053/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
                   "t": "v"
@@ -963,6 +994,15 @@
     "c": "mbc",     
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC5/index.m3u8?token==",
+        "t": "v"
+        }, 
+        { "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3054/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
                   "t": "v"
@@ -975,6 +1015,15 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCAction/index.m3u8?token==",
+        "t": "v"
+        }, 
+        { "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3056/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=mbcaction",
         "t": "v"
@@ -986,6 +1035,11 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCDrama/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
                   "t": "v"
@@ -998,6 +1052,11 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3058/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
                   "t": "v"
@@ -1010,6 +1069,11 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCBollywood/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
                   "t": "v"
@@ -1026,6 +1090,12 @@
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
                   "t": "v"
+                 }, 
+        {
+       "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCIRAQHD/index.m3u8?token==",
+        "t": "v"
+      
 
       }
     ]
@@ -1035,6 +1105,11 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMASR/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",        
                   "t": "v"
@@ -1048,6 +1123,11 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMasr2/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1",
         "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
                   "t": "v"
@@ -1060,6 +1140,11 @@
     "c": "mbc",
     "s": [
       {
+                "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCMAX/index.m3u8?token==",
+        "t": "v"
+        }, 
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=mbcmax",
         "t": "v"
