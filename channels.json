@@ -44,6 +44,12 @@
          "n": " سيرفر 4",
          "u": "live-aburayhan1111.telewebion.ir/ar/faratar/live/1440p/index.m3u8",
         "t": "v"
+                   }, 
+        {
+         "n": " سيرفر 5",
+         "u": "http://141.147.77.69:8080/mo3ad1/mo3ad1.m3u8",
+        "t": "v"
+                
                 
         }
     ]
