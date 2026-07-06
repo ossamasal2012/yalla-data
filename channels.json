@@ -112,6 +112,21 @@
     "c": "كرة قدم",
     "s": [
       {
+        "n": "سيرفر buz cup 1",
+        "u": "https://buz-tv-live.s3.eu-central-1.amazonaws.com/max1/master.m3u8",
+        "t": "v"
+        }, 
+        {
+        "n": "سيرفر buz cup 2",
+        "u": "https://buz-tv-live.s3.eu-central-1.amazonaws.com/max2/master.m3u8",
+        "t": "v"
+        }, 
+        {
+        "n": "سيرفر buz cup 3",
+        "u": "https://buz-tv-live.s3.eu-central-1.amazonaws.com/max3/master.m3u8",
+        "t": "v"
+        }, 
+        {
         "n": " سيرفر 1",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
         "t": "v"
@@ -270,11 +285,7 @@
         "t": "v"
         }, 
         {
-        "n": "سيرفر buz cup ",
-        "u": "https://buz-tv-live.s3.eu-central-1.amazonaws.com/max2/master.m3u8",
-        "t": "v"
-        }, 
-        {
+     
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax4",
         "t": "v"
