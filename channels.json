@@ -256,6 +256,12 @@
     "c": "كرة قدم",
     "s": [
       {
+                 "n": "سيرفر buz cup ",
+        "u": "https://buz-tv-live.s3.eu-central-1.amazonaws.com/max2/master.m3u8",
+        "t": "v"
+        }, 
+        {
+               
                  "n": "سيرفر رئيسي ",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8?token==",
         "t": "v"
