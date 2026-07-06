@@ -58,10 +58,7 @@
         {
          "n": " سيرفر 6",
          "u": "https://cdntv.online/high/7jic59vkp2tz/1822.m3u8",
-        "t": "v"
-                
-                
-                
+        "t": "v"       
         }
     ]
   }, 
@@ -115,29 +112,25 @@
     "c": "كرة قدم",
     "s": [
       {
-              
-        
-
         "n": " سيرفر 1",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
         "t": "v"
            }, 
         {
-           
             "n": "سيرفر 2 ",
         "u": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
         "t": "v"
-                   }, 
+           }, 
         {
             "n": "سيرفر 3 ",
         "u": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
         "t": "v"
-                   }, 
+           }, 
         {
             "n": "سيرفر 4 ",
         "u": "https://1.simoplay.com/my-hls/0wo68p0w54v.m3u8",
         "t": "v"
-                 }, 
+           }, 
         {
             "n": "سيرفر 5 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax4",
@@ -220,7 +213,6 @@
         "t": "v"
         }, 
         {
-
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beemax2",
         "t": "v"
@@ -260,7 +252,7 @@
         "n": "سيرفر 2 ",
         "u": "https://kid-1gh.pages.dev/kid3.m3u8",
         "t": "v"
-                   }, 
+            }, 
         {
         "n": "سيرفر 3 ",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein3max/chunks.m3u8?lb_backend_hint=7",
@@ -272,19 +264,13 @@
     "n": "BeIN Sport MAX 4",
     "c": "كرة قدم",
     "s": [
-      {
-                 "n": "سيرفر buz cup ",
-        "u": "https://buz-tv-live.s3.eu-central-1.amazonaws.com/max2/master.m3u8",
-        "t": "v"
-        }, 
-        {
-               
+      {          
                  "n": "سيرفر رئيسي ",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8?token==",
         "t": "v"
         }, 
         {
-                      "n": "سيرفر buz cup ",
+        "n": "سيرفر buz cup ",
         "u": "https://buz-tv-live.s3.eu-central-1.amazonaws.com/max2/master.m3u8",
         "t": "v"
         }, 
