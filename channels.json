@@ -24,8 +24,13 @@
         "t": "v"
              }, 
         {
-         "n": " سيرفر 3",
+         "n": " سيرفر 4",
          "u": "https://player.twitch.tv/?channel=alimods12&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=0.5",
+        "t": "i"
+           }, 
+        {
+         "n": " سيرفر 5",
+         "u": "https://t.me/mmaailm?livestream",
         "t": "i"
                 
       }
