@@ -4,34 +4,25 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": " 0 سيرفر ",
+        "n": " 1 سيرفر ",
         "u": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Onm9V4xpHKtmibqJjU1k9naT5SsAX20jaf8x7GX_-slqwigGFX2iPP8BbSMYWvTRtTSIM4-JCuLM5cNtV7saCg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
         "t": "v"
                }, 
         {
-        "n": " 1 سيرفر ",
+        "n": " 2 سيرفر ",
         "u": "http://d1qofgnogc6weh.cloudfront.net/live/max1_720p.m3u8",
         "t": "v"
                }, 
         {
-         "n": " سيرفر 2",
+         "n": " سيرفر 3",
          "u": "http://d1qofgnogc6weh.cloudfront.net/live/max1_1080p.m3u8",
         "t": "v"
               }, 
         {
-         "n": " سيرفر 3",
+         "n": " سيرفر 4",
          "u": "http://d1qofgnogc6weh.cloudfront.net/live/max1_720p.m3u8",
         "t": "v"
-             }, 
-        {
-         "n": " سيرفر 4",
-         "u": "https://player.twitch.tv/?channel=alimods12&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=0.5",
-        "t": "i"
-           }, 
-        {
-         "n": " سيرفر 5",
-         "u": "https://t.me/mmaailm?livestream",
-        "t": "i"
+         
                 
       }
     ]
