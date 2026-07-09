@@ -1,110 +1,55 @@
 [
-                 
   {
-    "n": "AVA Sports",
+    "n": "بث كاس عالم 1",
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر",
+        "n": "سيرفر 1",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/avasportkrdtv/chunks.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "الفجر سبورت",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 2",
         "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "BeIN Rediffusion",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 3",
         "u": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Bein Max 1",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 4",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein1max/chunks.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Bein Max 2",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 5",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein2max/chunks.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Bein Max 3",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 6",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein3max/chunks.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "الوان سبورت 1",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 7",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/alwan1krdtv/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Aso Sport",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 8",
         "u": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "كأس العالم 2",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 9",
         "u": "https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Ava 4k",
-    "c": "كرة قدم",
-    "s": [
+      },
       {
-        "n": "سيرفر",
+        "n": "سيرفر 10",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/avasportkrdtv/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
       }
