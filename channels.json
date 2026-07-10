@@ -128,42 +128,18 @@
     "n": "TEST",
     "c": "كرة قدم",
     "s": [
-      {
-
-        "n": " سيرفر 1",
-        "u": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
-        "t": "v"
-               }, 
-        {
-         "n": " سيرفر 2",
-         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein2max/chunks.m3u8?lb_backend_hint=7",
-        "t": "v"
-                 }, 
-        {
-         "n": " سيرفر 3",
-         "u": "http://103.155.18.186:8000/play/a126/index.m3u8",
-        "t": "v"
-                  }, 
-        {
-         "n": " سيرفر 4",
-         "u": "live-aburayhan1111.telewebion.ir/ar/faratar/live/1440p/index.m3u8",
-        "t": "v"
-                   }, 
-        {
-         "n": " سيرفر 5",
-         "u": "http://141.147.77.69:8080/mo3ad1/mo3ad1.m3u8",
-        "t": "v"
-                    }, 
-        {
-         "n": " سيرفر 6",
-         "u": "https://cdntv.online/high/7jic59vkp2tz/1823.m3u8",
-        "t": "v"
-                     }, 
-        {
-         "n": " سيرفر 6",
-         "u": "https://cdntv.online/high/7jic59vkp2tz/1822.m3u8",
-        "t": "v"       
-        }
+     { "n": " سيرفر 1 ", "u": "https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/BMax1-1/index.m3u8", "t": "v" },
+  { "n": " سيرفر 2 ", "u": "https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/BMax1-4/index.m3u8", "t": "v" },
+  { "n": " سيرفر 3 ", "u": "https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/BMax1-2/index.m3u8", "t": "v" },
+  { "n": " سيرفر 4 ", "u": "https://pub-5c9539c5c63c44f4b1f8a9027e6d6618.r2.dev/Port2/index.m3u8", "t": "v" },
+  { "n": " سيرفر 5 ", "u": "https://pub-5c9539c5c63c44f4b1f8a9027e6d6618.r2.dev/BMax1-1/index.m3u8", "t": "v" },
+  { "n": " سيرفر 6 ", "u": "https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/Port2/index.m3u8", "t": "v" },
+  { "n": " سيرفر 7 ", "u": "https://pub-8ba6f19db3a34142a6fbcb4b57fb3e2e.r2.dev/Port2/index.m3u8", "t": "v" },
+  { "n": " سيرفر 8 ", "u": "https://vaco-live.s3.us-east-1.amazonaws.com/max1/master.m3u8", "t": "v" },
+  { "n": " سيرفر 9 ", "u": "https://lbgo.bozztv.com/ssh101/ssh101/nadoplay1/playlist.m3u8", "t": "v" },
+  { "n": " سيرفر 10 ", "u": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "t": "v" },
+  { "n": " سيرفر 11 ", "u": "https://cv.bomberz.store/kareba1.m3u8", "t": "v" },
+  { "n": " سيرفر 12 ", "u": "https://cv.bomberz.store/kareba1_720/index.m3u8", "t": "v" },
     ]
   }, 
         {
