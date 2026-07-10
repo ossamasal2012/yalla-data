@@ -1,22 +1,52 @@
 [
   {
-    "n": " فرنسا vs المغرب",
+    "n": " بلجيكا vs اسبانيا",
     "c": "كرة قدم",
     "s": [
       {
         
         "n": " 1 سيرفر ",
-        "u": "http://d1qofgnogc6weh.cloudfront.net/live/max1_720p.m3u8",
+        "u": "https://test.antmedia.io/live/streams/fajer_480p1000kbps.m3u8",
         "t": "v"
                }, 
         {
          "n": " سيرفر 2",
-         "u": "http://d1qofgnogc6weh.cloudfront.net/live/max1_1080p.m3u8",
+         "u": "",
         "t": "v"
               }, 
         {
          "n": " سيرفر 3",
-         "u": "http://d1qofgnogc6weh.cloudfront.net/live/max1_720p.m3u8",
+         "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
+        "t": "v"
+           }, 
+        {
+         "n": " سيرفر 4",
+         "u": "",
+        "t": "v" 
+        }, 
+        {
+         "n": " سيرفر 5",
+         "u": "",
+        "t": "v"
+        }, 
+        {
+         "n": "(تعليق اجنبي) سيرفر  6",
+         "u": "https://cdntv.online/high/7jic59vkp2tz/1823.m3u8",
+        "t": "v"
+                  }, 
+        {
+         "n": " سيرفر 7",
+         "u": "",
+        "t": "v"
+                  }, 
+        {
+         "n": " سيرفر 8",
+         "u": "",
+        "t": "v"
+                  }, 
+        {
+         "n": " سيرفر 9",
+         "u": "https://lbgo.bozztv.com/ssh101/ssh101/avasportkrdtv/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
                 
       }
@@ -28,51 +58,46 @@
     "s": [
       {
         "n": "سيرفر 1",
-        "u": "https://lbgo.bozztv.com/ssh101/ssh101/avasportkrdtv/chunks.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2",
         "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 3",
+        "n": "سيرفر 2",
         "u": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 4",
+        "n": "سيرفر 3",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein1max/chunks.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 5",
+        "n": "سيرفر 4",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein2max/chunks.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 6",
+        "n": "سيرفر 5",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/bein3max/chunks.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 7",
+        "n": "سيرفر 6",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/alwan1krdtv/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
       },
       {
-        "n": "سيرفر 8",
+        "n": "سيرفر 7",
         "u": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 9",
+        "n": "سيرفر 8",
         "u": "https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 10",
+        "n": "سيرفر 9",
         "u": "https://lbgo.bozztv.com/ssh101/ssh101/avasportkrdtv/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
       }
