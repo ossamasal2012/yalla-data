@@ -4,19 +4,19 @@
   "c": "كرة قدم",
   "s": [
     {
-
+        "n": " سيرفر 1",
+        "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
+        "t": "v" 
+        }, 
+        {
       
-         "n": " سيرفر 1",
+         "n": " سيرفر 2",
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
               }, 
         {
         
-         "n": " سيرفر 2",
-         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
-        "t": "v" 
-        }, 
-        {
+        
          "n": " سيرفر 3",
          "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
         "t": "v"
