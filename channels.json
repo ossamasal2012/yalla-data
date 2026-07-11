@@ -35,47 +35,47 @@
     },
     {
         
-        "n": " 1 سيرفر ",
+        "n": " 6 سيرفر ",
         "u": "https://test.antmedia.io/live/streams/fajer_480p1000kbps.m3u8",
         "t": "v"
                }, 
         {
-         "n": " سيرفر 2",
+         "n": " سيرفر 7",
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
               }, 
         {
-         "n": " سيرفر 3",
+         "n": " سيرفر 8",
          "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
         "t": "v"
            }, 
         {
-         "n": " سيرفر 4",
+         "n": " سيرفر 9",
          "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
         "t": "v" 
         }, 
         {
-         "n": " سيرفر 5",
+         "n": " سيرفر 10",
          "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
         "t": "v"
         }, 
         {
-         "n": " سيرفر  6",
+         "n": " سيرفر  11",
          "u": "https://lbgo.bozztv.com/ssh101/ssh101/avasportkrdtv/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
                   }, 
         {
-         "n": " (تعليق اجنبي) سيرفر 7",
+         "n": " (تعليق اجنبي) سيرفر 12",
          "u": "https://cdntv.online/high/7jic59vkp2tz/1823.m3u8",
         "t": "v"
                   }, 
         {
-         "n": "(فارغ) سيرفر 8",
+         "n": "(فارغ) سيرفر 13",
          "u": "",
         "t": "v"
                   }, 
         {
-         "n": " (فارغ) سيرفر 9",
+         "n": " (فارغ) سيرفر 14",
          "u": "",
         "t": "v"
                 
