@@ -4,73 +4,69 @@
   "c": "كرة قدم",
   "s": [
     {
+
       "n": " سيرفر 1 ",
-      "u": "https://stream.gumlet.io/6a5229c10036e5ea90184b81/6a522a000036e5ea901851ff/main.m3u8",
-      "t": "v"
-    },
-    {
-      "n": " سيرفر 2 ",
       "u": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
       "t": "v"
     },
     {
-      "n": " سيرفر 3 ",
+      "n": " سيرفر 2 ",
       "u": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
       "t": "v"
     },
     {
-      "n": " سيرفر 4 ",
+      "n": " سيرفر 3 ",
       "u": "http://200.91.32.158:8080/dsportshd/index.m3u8",
       "t": "v"
     },
     {
-      "n": " سيرفر 5 (4K VLC) ",
+      "n": " سيرفر 4 (4K VLC) ",
       "u": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/31550/index.m3u8",
       "t": "v"
     },
     {
         
-        "n": " 6 سيرفر ",
+        "n": " 5 سيرفر ",
         "u": "https://test.antmedia.io/live/streams/fajer_480p1000kbps.m3u8",
         "t": "v"
                }, 
         {
-         "n": " سيرفر 7",
+         "n": " سيرفر 6",
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
               }, 
         {
-         "n": " سيرفر 8",
+         "n": " سيرفر 7",
          "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
         "t": "v"
            }, 
         {
-         "n": " سيرفر 9",
+         "n": " سيرفر 8",
          "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
         "t": "v" 
         }, 
         {
-         "n": " سيرفر 10",
+         "n": " سيرفر 9",
          "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
         "t": "v"
         }, 
         {
-         "n": " سيرفر  11",
+         "n": " سيرفر  10",
          "u": "https://lbgo.bozztv.com/ssh101/ssh101/avasportkrdtv/chunks.m3u8?lb_backend_hint=7",
         "t": "v"
                   }, 
         {
-         "n": " (تعليق اجنبي) سيرفر 12",
+         "n": " (تعليق اجنبي) سيرفر 11",
          "u": "https://cdntv.online/high/7jic59vkp2tz/1823.m3u8",
         "t": "v"
                   }, 
         {
-         "n": "(فارغ) سيرفر 13",
+         "n": "(فارغ) سيرفر 12",
          "u": "",
         "t": "v"
                   }, 
         {
-         "n": " (فارغ) سيرفر 14",
+         "n": " (فارغ) سيرفر 13",
          "u": "",
         "t": "v"
                 
