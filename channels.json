@@ -4,63 +4,68 @@
   "c": "كرة قدم",
   "s": [
     {
-        "n": " سيرفر 1",
+       "n": " سيرفر 1",
+        "u": "https://stream.gumlet.io/6a52d7e90036e5ea9024e77d/6a52e39a0036e5ea902579d5/main.m3u8",
+        "t": "v" 
+        }, 
+        {
+        "n": " سيرفر 2",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
         "t": "v" 
         }, 
         {
-         "n": " 2 سيرفر ",
+         "n": " 3 سيرفر ",
     "u": "https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/BMax1-1/index.m3u8",
     "t": "v"
 },
 {
       
-         "n": " سيرفر 3",
+         "n": " سيرفر 4",
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
               }, 
         {
         
         
-         "n": " سيرفر 4",
+         "n": " سيرفر 5",
          "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
         "t": "v"
       
                   }, 
         {
-         "n": " (تعليق اجنبي) سيرفر 5",
+         "n": " (تعليق اجنبي) سيرفر 6",
          "u": "https://cdntv.online/high/7jic59vkp2tz/1823.m3u8",
         "t": "v"
                   }, 
         {
-         "n": " سيرفر 6 (تعليق اجنبي)",
+         "n": " سيرفر 7 (تعليق اجنبي)",
       "u": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
       "t": "v"
     },
     {
-      "n": " سيرفر 7 (تعليق اجنبي)",
+      "n": " سيرفر 8 (تعليق اجنبي)",
       "u": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
       "t": "v"
     },
     {
-      "n": " سيرفر 8 ",
+      "n": " سيرفر 9 ",
       "u": "http://200.91.32.158:8080/dsportshd/index.m3u8",
       "t": "v"
       }, 
         {
-      "n": " سيرفر 9",
+      "n": " سيرفر 10",
          "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
         "t": "v"
           
    
                }, 
         {
-         "n": "(فارغ) سيرفر 10",
+         "n": "(فارغ) سيرفر 11",
          "u": "",
         "t": "v"
                   }, 
         {
-         "n": " (فارغ) سيرفر 11",
+         "n": " (فارغ) سيرفر 12",
          "u": "",
         "t": "v"
                 
