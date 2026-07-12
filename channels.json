@@ -4,87 +4,98 @@
   "c": "كرة قدم",
   "s": [
     {
-     "n": " سيرفر عالي الجودة",
+     "n": " 1 سيرفر عالي الجودة",
         "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2dLfQ/index.m3u8?token==",
         "t": "v" 
         }, 
         {
-     "n": " سيرفر 1 ",
+          
+     "n": " سيرفر 2 ",
         "u": "http://pup.artiover.online/meoon3_480/index.m3u8",
         "t": "v" 
         }, 
-        {"n": " سيرفر 2",
+        {"n": " سيرفر 3",
         "u": "https://pup.artiover.online/meoon3_480/index.m3u8",
         "t": "v" 
         }, 
         {
-               "n": "سيرفر رئيسي ",
+         "n": "(1080p) 4 سيرفر ",
+        "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
+        "t": "v"
+               }, 
+        {
+         "n": "(480p) سيرفر 5",
+         "u": "https://test.antmedia.io/live/streams/fajer_480p1000kbps.m3u8",
+        "t": "v"
+                     }, 
+        {
+               "n": "سيرفر رئيسي 6 ",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8?token==",
         "t": "v"
         }, 
         {
-       "n": " سيرفر 3",
+       "n": " سيرفر 7",
         "u": "https://stream.gumlet.io/6a52d7e90036e5ea9024e77d/6a52e39a0036e5ea902579d5/main.m3u8",
         "t": "v" 
         }, 
         {
-        "n": " سيرفر 4",
+        "n": " سيرفر 8",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
         "t": "v" 
         }, 
         {
-         "n": " 5 سيرفر ",
+         "n": " 9 سيرفر ",
     "u": "https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/BMax1-1/index.m3u8",
     "t": "v"
 },
 {
       
-         "n": " سيرفر 6",
+         "n": " سيرفر 10",
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
               }, 
         {
         
         
-         "n": "سيرفر 7",
+         "n": "سيرفر 11",
          "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
         "t": "v"
       
                   }, 
         {
-         "n": " (تعليق اجنبي) سيرفر 8",
+         "n": " (تعليق اجنبي) سيرفر 12",
          "u": "https://cdntv.online/high/7jic59vkp2tz/1823.m3u8",
         "t": "v"
                   }, 
         {
-         "n": " سيرفر 9 (تعليق اجنبي)",
+         "n": " سيرفر 13 (تعليق اجنبي)",
       "u": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
       "t": "v"
     },
     {
-      "n": " سيرفر 10 (تعليق اجنبي)",
+      "n": " سيرفر 14 (تعليق اجنبي)",
       "u": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
       "t": "v"
     },
     {
-      "n": " سيرفر 11 ",
+      "n": " سيرفر 15 ",
       "u": "http://200.91.32.158:8080/dsportshd/index.m3u8",
       "t": "v"
       }, 
         {
-      "n": " سيرفر 12",
+      "n": " سيرفر 16",
          "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
         "t": "v"
           
    
                }, 
         {
-         "n": "(فارغ) سيرفر 13",
+         "n": "(فارغ) سيرفر 17",
          "u": "",
         "t": "v"
                   }, 
         {
-         "n": " (فارغ) سيرفر 14",
+         "n": " (فارغ) سيرفر 18",
          "u": "",
         "t": "v"
                 
