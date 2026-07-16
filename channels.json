@@ -112,6 +112,11 @@
     "c": "رياضة إضافي",
     "s": [
       {
+         "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
+        "t": "v"
+      },
+      {
         "n": "سيرفر 1 - HD",
         "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts",
         "t": "v"
@@ -120,11 +125,7 @@
         "n": "سيرفر 2 - SD",
         "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts",
         "t": "v"
-         },
-      {
-        "n": "سيرفر 3 - تلقائي",
-        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
-        "t": "v"
+        
       }
     ]
   },
@@ -132,6 +133,11 @@
     "n": "Alwan sport 2",
     "c": "رياضة إضافي",
     "s": [
+      {
+         "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan2.m3u8",
+        "t": "v"
+      },
       {
         "n": "سيرفر 1 - HD",
         "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts",
@@ -147,6 +153,11 @@
     "n": "Alwan sport 3",
     "c": "رياضة إضافي",
     "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan3.m3u8",
+        "t": "v"
+      },
       {
         "n": "سيرفر 1 - HD",
         "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667.ts",
