@@ -313,6 +313,11 @@
          "n": " سيرفر 2",
          "u": "https://lbgo.bozztv.com/ssh101/ssh101/alwan1krdtv/chunks.m3u8",
         "t": "v"
+                        }, 
+        {
+         "n": " سيرفر 2",
+         "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts",
+        "t": "v"
         }
     ]
   },          
