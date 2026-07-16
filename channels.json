@@ -103,7 +103,7 @@
     ]
   },
    {
-    "n": "الوان سبورت 1",
+    "n": "Alwan sport 1",
     "c": "رياضة إضافي",
     "s": [
       {
@@ -114,6 +114,37 @@
       {
         "n": "سيرفر 2 - SD",
         "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 2",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - SD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665.ts",
+        "t": "v"
+      }
+    ]
+  }, {
+    "n": "Alwan sport 3",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - SD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts",
         "t": "v"
       }
     ]
