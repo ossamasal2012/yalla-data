@@ -770,57 +770,13 @@
     ]
   },
   {
-    "n": "koora city 1",
+    "n": "راديو المستقبل",
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 (moorarts)",
-        "u": "https://ex.moorarts.xyz/diluoe1_720/index.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "koora city 2",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1 (voodevon)",
-        "u": "https://as.voodevon.xyz/noozile2_720/index.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "koora city 3",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1 (voodevon)",
-        "u": "https://as.voodevon.xyz/noozile2.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "koora city 4",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1 (moorarts)",
-        "u": "https://ex.moorarts.xyz/diluoe1_720/index.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "koora city 5",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1 (moorarts)",
-        "u": "https://ex.moorarts.xyz/diluoe1_480/index.m3u8",
-        "t": "v"
+        "n": "سيرفر 1 ",
+        "u": "https://edge.mixlr.com/channel/vnvcj",
+        "t": "i"
       }
     ]
   },
