@@ -1,32 +1,13 @@
 [
  {
-  "n": "سويسرا vs الارجنتين",
+  "n": "اسبانيا vs الارجنتين",
   "c": "كرة قدم",
   "s": [
     {
      "n": " 1 سيرفر عالي الجودة",
         "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2dLfQ/index.m3u8?token==",
         "t": "v" 
-        }, 
-        {
-          
-     "n": " سيرفر 2 ",
-        "u": "http://pup.artiover.online/meoon3_480/index.m3u8",
-        "t": "v" 
-        }, 
-        {"n": " سيرفر 3",
-        "u": "https://pup.artiover.online/meoon3_480/index.m3u8",
-        "t": "v" 
-        }, 
-        {
-         "n": "(1080p) 4 سيرفر ",
-        "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
-        "t": "v"
-               }, 
-        {
-         "n": "(480p) سيرفر 5",
-         "u": "https://test.antmedia.io/live/streams/fajer_480p1000kbps.m3u8",
-        "t": "v"
+    
                      }, 
         {
                "n": "سيرفر رئيسي 6 ",
@@ -34,21 +15,13 @@
         "t": "v"
         }, 
         {
-       "n": " سيرفر 7",
-        "u": "https://stream.gumlet.io/6a52d7e90036e5ea9024e77d/6a52e39a0036e5ea902579d5/main.m3u8",
-        "t": "v" 
-        }, 
-        {
+       
         "n": " سيرفر 8",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
         "t": "v" 
         }, 
         {
-         "n": " 9 سيرفر ",
-    "u": "https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/BMax1-1/index.m3u8",
-    "t": "v"
-},
-{
+         
       
          "n": " سيرفر 10",
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
@@ -60,46 +33,15 @@
          "n": "سيرفر 11",
          "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
         "t": "v"
-      
-                  }, 
-        {
-         "n": " (تعليق اجنبي) سيرفر 12",
-         "u": "https://cdntv.online/high/7jic59vkp2tz/1823.m3u8",
-        "t": "v"
-                  }, 
-        {
-         "n": " سيرفر 13 (تعليق اجنبي)",
-      "u": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
-      "t": "v"
-    },
-    {
-      "n": " سيرفر 14 (تعليق اجنبي)",
-      "u": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
-      "t": "v"
-    },
-    {
-      "n": " سيرفر 15 ",
-      "u": "http://200.91.32.158:8080/dsportshd/index.m3u8",
-      "t": "v"
-      }, 
-        {
-      "n": " سيرفر 16",
-         "u": "https://test.antmedia.io/live/streams/fajer.m3u8",
-        "t": "v"
-          
    
                }, 
         {
-         "n": " سيرفر 17",
+         "n": "الوان الرياضية ",
          "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284609.m3u8",
         "t": "v"
                   }, 
         {
-         "n": " سيرفر 18",
-         "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310518.m3u8",
-        "t": "v"
-           }, 
-        {
+      
          "n": " سيرفر 19",
          "u": "https://es.egys.gs/live/abdoyasser112/01032783778/760064.m3u8",
         "t": "v"
