@@ -4,6 +4,31 @@
   "c": "كرة قدم",
   "s": [
     {
+     "n": " 1 سيرفر عالي الجودة",
+        "u": "http://13.140.138.243:8585/live/bein-sports-max-1-fhd-50-fps-world-cup-2026/index.m3u8",
+        "t": "v" 
+            }, 
+        {
+          "n": "TOD",
+        "u": "http://13.140.138.243:8585/live/tod-prime-ott/index.m3u8",
+        "t": "v" 
+        }, 
+        {
+          "n": " 2 سيرفر عالي الجودة",
+        "u": "http://13.140.138.243:8585/live/bein-sports-max-1-hd-50-fps-world-cup-2026/index.m3u8",
+        "t": "v"  }, 
+        {
+          "n": " 3 سيرفر عالي الجودة",
+        "u": "http://13.140.138.243:8585/live/bein-sports-max-1-sd-50-fps-world-cup-2026/index.m3u8",
+        "t": "v" 
+         }, 
+        {
+          "n": " 3 سيرفر عالي الجودة",
+        "u": "https://stream.gumlet.io/6a5d0dd3ea2cda78ea83f22b/6a5d0eaeaf806827027a03f3/main.m3u8",
+        "t": "v" 
+       
+            }, 
+        {
        "n": " 1 سيرفر عالي الجودة",
         "u": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hiaHkvBWy9pzfT61-1Oc9CKVwA-ApzsYuWWVMNXSPmdwrS2uUqOSeC26cc4R3mliQP9svweK6DvGeyFk3qNV5A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live",
         "t": "v" 
