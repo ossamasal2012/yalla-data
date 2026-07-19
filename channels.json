@@ -12,16 +12,17 @@
           "n": "TOD",
         "u": "http://13.140.138.243:8585/live/tod-prime-ott/index.m3u8",
         "t": "v" 
-        }, 
+            }, 
         {
           "n": " 2 سيرفر  ",
         "u": "http://13.140.138.243:8585/live/bein-sports-max-1-hd-50-fps-world-cup-2026/index.m3u8",
-        "t": "v"  }, 
+        "t": "v"
+            }, 
         {
           "n": " 3 سيرفر  ",
         "u": "http://13.140.138.243:8585/live/bein-sports-max-1-sd-50-fps-world-cup-2026/index.m3u8",
         "t": "v" 
-         }, 
+            }, 
         {
           "n": " 4 سيرفر  ",
         "u": "https://stream.gumlet.io/6a5d0dd3ea2cda78ea83f22b/6a5d0eaeaf806827027a03f3/main.m3u8",
@@ -53,7 +54,7 @@
           "n": " 9 سيرفر  ",
         "u": "https://zaintv1.zaintvpro.workers.dev/live/z1.m3u8?src=aHR0cHM6Ly92c2QxMTUub2tjZG4ucnUvaGxzLzE2MDEyNTY1MzUxMDkxLm0zdTgvc2lnL2ZyMjByXzhjb1RNL2V4cGlyZXMvMTc4NDU2ODU0ODA5NC9zcmNJcC8xNzIuNjguMjM0LjExNS91cmxzLzk1LjE2My4zNS43My9jbGllbnRUeXBlLzAvc3JjQWcvQ0hST01FL21pZC8xNDUxOTk2Mjk2NzczMS8xNjAxMjU2NTM1MTA5MV9sb3cvaW5kZXgubTN1OA==",
         "t": "v" 
-         }, 
+            }, 
         {
          "n": "الوان الرياضية ",
          "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284609.m3u8",
