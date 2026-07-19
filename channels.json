@@ -5,28 +5,8 @@
   "s": [
     {
     
-          "n": "TOD",
-        "u": "http://13.140.138.243:8585/live/tod-prime-ott/index.m3u8",
-        "t": "v" 
-            }, 
-        {
+         
        
-          "n": " 3 سيرفر  ",
-        "u": "http://13.140.138.243:8585/live/bein-sports-max-1-sd-50-fps-world-cup-2026/index.m3u8",
-        "t": "v" 
-            }, 
-        {
-          "n": " 4 سيرفر  ",
-        "u": "https://stream.gumlet.io/6a5d0dd3ea2cda78ea83f22b/6a5d0eaeaf806827027a03f3/main.m3u8",
-        "t": "v" 
-       
-            }, 
-        {
-       "n": " 5 سيرفر  ",
-        "u": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hiaHkvBWy9pzfT61-1Oc9CKVwA-ApzsYuWWVMNXSPmdwrS2uUqOSeC26cc4R3mliQP9svweK6DvGeyFk3qNV5A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live",
-        "t": "v" 
-            }, 
-        {
        "n": " 6 سيرفر  ",
         "u": "https://goal-livetv.pages.dev/GUBA_STREAM_belN%20MAX%201.m3u8",
         "t": "v" 
@@ -71,6 +51,11 @@
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
               }, 
+        {
+          "n": "TOD",
+        "u": "http://13.140.138.243:8585/live/tod-prime-ott/index.m3u8",
+        "t": "v" 
+            }, 
         {
         
         
