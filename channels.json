@@ -48,6 +48,11 @@
           "n": " 8 سيرفر  ",
         "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2dLfQ/index.m3u8?token==",
         "t": "v" 
+          }, 
+        {
+          "n": " 9 سيرفر  ",
+        "u": "https://zaintv1.zaintvpro.workers.dev/live/z1.m3u8?src=aHR0cHM6Ly92c2QxMTUub2tjZG4ucnUvaGxzLzE2MDEyNTY1MzUxMDkxLm0zdTgvc2lnL2ZyMjByXzhjb1RNL2V4cGlyZXMvMTc4NDU2ODU0ODA5NC9zcmNJcC8xNzIuNjguMjM0LjExNS91cmxzLzk1LjE2My4zNS43My9jbGllbnRUeXBlLzAvc3JjQWcvQ0hST01FL21pZC8xNDUxOTk2Mjk2NzczMS8xNjAxMjU2NTM1MTA5MV9sb3cvaW5kZXgubTN1OA==",
+        "t": "v" 
          }, 
         {
          "n": "الوان الرياضية ",
@@ -56,27 +61,27 @@
     
                      }, 
         {
-               "n": "سيرفر رئيسي 2 ",
+               "n": 10 ",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8?token==",
         "t": "v"
         }, 
         {
        
-        "n": " سيرفر 3",
+        "n": " سيرفر 11",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE0/index.m3u8?token==",
         "t": "v" 
         }, 
         {
          
       
-         "n": " سيرفر 4",
+         "n": " سيرفر12",
          "u": "https://adam-bein.vercel.app/api/channel?ch=beemax1",
         "t": "v"
               }, 
         {
         
         
-         "n": "سيرفر 5",
+         "n": "سيرفر 13",
          "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8?token==",
         "t": "v"
    
@@ -84,7 +89,7 @@
         {
          
       
-         "n": " سيرفر 6",
+         "n": " سيرفر 14",
          "u": "https://es.egys.gs/live/abdoyasser112/01032783778/760064.m3u8",
         "t": "v"
                 
