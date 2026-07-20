@@ -55,7 +55,7 @@
     "c": "رياضة إضافي",
     "s": [
       {
-       {
+       
          "n": "سيرفر 1 ",
          "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284609.m3u8",
         "t": "v"
@@ -84,6 +84,12 @@
     "c": "رياضة إضافي",
     "s": [
       {
+        "n": "سيرفر 1 ",
+         "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284606.m3u8",
+        "t": "v"
+    
+                     }, 
+        {
    
          "n": "سيرفر رئيسي",
         "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan2.m3u8",
@@ -105,6 +111,12 @@
     "c": "رياضة إضافي",
     "s": [
       {
+        "n": "سيرفر 1 ",
+         "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284603.m3u8",
+        "t": "v"
+    
+                     }, 
+        {
         "n": "سيرفر رئيسي",
         "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan3.m3u8",
         "t": "v"
