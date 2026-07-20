@@ -3,26 +3,12 @@
   "n": "اسبانيا vs الارجنتين",
   "c": "كرة قدم",
   "s": [
-    {
-    
-         
-      
+     { 
           "n": " 8 سيرفر  ",
         "u": "https://table.houseinventer.com/pdf/AzMjD2IyADQPb2dLfQ/index.m3u8?token==",
         "t": "v" 
           }, 
-        {
-          "n": " 9 سيرفر  ",
-        "u": "https://zaintv1.zaintvpro.workers.dev/live/z1.m3u8?src=aHR0cHM6Ly92c2QxMTUub2tjZG4ucnUvaGxzLzE2MDEyNTY1MzUxMDkxLm0zdTgvc2lnL2ZyMjByXzhjb1RNL2V4cGlyZXMvMTc4NDU2ODU0ODA5NC9zcmNJcC8xNzIuNjguMjM0LjExNS91cmxzLzk1LjE2My4zNS43My9jbGllbnRUeXBlLzAvc3JjQWcvQ0hST01FL21pZC8xNDUxOTk2Mjk2NzczMS8xNjAxMjU2NTM1MTA5MV9sb3cvaW5kZXgubTN1OA==",
-        "t": "v" 
-            }, 
-        {
-         "n": "الوان الرياضية ",
-         "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284609.m3u8",
-        "t": "v"
-    
-                     }, 
-        {
+        
                "n": " سيرفر 10",
         "u": "https://table.houseinventer.com/pdf/cTMhX14BDE1/index.m3u8?token==",
         "t": "v"
@@ -68,6 +54,13 @@
     "c": "رياضة إضافي",
     "s": [
       {
+       {
+         "n": "سيرفر 1 ",
+         "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284609.m3u8",
+        "t": "v"
+    
+                     }, 
+        {
          "n": "سيرفر رئيسي",
         "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
         "t": "v"
@@ -90,6 +83,7 @@
     "c": "رياضة إضافي",
     "s": [
       {
+   
          "n": "سيرفر رئيسي",
         "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan2.m3u8",
         "t": "v"
@@ -123,6 +117,18 @@
         "n": "سيرفر 2 - SD",
         "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts",
         "t": "v"
+      }
+    ]
+  },
+{
+    "n": "Alwan sport 4",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284600.m3u8",
+        "t": "v"
+   
       }
     ]
   },
