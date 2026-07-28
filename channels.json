@@ -1,4 +1,33 @@
 [
+    {
+    "n": "قناة ريال مدريد",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "تعليق انجليزي ",
+        "u": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+        "t": "v"
+        },
+       {
+          "n": "تعليق اسباني ",
+        "u": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+        "t": "v"
+        
+      }
+    ]
+  }, {
+    "n": "قناة برشلونة",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 ",
+        "u": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+        "t": "v"
+         
+        
+      }
+    ]
+  },
 
    {
     "n": "Alwan sport 1",
