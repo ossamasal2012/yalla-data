@@ -9,6 +9,11 @@
         "t": "v"
         },
        {
+             "n": "تعليق عربي ",
+        "u": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/P3nrBAPKXGg86EaDODDucxz0HNC7eC8EDABRTVNbM9Q0RMC7LoZYYqZf5Eo_LXXfy6-HfRZx8Wbv3VXaP691Vg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+        "t": "v"
+        },
+       {
           "n": "تعليق اسباني ",
         "u": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
         "t": "v"
