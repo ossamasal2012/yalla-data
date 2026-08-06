@@ -1,22 +1,14 @@
 [
   {
-     "name": "السيرفر الاول",
-    "host": "https://top.cloud-ip.cc:8443",
-    "username": "ossama",
-    "password": "os12sal74"
-    
-  },
-  {
-    "name": "السيرفر الثاني",
-    "host": "http://pro.netmos.ovh:7355",
-    "username": "MMTVO89S7DY7CNV7SD",
-    "password": "P7HIDSPCN580WXH90"
-   
-     },
-  {
-    "name": "السيرفر الثالث",
+      "name": "السيرفر الاول",
     "host": "http://185.191.126.127:8080",
     "username": "b0:99:d7:15:88:50",
     "password": "3090914536649669"
+     },
+  {
+   "name": "السيرفر الثاني",
+    "host": "https://top.cloud-ip.cc:8443",
+    "username": "ossama",
+    "password": "os12sal74"
   }
 ]
