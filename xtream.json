@@ -10,5 +10,11 @@
     "host": "https://top.cloud-ip.cc:8443",
     "username": "ossama",
     "password": "os12sal74"
+       },
+  {
+   "name": "السيرفر الثالث",
+    "host": "http://es.egys.gs:443",
+    "username": "abdoyasser112",
+    "password": "01032783778"
   }
 ]
