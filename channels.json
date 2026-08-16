@@ -11,17 +11,6 @@
     ]
   },
   {
-    "n": " بث مباراة ريال مدريد",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1",
-        "u": "https://yuy7ygugyvtdd.koragoal.it.com/live/h1.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
     "n": "قناة ريال مدريد",
     "c": "كرة قدم",
     "s": [
@@ -49,6 +38,28 @@
       {
         "n": "سيرفر 1",
         "u": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+   "n": "bein 1 4k",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://yuy7ygugyvtdd.koragoal.it.com/live/b1.m3u8",
+        "t": "v"
+      }
+    ]
+  }, 
+  {
+  "n": " bein 2 4k",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://yuy7ygugyvtdd.koragoal.it.com/live/b2.m3u8",
         "t": "v"
       }
     ]
@@ -194,7 +205,17 @@
       }
     ]
   },
-        
+        {
+    "n": " STC SPORT ",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://yuy7ygugyvtdd.koragoal.it.com/live/h1.m3u8",
+        "t": "v"
+      }
+    ]
+  },  
     {
     "n": "4k بث مباريات ",
     "c": "كرة قدم",
