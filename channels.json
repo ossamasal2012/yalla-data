@@ -1,11 +1,16 @@
 [
   {
     "n": " مناظر طبيعية ",
-    "c": "كرة قدم",
+    "c": " عام",
     "s": [
       {
-        "n": "سيرفر 1",
+        "n": "منظر 1",
         "u": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+        "t": "v"
+        },
+      {
+        "n": "منظر 2",
+        "u": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8",
         "t": "v"
       }
     ]
