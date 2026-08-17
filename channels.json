@@ -278,31 +278,16 @@
     "s": [
       
         {  
-         
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
+          "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1424.m3u8",
         "t": "v"
+       
+      
           }, 
         {
-                 "n": " ENGLISH ",
-        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGgncCxhWANNAAoFGXFhZ3E/index.m3u8?token==",
-        "t": "v"
-        }, 
-        {  
-        "n": " ENGLISH ",
-        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhtI286DlZABSoPaB1uGHE/index.m3u8?token==",
-        "t": "v"
-        }, 
-        {
-                  
-        "n": " فرنسي ",
-        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhjcWoccUECBVYlaUYcITkK/index.m3u8?token==",
-        "t": "v"
-        }, 
-        {
           
-        "n": "سيرفر رئيسي ",
-        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/1424.m3u8",
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
         "t": "v"
        
       }
@@ -313,16 +298,13 @@
     "c": "كرة قدم",
     "s": [
       {
-                "n": "سيرفر رئيسي ",
-        "u": "",
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1425.m3u8",
         "t": "v"
-        }, 
+      
+          }, 
         {
-                 "n": "1 سيرفر رئيسي ",
-        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhtcGtnfnINCSAMZhIL/index.m3u8?token==",
-        "t": "v"
-        }, 
-        {
+    
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
         "t": "v"
@@ -334,6 +316,12 @@
     "c": "كرة قدم",
     "s": [
       {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1426.m3u8",
+        "t": "v"
+      
+          }, 
+        {
                 
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
@@ -346,6 +334,12 @@
     "c": "كرة قدم",
     "s": [
       {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1427.m3u8",
+        "t": "v"
+      
+          }, 
+        {
                
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
@@ -359,6 +353,12 @@
     "c": "كرة قدم",
     "s": [
       {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1428.m3u8",
+        "t": "v"
+      
+          }, 
+        {
              
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
@@ -371,6 +371,12 @@
     "c": "كرة قدم",
     "s": [
       {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1429.m3u8",
+        "t": "v"
+      
+          }, 
+        {
      
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
@@ -384,7 +390,13 @@
     "n": "beIN Sport 7",
     "c": "كرة قدم",
     "s": [
-      {
+        {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1430.m3u8",
+        "t": "v"
+      
+          }, 
+        {
              
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee7",
@@ -397,7 +409,7 @@
     "n": "beIN Sport 8",
     "c": "كرة قدم",
     "s": [
-      {
+        {
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee8",
         "t": "v"
