@@ -255,6 +255,11 @@
     "c": "رياضة إضافي",
     "s": [
       {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan1",
+        "t": "v"
+      },
+      {
         "n": "سيرفر 1",
         "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418112.m3u8",
         "t": "v"
@@ -285,6 +290,12 @@
     "n": "Alwan sport 2",
     "c": "رياضة إضافي",
     "s": [
+      {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan2",
+        "t": "v"
+      },
       {
         "n": "سيرفر 1",
         "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418115.m3u8",
@@ -317,6 +328,12 @@
     "c": "رياضة إضافي",
     "s": [
       {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan3",
+        "t": "v"
+      },
+      {
         "n": "سيرفر 1",
         "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418118.m3u8",
         "t": "v"
@@ -348,6 +365,12 @@
     "c": "كرة قدم",
     "s": [
       {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan4",
+        "t": "v"
+      },
+      {
         "n": "سيرفر 1",
         "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418121.m3u8",
         "t": "v"
@@ -363,6 +386,12 @@
     "n": "Alwan sport 5",
     "c": "كرة قدم",
     "s": [
+      {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan5",
+        "t": "v"
+      },
       {
         "n": "سيرفر 1",
         "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418124.m3u8",
@@ -380,6 +409,12 @@
     "c": "كرة قدم",
     "s": [
       {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan6",
+        "t": "v"
+      },
+      {
         "n": "سيرفر 1",
         "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418127.m3u8",
         "t": "v"
@@ -388,6 +423,58 @@
         "n": "سيرفر 2",
         "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418128.m3u8",
         "t": "v"
+      }
+    ]
+  },
+    {
+    "n": "Alwan sport 7",
+    "c": "كرة قدم",
+    "s": [
+      {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan7",
+        "t": "v"
+      
+      }
+    ]
+  },
+   {
+    "n": "Alwan sport 8",
+    "c": "كرة قدم",
+    "s": [
+      {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan8",
+        "t": "v"
+      
+      }
+    ]
+  },
+   {
+    "n": "Alwan sport 9",
+    "c": "كرة قدم",
+    "s": [
+      {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan9",
+        "t": "v"
+      
+      }
+    ]
+  },
+   {
+    "n": "Alwan sport 10",
+    "c": "كرة قدم",
+    "s": [
+      {
+        {
+        "n": "افضل سيرفر",
+        "u": "https://redperch.space/dramacardinal.php?id=alwan10",
+        "t": "v"
+      
       }
     ]
   },
