@@ -1,18 +1,14 @@
 [
   
   {
-    "n": " مناظر طبيعية ",
-    "c": " عام",
+    "n": "  بث مباراة ريال مدريد ضد اسبانيول ",
+    "c": " كرة قدم",
     "s": [
       {
-        "n": "منظر 1",
-        "u": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+        "n": " سيرفر 1",
+        "u": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vd7L79dlCG2zJ-3HdMd0Req5aUu44Kx-iI91CvsrKlbRmInVyIWEuBEfW9M4KfqhBa4YlR-e2RH--9-tZTNNsA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live",
         "t": "v"
-        },
-      {
-        "n": "منظر 2",
-        "u": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8",
-        "t": "v"
+      
       }
     ]
   },
@@ -502,6 +498,22 @@
             }
     ]
   }, 
+    {
+    "n": " مناظر طبيعية ",
+    "c": " عام",
+    "s": [
+      {
+        "n": "منظر 1",
+        "u": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+        "t": "v"
+        },
+      {
+        "n": "منظر 2",
+        "u": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8",
+        "t": "v"
+      }
+    ]
+  },
      
     {
     "n": " ON Sport Plus ",
