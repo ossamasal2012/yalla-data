@@ -11,17 +11,32 @@
     ]
   },
   {
-    "n": "  بث مباراة ريال مدريد ضد اسبانيول ",
+    "n": "  بث مباراة برشلونة ضد التشي ",
     "c": " كرة قدم",
     "s": [
       {
         "n": " سيرفر 1",
-        "u": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vd7L79dlCG2zJ-3HdMd0Req5aUu44Kx-iI91CvsrKlbRmInVyIWEuBEfW9M4KfqhBa4YlR-e2RH--9-tZTNNsA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live",
+        "u": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/8VZdj5-si5HmSjDfzALXCWFT1GaV451SATeqFOfGTlJNnK6puF18_IFMkRv3yNT0SvGzM3e7jk5Aq_WYhKzE6w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
         "t": "v"
         },
       {
-      "n": "نت ضعيف",
-        "u": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/KQVUQc3BE9JvnvHp3Rj9w_UDQQONua_0NKjPYwCo8mLHdF5sWrPL5jJnjHTnfqTOVUTRjQI3P7e5tsSTIeBwxw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live",
+      "n": " سيرفر 2",
+        "u": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bfwwbffi1IKYveMdGJ7S2WPAFeHT0dHmhdGIlcFVpk8iegzWj2JvPDRi2iJv_rqTzV1amew71kJQ2ClC6B2R3w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+        "t": "v"
+      },
+       {
+          "n": "سيرفر 3",
+        "u": "https://hrthrtjhrtijkhiurt.chkgjkg.online/live/x2.m3u8",
+        "t": "v"
+          },
+       {
+          "n": "سيرفر 4",
+        "u": "https://ecf38996d918.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.098767424220.channel.qsb45IQUhhqf.m3u8",
+        "t": "v" 
+          },
+       {
+          "n": "سيرفر 5 (تعليق اجنبي)",
+        "u": "http://50.7.120.34:8080/DAZN1/index.m3u8",
         "t": "v"
       }
     ]
