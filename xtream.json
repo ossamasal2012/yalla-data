@@ -4,164 +4,237 @@
     "host": "https://top.cloud-ip.cc:8443",
     "username": "ossama",
     "password": "os12sal74"
-       },
+  },
   {
-      "name": "السيرفر الثاني",
+    "name": "السيرفر الثاني",
     "host": "http://185.191.126.127:8080",
     "username": "b0:99:d7:15:88:50",
     "password": "3090914536649669"
-     },
+  },
   {
-
-   "name": "السيرفر الثالث",
+    "name": "السيرفر الثالث",
     "host": "http://my-game.grand-down.xyz:2052",
     "username": "07502161339",
     "password": "22148493069172"
-     },
+  },
   {
-
-   "name": "السيرفر الرابع",
+    "name": "السيرفر الرابع",
     "host": "http://vod-4k.info:8089",
     "username": "0541891367890",
     "password": "1712068572863"
-        },
+  },
   {
-
-   "name": "السيرفر الخامس",
+    "name": "السيرفر الخامس",
     "host": "http://line.tiger-ott.net",
     "username": "AU7WQG",
     "password": "APK6DM"
-        },
+  },
   {
-
-
-   "name": "السيرفر السادس",
+    "name": "السيرفر السادس",
     "host": "https://es.egys.gs",
     "username": "abdoyasser112",
     "password": "01032783778"
-        },
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر السابع",
     "host": "http://line.france-ott.net",
     "username": "VXCNIBAVFP",
     "password": "TXPRTD26KY"
-      },
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الثامن",
     "host": "http://front-main.fug-cloud.com:80",
     "username": "x9fmszlSze",
     "password": "l90qw0jiuh"
-     },
-  {
-
-   "name": "السيرفر السابع",
-    "host": "http://albastargolden.net:80",
-    "username": "0DFCCA36974959D",
-    "password": "wOBGSTbncn" },
-  {
-
-   "name": "السيرفر السابع",
-    "host": "http://ctn34.xyz:8080",
-    "username": "kemaldemirb.evler",
-    "password": "hffpk8bN5t" },
-  {
-
-   "name": "السيرفر السابع",
-    "host": "http://dreamteev.xyz:80",
-    "username": "MagedHennawy",
-    "password": "635518K" 
   },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر التاسع",
+    "host": "http://albastargolden.net:80",
+    "username": "0DFCCA36974959D",
+    "password": "wOBGSTbncn"
+  },
+  {
+    "name": "السيرفر العاشر",
+    "host": "http://ctn34.xyz:8080",
+    "username": "kemaldemirb.evler",
+    "password": "hffpk8bN5t"
+  },
+  {
+    "name": "السيرفر الحادي عشر",
+    "host": "http://dreamteev.xyz:80",
+    "username": "MagedHennawy",
+    "password": "635518K"
+  },
+  {
+    "name": "السيرفر الثاني عشر",
     "host": "http://etvhosts.site:55337",
     "username": "18ZvVme77G",
-    "password": "z542Lhag1T" },
+    "password": "z542Lhag1T"
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الثالث عشر",
     "host": "http://etvhosts.site:55337",
     "username": "1BJu9C0vm",
-    "password": "5W4UPjP4YZ84" 
-},
-{
-  "name": "السيرفر السابع",
-  "host": "http://planettvweb.com:8091",
-  "username": "Giovanni504",
-  "password": "JRan6285"
-},
-{
-  "name": "السيرفر السابع",
-  "host": "http://speedmel.net:80",
-  "username": "K8V38AFJP4S45BF",
-  "password": "QFPJStqJTf"
-
-
-},
-  
-    {
-  "name": "السيرفر السابع",
-  "host": "http://digi.dtv3.lol:2082",
-  "username": "mejdoubnew_958581",
-  "password": "CHmNLjSr"
-
-},
+    "password": "5W4UPjP4YZ84"
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الرابع عشر",
+    "host": "http://planettvweb.com:8091",
+    "username": "Giovanni504",
+    "password": "JRan6285"
+  },
+  {
+    "name": "السيرفر الخامس عشر",
+    "host": "http://speedmel.net:80",
+    "username": "K8V38AFJP4S45BF",
+    "password": "QFPJStqJTf"
+  },
+  {
+    "name": "السيرفر السادس عشر",
+    "host": "http://digi.dtv3.lol:2082",
+    "username": "mejdoubnew_958581",
+    "password": "CHmNLjSr"
+  },
+  {
+    "name": "السيرفر السابع عشر",
     "host": "http://megatv.cx:80",
     "username": "2368258120",
-    "password": "C8A3A47A" },
+    "password": "C8A3A47A"
+  },
   {
-
-   "name": "السيرفر السابع 2027-4-8",
+    "name": "السيرفر الثامن عشر",
     "host": "http://tvprem3080.me:80",
     "username": "hz5vhcqqfo",
-    "password": "vv2p8uo8jq" },
+    "password": "vv2p8uo8jq"
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر التاسع عشر",
     "host": "http://cbc.giize.com:6923",
     "username": "luciano3",
     "password": "22SzKRY43r"
   },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر العشرون",
     "host": "http://line.plixxyplus.cloud:80",
     "username": "e04456166c",
     "password": "dfabd05e87b3"
-     },
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الحادي والعشرون",
     "host": "http://qatarworldcup.xyz:80",
     "username": "4110041579",
-    "password": "8414193074" },
+    "password": "8414193074"
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الثاني والعشرون",
     "host": "http://nxtportal.xyz:8080",
     "username": "q07W7PTU",
     "password": "qybqq23J"
-},
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الثالث والعشرون",
     "host": "http://line.sweet-4k.cc",
     "username": "6A66F4",
-    "password": "A12161" },
+    "password": "A12161"
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الرابع والعشرون",
+    "host": "http://sny57.com:8080",
+    "username": "bEc7PU7qMB",
+    "password": "ABcHhFHc6r"
+  },
+  {
+    "name": "السيرفر الخامس والعشرون",
+    "host": "http://configuration.tn:80",
+    "username": "raouef336699",
+    "password": "imed336699"
+  },
+  {
+    "name": "السيرفر السادس والعشرون",
+    "host": "http://line.dream-4k.cc",
+    "username": "D327CF",
+    "password": "933C27"
+  },
+  {
+    "name": "السيرفر السابع والعشرون",
+    "host": "http://sny57.com:8080",
+    "username": "SebastianLW",
+    "password": "yIC13ki0"
+  },
+  {
+    "name": "السيرفر الثامن والعشرون",
+    "host": "http://sny57.com:8080",
+    "username": "tC7nbau52C",
+    "password": "ktvtfH5Svf"
+  },
+  {
+    "name": "السيرفر التاسع والعشرون",
     "host": "",
     "username": "",
-    "password": "" },
+    "password": """
+  },
   {
-
-   "name": "السيرفر السابع",
+    "name": "السيرفر الثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر الحادي والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر الثاني والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر الثالث والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر الرابع والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر الخامس والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر السادس والثلاثون",
+    "host": "",
+    "username": "",
+    "password": ""
+  },
+  {
+    "name": "السيرفر السابع والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر الثامن والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر التاسع والثلاثون",
+    "host": "",
+    "username": "",
+    "password": """
+  },
+  {
+    "name": "السيرفر الاربعون",
     "host": "",
     "username": "",
     "password": ""
