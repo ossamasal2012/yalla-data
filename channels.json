@@ -296,34 +296,7 @@
         "n": "سيرفر 1",
         "u": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
         "t": "v"
-      }
-    ]
-  },
- 
-  {
-    "n": "Alwan sport 6",
-    "c": "كرة قدم",
-    "s": [
-      {
- "n": "سيرفر رئيسي",
-        "u": "https://github.com/ossamasal2012/yalla-data/raw/refs/heads/main/files-channel/ALWAN6.m3u8",
-        "t": "v"
-            },
-      {
-        "n": "سيرفر 1 (4k)",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181675.ts",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1 - HD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 - انترنت ضعيف",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181677.ts",
-        "t": "v"
-      }
+           }
     ]
   },
   {
