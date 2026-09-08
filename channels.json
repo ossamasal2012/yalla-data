@@ -332,17 +332,7 @@
     "s": [
       
         {  
-          "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1424.m3u8",
-        "t": "v"
-        },
-      {
-         "n": "4k سيرفر",
-        "u": "https://yuy7ygugyvtdd.koragoal.it.com/live/b1.m3u8",
-        "t": "v"
-  
-          }, 
-        {
+ 
           
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
@@ -356,17 +346,7 @@
     "c": "كرة قدم",
     "s": [
       {
-    "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1425.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "4k سيرفر",
-        "u": "https://yuy7ygugyvtdd.koragoal.it.com/live/b2.m3u8",
-        "t": "v"
-      
-          }, 
-        {
+
     
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
