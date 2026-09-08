@@ -1,89 +1,73 @@
 [
   {
-    "name": "السيرفر الاول",
-    "host": "https://top.cloud-ip.cc:8443",
-    "username": "ossama",
-    "password": "os12sal74"
-  },
-  {
-    "name": "السيرفر الثاني",
-    "host": "http://185.191.126.127:8080",
-    "username": "b0:99:d7:15:88:50",
-    "password": "3090914536649669"
+
+   "name": "السيرفر الاول",
+    "host": "https://es.egys.gs",
+    "username": "abdoyasser112",
+    "password": "01032783778"
   },
   {
 
-    "name": "السيرفر الثالث",
+    "name": "السيرفر الثاني",
+    "host": "http://dreamteev.xyz:80",
+    "username": "MagedHennawy",
+    "password": "635518K"
+  },
+  {
+        "name": "السيرفر الثالث",
+    "host": "http://front-main.fug-cloud.com:80",
+    "username": "x9fmszlSze",
+    "password": "l90qw0jiuh"
+  },
+  {
+    "name": "السيرفر الرابع",
     "host": "http://vod-4k.info:8089",
     "username": "0541891367890",
     "password": "1712068572863"
   },
   {
 
-    "name": "السيرفر الرابع",
-    "host": "https://es.egys.gs",
-    "username": "abdoyasser112",
-    "password": "01032783778"
-  },
-  {
+  
     "name": "السيرفر الخامس",
     "host": "http://line.france-ott.net",
     "username": "VXCNIBAVFP",
     "password": "TXPRTD26KY"
   },
   {
-    "name": "السيرفر السادس",
-    "host": "http://front-main.fug-cloud.com:80",
-    "username": "x9fmszlSze",
-    "password": "l90qw0jiuh"
 
-  },
-  {
-
-    "name": "(مميز) السيرفر  السابع",
-    "host": "http://dreamteev.xyz:80",
-    "username": "MagedHennawy",
-    "password": "635518K"
-
-  },
-  {
 
     
-    "name": "السيرفر الثامن",
+    "name": "السيرفر السادس",
     "host": "http://megatv.cx:80",
     "username": "2368258120",
     "password": "C8A3A47A"
   },
   {
 
-    "name": "السيرفر التاسع (مميز جدا)",
+    "name": "السيرفر السابع ",
     "host": "http://qatarworldcup.xyz:80",
     "username": "4110041579",
     "password": "8414193074"
   },
   {
-    "name": "السيرفر العاشر",
+    "name": "السيرفر الثامن",
     "host": "http://nxtportal.xyz:8080",
     "username": "q07W7PTU",
     "password": "qybqq23J"
       },
   {
-    "name": "(ينتهي 5/9) السيرفر الحادي عشر",
-    "host": "http://digi.dtv3.lol:2082",
-    "username": "mejdoubnew_958581",
-    "password": "CHmNLjSr"
-  },
-  {
-    "name": "السيرفر الثاني عشر (بدون انتهاء)",
+
+    "name": "السيرفر التاسع (بدون انتهاء)",
     "host": "http://etvhosts.site:55337",
     "username": "18ZvVme77G",
     "password": "z542Lhag1T"
 
      },
   {
-    "name": "السيرفر الثالث عشر (بدون انتهاء)",
-    "host": "http://moka-pro.com:80",
-    "username": "mokapro",
-    "password": "8570254741"
+       "name": "السيرفر العاشر",
+    "host": "http://185.191.126.127:8080",
+    "username": "b0:99:d7:15:88:50",
+    "password": "3090914536649669"
+ 
   }
 ]
