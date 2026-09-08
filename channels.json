@@ -1,6 +1,73 @@
 [
+    
+  {
+    "n": " ",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts",
+        "t": "v"
+             },
+      { 
+  
+        "n": "2 سيرفر ",
+        "u": "http://test-sportina.cfd/ALWAN-1/video.m3u8",
+        "t": "v"
+             },
+      { 
+  
+        "n": "3 سيرفر (للانترنت الضعيف)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
+        "t": "v"   },
+      { 
+  
+        "n": "4 سيرفر ",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
+        "t": "v"   },
+      { 
+  
+        "n": "5 سيرفر ",
+        "u": "",
+        "t": "v"   },
+      { 
+  
+        "n": "سيرفر 6 ",
+        "u": "",
+        "t": "v"   },
+      { 
+  
+        "n": "سيرفر 7",
+        "u": "",
+        "t": "v"   },
+      { 
+  
+        "n": "سيرفر 8",
+        "u": "",
+        "t": "v"   },
+      { 
+  
+        "n": "سيرفر 9",
+        "u": "",
+        "t": "v"   },
+      { 
+  
+        "n": "سيرفر 10",
+        "u": "",
+        "t": "v"   },
+      { 
+  
+        "n": "سيرفر 11",
+        "u": "",
+        "t": "v"   },
+      { 
+  
+        "n": "سيرفر 12",
+        "u": "",
+        "t": "v"
+    ]
+  },
     {
-
     "n": "Alwan sport 1",
     "c": "رياضة إضافي",
     "s": [
