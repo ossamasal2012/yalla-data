@@ -1,5 +1,156 @@
 [
     {
+         {
+    "n": "Alwan sport 1",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+                 "n": "سيرفر 1",
+        "u": "http://test-sportina.cfd/ALWAN-1/video.m3u8",
+        "t": "v"
+      },
+      { 
+  
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
+        "t": "v"
+            },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 2",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        
+           "n": "سيرفر 1",
+        "u": "http://test-sportina.cfd/ALWAN-2/video.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan2.m3u8",
+        "t": "v"
+          },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - SD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665.ts",
+        "t": "v"
+     }
+    ]
+  },
+  {
+    "n": "Alwan sport 3",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "http://test-sportina.cfd/ALWAN-3/video.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan3.m3u8",
+        "t": "v"
+           },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - SD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 4",
+    "c": "كرة قدم",
+    "s": [
+      {
+           "n": "سيرفر رئيسي",
+        "u": "https://github.com/ossamasal2012/yalla-data/raw/refs/heads/main/files-channel/ALWAN4.m3u8",
+        "t": "v"
+            },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181670.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181671.ts",
+        "t": "v"
+   
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 5",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://github.com/ossamasal2012/yalla-data/raw/refs/heads/main/files-channel/ALWAN5.m3u8",
+        "t": "v"
+            },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181672.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181674.ts",
+        "t": "v" 
+      
+
+     }
+    ]
+  },
+    {
     "n": "Test",
     "c": "كرة قدم",
     "s": [
@@ -120,231 +271,33 @@
       }
     ]
   },
-  {
-    "n": "Alwan sport 1",
-    "c": "رياضة إضافي",
-    "s": [
-      {
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan1",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418112.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418113.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر رئيسي",
-        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1 - HD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 - SD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 2",
-    "c": "رياضة إضافي",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan2",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418115.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418116.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر رئيسي",
-        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan2.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1 - HD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 - SD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665.ts",
-        "t": "v"
-     }
-    ]
-  },
-  {
-    "n": "Alwan sport 3",
-    "c": "رياضة إضافي",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan3",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418118.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418119.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر رئيسي",
-        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan3.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1 - HD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667.ts",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 - SD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 4",
-    "c": "كرة قدم",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan4",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418121.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418122.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 5",
-    "c": "كرة قدم",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan5",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418124.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418125.m3u8",
-        "t": "v"
-     }
-    ]
-  },
+ 
   {
     "n": "Alwan sport 6",
     "c": "كرة قدم",
     "s": [
       {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan6",
+ "n": "سيرفر رئيسي",
+        "u": "https://github.com/ossamasal2012/yalla-data/raw/refs/heads/main/files-channel/ALWAN6.m3u8",
+        "t": "v"
+            },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181675.ts",
         "t": "v"
       },
       {
-        "n": "سيرفر 1",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418127.m3u8",
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts",
         "t": "v"
       },
       {
-        "n": "سيرفر 2",
-        "u": "http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418128.m3u8",
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181677.ts",
         "t": "v"
       }
     ]
   },
-    {
-    "n": "Alwan sport 7",
-    "c": "كرة قدم",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan7",
-        "t": "v"
-      
-      }
-    ]
-  },
-   {
-    "n": "Alwan sport 8",
-    "c": "كرة قدم",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan8",
-        "t": "v"
-      
-      }
-    ]
-  },
-   {
-    "n": "Alwan sport 9",
-    "c": "كرة قدم",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan9",
-        "t": "v"
-      
-      }
-    ]
-  },
-   {
-    "n": "Alwan sport 10",
-    "c": "كرة قدم",
-    "s": [
-      {
-        
-        "n": "افضل سيرفر",
-        "u": "https://redperch.space/dramacardinal.php?id=alwan10",
-        "t": "v"
-      
      }
     ]
   },
