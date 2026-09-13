@@ -1,6 +1,36 @@
 [
-    
-  {
+    {
+    "n": "1 مباراة خاصة",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4732712/master.m3u8",
+        "t": "v"
+      },
+        {
+
+        "n": "سيرفر 2",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/elahmad/stream?path=%2Ftv%2Fwatchtv.php%3Fid%3Dalfajertv&redirect=true",
+        "t": "v"
+        
+      }
+    ]
+  }, 
+     {
+    "n": "2 مباراة خاصة",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742076/master.m3u8",
+        "t": "v"
+        
+      }
+    ]
+  }, 
+    {
+  
     "n": " رايو فاليكانو vs ريال مدريد ",
     "c": "كرة قدم",
     "s": [
@@ -111,7 +141,7 @@
     "s": [
       
         {  
-  "n": "سيرفر 1 (API)",
+  "n": "سيرفر 1 ",
         "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742074/master.m3u8",
         "t": "v"
         },
@@ -129,7 +159,11 @@
     "c": "كرة قدم",
     "s": [
       {
-
+ "n": "سيرفر 1 (API)",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742072/master.m3u8",
+        "t": "v"
+      },
+        {
     
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
