@@ -7,13 +7,7 @@
         "n": "سيرفر 1",
         "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4732712/master.m3u8",
         "t": "v"
-      },
-        {
-
-        "n": "سيرفر 2",
-        "u": "https://live-tv-116849026166.europe-west1.run.app/api/elahmad/stream?path=%2Ftv%2Fwatchtv.php%3Fid%3Dalfajertv&redirect=true",
-        "t": "v"
-        
+ 
       }
     ]
   }, 
@@ -84,27 +78,9 @@
   
         "n": "سيرفر 11",
         "u": "http://f5944e6a.edemist.com/iptv/9EMB9V8Z6Z8CB7/31578/index.m3u8",
-        "t": "v" },
-      { 
+        "t": "v" 
   
-        "n": "سيرفر 12",
-        "u": "",
-        "t": "v" },
-      { 
-  
-        "n": "سيرفر 13",
-        "u": "",
-        "t": "v" },
-      { 
-  
-        "n": "سيرفر 14",
-        "u": "",
-        "t": "v" },
-      { 
-  
-        "n": "سيرفر 15",
-        "u": "",
-        "t": "v"
+        
       }
     ]
   },
@@ -149,6 +125,12 @@
           
         "n": "انترنت ضعيف",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
+        "t": "v"
+             },
+        {
+          
+        "n": "سيرفر 3 ",
+        "u": "http://re.new-redirect.online/live/918454578001/index.m3u8",
         "t": "v"
        
       }
