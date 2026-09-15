@@ -1,5 +1,32 @@
 [
     {
+    "n": " بث مباراة ريال مدريد ضد التشي (افضل سيرفرات)",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan2.m3u8",
+        "t": "v"
+          },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665.ts",
+        "t": "v"
+     }
+    ]
+  },
+    {
     "n": "1 مباراة خاصة",
     "c": "كرة قدم",
     "s": [
