@@ -1,6 +1,6 @@
 [
     {
-         {
+         
     "n": "beIN Sport",
     "c": "كرة قدم",
     "s": [
@@ -9,8 +9,6 @@
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beeein",
         "t": "v"
-      }.
-        {
             
       }
     ]
