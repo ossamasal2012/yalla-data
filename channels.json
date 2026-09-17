@@ -1,37 +1,215 @@
 [
     {
-    "n": " بث مباراة ريال مدريد ضد التشي (افضل سيرفرات)",
-    "c": "رياضة إضافي",
+         {
+    "n": "beIN Sport",
+    "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر رئيسي",
-        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
+
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beeein",
         "t": "v"
-            },
-      {
-        "n": "سيرفر 1 (4k)",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 1 - HD",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 - انترنت ضعيف",
-        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts",
-        "t": "v"
-      },
-         {
-        "n": "انترنت ضعيف",
-        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4732712/master.m3u8",
-        "t": "v"
-     }
+      }.
+        {
+            
+      }
     ]
   },
+  {
+    "n": "beIN Sport News",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beeenews",
+        "t": "v"
+        
+      }
+    ]
+  },
+
+ 
+  {
+    "n": "beIN Sport 1",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein1.m3u8",
+        "t": "v"
+      }.
+        { 
+  "n": "سيرفر 1 ",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742074/master.m3u8",
+        "t": "v"
+        },
+        {
+          
+        "n": "انترنت ضعيف",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
+        "t": "v" 
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 2",
+    "c": "كرة قدم",
+    "s": [
+      {
+          
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein2.m3u8",
+        "t": "v"
+      }.
+        { 
+ "n": "سيرفر 1 (API)",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742072/master.m3u8",
+        "t": "v"
+      },
+        {
+    
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 3",
+    "c": "كرة قدم",
+    "s": [
+      {
+          
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein3.m3u8",
+        "t": "v"
+      }.
+        { 
+          "n": "سيرفر 1",
+        "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8",
+        "t": "v"
+          },
+      {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1426.m3u8",
+        "t": "v"
+      
+          }, 
+        {
+                
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 4",
+    "c": "كرة قدم",
+    "s": [
+      {
+          
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein4.m3u8",
+        "t": "v"
+      }.
+        { 
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1427.m3u8",
+        "t": "v"
+      
+          }, 
+        {
+               
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
+        "t": "v"
+     
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 5",
+    "c": "كرة قدم",
+    "s": [
+      {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1428.m3u8",
+        "t": "v"
+      
+          }, 
+        {
+             
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 6",
+    "c": "كرة قدم",
+    "s": [
+      {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1429.m3u8",
+        "t": "v"
+      
+          }, 
+        {
+     
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
+        "t": "v"
+          
+      }
+    ]
+  },
+  {
+            
+    "n": "beIN Sport 7",
+    "c": "كرة قدم",
+    "s": [
+        {
+    "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1430.m3u8",
+        "t": "v"
+      
+          }, 
+        {
+             
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee7",
+        "t": "v"
+               
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 8",
+    "c": "كرة قدم",
+    "s": [
+        {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 9",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee9",
+        "t": "v"
+      }
+    ]
+  },
+   
     {
-    "n": "1 مباراة خاصة (يعمل اثناء المباريات فقط)",
+    "n": "TEST 1",
     "c": "كرة قدم",
     "s": [
       {
@@ -43,7 +221,7 @@
     ]
   }, 
      {
-    "n": "(اثناء المباريات فقط) 2 مباراة خاصة",
+    "n": "TEST 2",
     "c": "كرة قدم",
     "s": [
       {
@@ -281,189 +459,7 @@
      }
     ]
   },
-        {
-    "n": "beIN Sport",
-    "c": "كرة قدم",
-    "s": [
-      {
-
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beeein",
-        "t": "v"
-        
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport News",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beeenews",
-        "t": "v"
-        
-      }
-    ]
-  },
-
- 
-  {
-    "n": "beIN Sport 1",
-    "c": "كرة قدم",
-    "s": [
-      
-        {  
-  "n": "سيرفر 1 ",
-        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742074/master.m3u8",
-        "t": "v"
-        },
-        {
-          
-        "n": "انترنت ضعيف",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
-        "t": "v" 
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport 2",
-    "c": "كرة قدم",
-    "s": [
-      {
- "n": "سيرفر 1 (API)",
-        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742072/master.m3u8",
-        "t": "v"
-      },
-        {
-    
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport 3",
-    "c": "كرة قدم",
-    "s": [
-      {
-          "n": "سيرفر 1",
-        "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8",
-        "t": "v"
-          },
-      {
-    "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1426.m3u8",
-        "t": "v"
-      
-          }, 
-        {
-                
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport 4",
-    "c": "كرة قدم",
-    "s": [
-      {
-    "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1427.m3u8",
-        "t": "v"
-      
-          }, 
-        {
-               
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
-        "t": "v"
-     
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport 5",
-    "c": "كرة قدم",
-    "s": [
-      {
-    "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1428.m3u8",
-        "t": "v"
-      
-          }, 
-        {
-             
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport 6",
-    "c": "كرة قدم",
-    "s": [
-      {
-    "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1429.m3u8",
-        "t": "v"
-      
-          }, 
-        {
-     
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
-        "t": "v"
-          
-      }
-    ]
-  },
-  {
-            
-    "n": "beIN Sport 7",
-    "c": "كرة قدم",
-    "s": [
-        {
-    "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1430.m3u8",
-        "t": "v"
-      
-          }, 
-        {
-             
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee7",
-        "t": "v"
-               
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport 8",
-    "c": "كرة قدم",
-    "s": [
-        {
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee8",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "beIN Sport 9",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee9",
-        "t": "v"
-      }
-    ]
-  },
+       
     {
     "n": "Test",
     "c": "كرة قدم",
