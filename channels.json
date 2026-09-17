@@ -35,9 +35,9 @@
         "n": " سيرفر رئيسي",
         "u": "https://live-cdn.tofi-xtv.com/hls/bein1.m3u8",
         "t": "v"
-      }.
+        }.
         { 
-  "n": "سيرفر 1 ",
+        "n": "سيرفر 1 ",
         "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742074/master.m3u8",
         "t": "v"
         },
