@@ -1,1 +1,4220 @@
-https://iptv-org.github.io/
+[
+  {
+    "n": "beIN Sport",
+    "logo": "https://i.imgur.com/RLrMBlm.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beeein",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport News",
+    "logo": "https://i.imgur.com/ZNjQzR5.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beeenews",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 1",
+    "logo": "https://i.imgur.com/Vtk2cGI.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein1.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 ",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742074/master.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "انترنت ضعيف",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 2",
+    "logo": "https://i.imgur.com/vUJZSvs.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein2.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742072/master.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 3",
+    "logo": "https://i.imgur.com/UYSMao3.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein3.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1426.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 4",
+    "logo": "https://i.imgur.com/vwAgJNi.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر رئيسي",
+        "u": "https://live-cdn.tofi-xtv.com/hls/bein4.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1427.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 5",
+    "logo": "https://i.imgur.com/2Rha5aY.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1428.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 6",
+    "logo": "https://i.imgur.com/0wBdLYb.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1429.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 7",
+    "logo": "https://i.imgur.com/iODFwZi.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "hd ",
+        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1430.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee7",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 8",
+    "logo": "https://i.imgur.com/CaFEyVn.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sport 9",
+    "logo": "https://i.imgur.com/RLrMBlm.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee9",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "TEST 1",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4732712/master.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "TEST 2",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742076/master.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "TEST ",
+    "logo": "https://i.imgur.com/Vtk2cGI.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "2 سيرفر (للانترنت الضعيف)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
+        "t": "v"
+      },
+      {
+        "n": "3 سيرفر  ",
+        "u": "https://ss.oz-tv.site/bein_sport_1/tracks-v1a1/mono.m3u8?token=NjNhNTk1NzUwOWRmYTJhNGY5Y2E4Y2Y4NWI5YWViY2NlNzYyYjExMmQyODlmZmZjYWIzZDY3NDdmNWI4NDcxMTE5OWNjMDVlMTAwYjU4Y2Q1OTNmZTM5ZDc2Y2M3ZDMxLTE1NC4xODMuOTUuNTQtMTc4ODc5NjQwNi0xNzg4ODE4MDA2",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4  ",
+        "u": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iFTcdW8PJuMi3mJ7XqBvJF0g-JuV4Q2zLjNm0s42x2L3JLYDgzeuqnbY0NWgBi8sUKgEaq5zrycBORuVqOp-jQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 5",
+        "u": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/2523/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 6",
+        "u": "http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/30200/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 7",
+        "u": "http://f91a683f.ucomist.net/iptv/5RP4Z8B75ECLUA/31568/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 8",
+        "u": "http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/31568/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 9",
+        "u": "http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6566/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 10",
+        "u": "http://mmhiktxe.nexeraso.top/iptv/5G5LB3LYFYA9P2/2492/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 11",
+        "u": "http://f5944e6a.edemist.com/iptv/9EMB9V8Z6Z8CB7/31578/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 1",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan1-1.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 2",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan2.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - SD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 3",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://raw.githubusercontent.com/ossamasal2012/yalla-data/refs/heads/main/files-channel/alwan3.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - SD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 4",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://github.com/ossamasal2012/yalla-data/raw/refs/heads/main/files-channel/ALWAN4.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181670.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181671.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 5",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://github.com/ossamasal2012/yalla-data/raw/refs/heads/main/files-channel/ALWAN5.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181672.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181674.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 6",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر رئيسي",
+        "u": "https://github.com/ossamasal2012/yalla-data/raw/refs/heads/main/files-channel/ALWAN6.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (4k)",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181675.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 - HD",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 - انترنت ضعيف",
+        "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181677.ts",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Test",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://news.zentigo.online/albaplayer/menz/?serv=1",
+        "t": "i"
+      },
+      {
+        "n": "سيرفر 2",
+        "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3",
+        "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/270/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4",
+        "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/271/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 5",
+        "u": "http://bhkb93ji.lunexas.top/iptv/R2TUZXS9ZXKK7G4D367R4ZNN/20166/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 6",
+        "u": "http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/16025/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 7",
+        "u": "http://b84203c4.ottrast.com/iptv/LY9PHWZHRXA5SE/7269/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 8",
+        "u": "http://iyh5mlxw.klaipedalt.org/iptv/Q9HCQVD66DX86T/2561/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 9",
+        "u": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/31602/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 10",
+        "u": "http://itmg2urv.akciatv.ru/iptv/SCWLD8275RXLQ8/2532/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 11",
+        "u": "http://c3d09d96.ucomist.net/iptv/GFGDU5GN37YRF8/7263/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "سينمانا (ايرثلنك)",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://cinemana.shabakaty.com/home",
+        "t": "i"
+      }
+    ]
+  },
+  {
+    "n": " فيلم شباب البومب الجزء 3",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://github.com/ossamasal2012/yalla-data/releases/download/1.0/shabab-bomb-3.mp4",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2",
+        "u": "https://server45-hzfi.freeconvert.com/task/6a8df13245ec4a4036bb8643/compressed-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8-3-2026-WEB-DL---%5Br.cimalight.co%5D_1080p.mp4",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "قناة ريال مدريد",
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "تعليق انجليزي",
+        "u": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "تعليق عربي",
+        "u": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/P3nrBAPKXGg86EaDODDucxz0HNC7eC8EDABRTVNbM9Q0RMC7LoZYYqZf5Eo_LXXfy6-HfRZx8Wbv3VXaP691Vg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+        "t": "v"
+      },
+      {
+        "n": "تعليق اسباني",
+        "u": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "قناة برشلونة",
+    "logo": "https://i.imgur.com/d8x7c8i.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": " STC SPORT ",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://yuy7ygugyvtdd.koragoal.it.com/live/h1.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "4k بث مباريات ",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/1440p/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": " مناظر طبيعية ",
+    "logo": "https://i.imgur.com/882kd90.png",
+    "c": " عام",
+    "s": [
+      {
+        "n": "منظر 1",
+        "u": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+        "t": "v"
+      },
+      {
+        "n": "منظر 2",
+        "u": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": " ON Sport Plus ",
+    "logo": "https://i.imgur.com/NIMiorz.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 ",
+        "u": "https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "راديو المستقبل",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 ",
+        "u": "https://edge.mixlr.com/channel/vnvcj",
+        "t": "i"
+      }
+    ]
+  },
+  {
+    "n": "Thmanyah 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=th1",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Thmanyah 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=th2",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Thmanyah 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=th3",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "STARS PLAY SPORT",
+    "logo": "https://media.appgoblin.info/app-icons/962284784/96c1693e96c1333e_128.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=starz1",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Iraqia (1080p)",
+    "logo": "https://i.imgur.com/8qQouTW.jpg",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (esite-lab)",
+        "u": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Iraqia News (720p)",
+    "logo": "https://i.imgur.com/feQTXeZ.jpg",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (esite-lab)",
+        "u": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Iraqia Sport (720p)",
+    "logo": "https://i.imgur.com/DrrlxTO.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (esite-lab)",
+        "u": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "العراقية الرياضية",
+    "logo": "https://i.imgur.com/DrrlxTO.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=iraqiasport",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass One (1080p)",
+    "logo": "https://i.imgur.com/10mmlha.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass Two (1080p)",
+    "logo": "https://i.imgur.com/8w61kFX.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass Three (1080p)",
+    "logo": "https://i.imgur.com/d57BdFh.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass Four (1080p)",
+    "logo": "https://i.imgur.com/iDL65Wu.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass Five (1080p)",
+    "logo": "https://i.imgur.com/6RGNGsM.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass Six (1080p)",
+    "logo": "https://i.imgur.com/CrPSPSC.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass SHOOF (1080p)",
+    "logo": "https://shoof.alkass.net/assets/images/shoof.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alkass SHOOF 2 (1080p)",
+    "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (alkassdigital)",
+        "u": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "AS3 Sport TV (1080p)",
+    "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (as3sport)",
+        "u": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Bahrain Sports 1 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fBpLsbC.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ZkuZmIo.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Sports XTRA en Espanol (1080p)",
+    "logo": "https://i.imgur.com/V562tpO.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (cloudfront)",
+        "u": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Cricket Gold (1080p)",
+    "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (sofast)",
+        "u": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "DAZN Combat (1080p)",
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (amagi)",
+        "u": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "DSports Uruguay",
+    "logo": "https://i.imgur.com/2PoEm1x.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (cooks)",
+        "u": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FB TV",
+    "logo": "https://i.imgur.com/qBVqtYd.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (rocketcdn)",
+        "u": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ French (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ German (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ Hispanic America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ Italy (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ Portuguese (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ Spain (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ United States (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (cloudfront)",
+        "u": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FIFA+ Women (720p)",
+    "logo": "https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (wurl)",
+        "u": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "ACCDN (1080p)",
+    "logo": "https://i.imgur.com/V6Kaqha.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (amagi)",
+        "u": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC 1",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "http://cloth.orangecord.net/pdf/3050/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "mbc 2",
+    "logo": "https://i.imgur.com/n9mSHuP.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC2/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3051/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=mbc2",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC 3",
+    "logo": "https://i.imgur.com/PVt8OPN.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC3/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3052/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC 4",
+    "logo": "https://i.imgur.com/BcXASJp.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC4/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3053/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC 5",
+    "logo": "https://i.imgur.com/fRWaDyF.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBC5/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3054/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "mbc action",
+    "logo": "https://i.imgur.com/OWZAghw.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCAction/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3056/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=mbcaction",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC دراما",
+    "logo": "https://i.imgur.com/g5PWnqp.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCDrama/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC+ دراما",
+    "logo": "https://i.imgur.com/lxWdjXG.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/3058/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC بوليوود",
+    "logo": "https://i.imgur.com/TTAGFHG.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCBollywood/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC عراق",
+    "logo": "https://i.imgur.com/D0LxiPE.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCIRAQHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "mbc masr",
+    "logo": "https://i.imgur.com/o2elx0u.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMASR/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "mbc masr 2",
+    "logo": "https://i.imgur.com/KHo7Gtn.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMasr2/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "mbc max",
+    "logo": "https://i.imgur.com/A02CptP.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر رئيسي ",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCMAX/index.m3u8?token==",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 1 (API)",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=mbcmax",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CN ARABIA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "1 سيرفر ",
+        "u": "https://tv.qanwatlive.com/2025/03/blog-post.html",
+        "t": "i"
+      }
+    ]
+  },
+  {
+    "n": "beIN Baraem HD",
+    "logo": "https://i.imgur.com/7woV4Cz.png",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhsfxcef3g2UlY1GAo/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Drama HD 1",
+    "logo": "https://i.imgur.com/d6AGFro.png",
+    "c": "General",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGg7BRceAV1GEQQ2GHcRfQ/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Dream Works",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhse2lmXkwaDyAACndiFmsTCw/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Fatafeat HD",
+    "logo": "https://i.imgur.com/jCsUXTk.png",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGhlcWFnXkwMChcPGXEWa3E/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Nat Geo Wild HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNNatGeoWildHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Outdoor",
+    "logo": "https://i.imgur.com/RLrMBlm.png",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGgfBRMeYwJCVABxKhJROnE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Series HD 1",
+    "logo": "https://i.imgur.com/nCkbPOD.png",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGgcChFjAABFXghwNmdjBnE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Series HD 2",
+    "logo": "https://i.imgur.com/c0B8bmf.png",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGg-cDRnDw1FVVUlOUNnFBp3Cw/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "beIN Disney Junior",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/IC0gRg9bSFNxbAsWZmkLFRZASWV7fGg-cDRlVAwZVwBzFmJ9ZGsK/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL+",
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "c": "Canal+ France",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CANAL/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL D",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/960px-CanalD.svg.png",
+    "c": "Canal+ France",
+    "s": [
+      {
+        "n": "سيرفر 1 (probechef)",
+        "u": "http://3242ftgdgfdhtryt.probechef.net:8080/2287341/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL+ Sport",
+    "logo": "https://i.imgur.com/EOXnU15.png",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZMXV9CgQGFxZkY2s/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "CANAL Vie HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/CanalVie.svg/960px-CanalVie.svg.png",
+    "c": "Canal+ France",
+    "s": [
+      {
+        "n": "سيرفر 1 (billyphilly)",
+        "u": "http://stream.billyphilly.com/p/W10GdgR6VVY/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Chasse & Pêche",
+    "logo": "https://i.imgur.com/ZIS2ZQ1.png",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CHASSE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Chérie 25",
+    "logo": "https://img1.dc2.oqee.net/channel_pictures/3606/w512",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CHERIE25/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Emotion HD",
+    "logo": "https://i.imgur.com/upYjPvc.jpeg",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CINEEMOTION/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Pop",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR1003/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Premier",
+    "logo": "https://i.imgur.com/b20LLN6.png",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-CINEPREMIER/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ciné Frisson",
+    "logo": "https://i.imgur.com/MwFtbnR.jpeg",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR1006/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "TF1",
+    "logo": "https://i.imgur.com/QxHt9NC.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-TF1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE3/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE4/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE5/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "France Foot",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE0/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "W9",
+    "logo": "https://i.imgur.com/reYeMuE.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/W9_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "6TER HD",
+    "logo": "https://i.imgur.com/2nd5Cox.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-6TERHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Paris Première",
+    "logo": "https://i.imgur.com/ily4bEm.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-PARISPREMIERE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "City Montreal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MAtv_%28en%29_logo.png/960px-MAtv_%28en%29_logo.png",
+    "c": "French TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR1004/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Disney Channel FR",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-DISNEYCHANNEL/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Disney Cinema FR",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/960px-Disney_cinema_logo.png",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/DisneyCinema_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Disney Junior",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-DISNEYJR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Nickelodeon",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-NICKELODEON/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Teletoon FR",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png",
+    "c": "Kids",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-TELETOON/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Nat Geo FR",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/NATGEO_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Nat Geo Wild FR",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/NATGEO_WILD_FR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "History French",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "c": "Documentary",
+    "s": [
+      {
+        "n": "سيرفر 1 (185.246.209.71)",
+        "u": "http://185.246.209.71:8080/3740877/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "RMC Sport 1",
+    "logo": "https://i.imgur.com/NsFTG7u.png",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZIFlQODg6NS0HGA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "RMC Sport 2",
+    "logo": "https://i.imgur.com/nZd8aPo.png",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZIFlQODg6NS0EGA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "RMC Sport 3",
+    "logo": "https://i.imgur.com/37GNibZ.png",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (bottledesk)",
+        "u": "http://stream.bottledesk.net/p/cmdZIFlQODg6NS0FGA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Série Club HD",
+    "logo": "https://i.imgur.com/V8wRRg5.png",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-SERIECLUB/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Série +",
+    "logo": "https://i.imgur.com/pXVgaD5.png",
+    "c": "Series",
+    "s": [
+      {
+        "n": "سيرفر 1 (billyphilly)",
+        "u": "http://stream.billyphilly.com/p/UV0HcgJwU1Y/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ushuaïa",
+    "logo": "https://i.imgur.com/WjjlqbP.png",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-USHUAIA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Zeste",
+    "logo": "https://i.imgur.com/gS8BioG.png",
+    "c": "Lifestyle",
+    "s": [
+      {
+        "n": "سيرفر 1 (cammonitorplus)",
+        "u": "http://stream.cammonitorplus.net/FR10017/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Action HD",
+    "logo": "https://i.imgur.com/Zv9VsVq.png",
+    "c": "Movies",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/FR-ACTIONHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "AlBilad Algérie",
+    "logo": "https://i.imgur.com/7c1JjCd.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/AlBilad-ALG/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 1",
+    "logo": "https://i.imgur.com/F0DOrxX.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/alg1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 2",
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2CanalAlgerieHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 3 A3",
+    "logo": "https://i.imgur.com/EQTGCbm.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/alg3/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Tamazight 4",
+    "logo": "https://i.imgur.com/BZvdjBN.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TV4/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria 5 Quran",
+    "logo": "https://i.imgur.com/zQr0SDM.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TV5/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Algeria TV 7",
+    "logo": "https://i.imgur.com/40rR4hD.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TV7ELMAARIFA/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Echorouk TV",
+    "logo": "https://i.imgur.com/33rf7KV.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2EchoroukTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Echorouk News",
+    "logo": "https://i.imgur.com/TNtjYcw.png",
+    "c": "News",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2EchoroukNEWS/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Barlamaniya",
+    "logo": "https://i.imgur.com/fGO0WUa.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ElBarlamaniya/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Djazair N1",
+    "logo": "https://i.imgur.com/jnuu5eN.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ElDjazairN1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Hayat",
+    "logo": "https://i.imgur.com/C0s1I8w.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ELHAYATTVALGERIE/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Wataniya",
+    "logo": "https://i.imgur.com/NKR8WFq.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ElwataniaAlgerie/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Heddaf",
+    "logo": "https://i.imgur.com/cDkIDIA.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2ELHEDDAFTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ennahar",
+    "logo": "https://i.imgur.com/C0TCA1s.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2EnnaharTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Samira TV",
+    "logo": "https://i.imgur.com/XZzINfq.png",
+    "c": "Algeria TV",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2SamiraTV/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Maroc Tamazight",
+    "logo": "https://freebox.cdn.scw.iliad.fr/552_56201db052.png",
+    "c": "Maghreb",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2Tamazight/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Tunisia Wataniya",
+    "logo": "https://i.imgur.com/gNr2V14.png",
+    "c": "Maghreb",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2TunisiaNat1HD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Tunisia Wataniya 2",
+    "logo": "https://i.imgur.com/kgkrD3V.png",
+    "c": "Maghreb",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/satTunisiaNat2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "ON Time Sport HD",
+    "logo": "https://i.imgur.com/NIMiorz.png",
+    "c": "Sports",
+    "s": [
+      {
+        "n": "سيرفر 1 (woodfencepods)",
+        "u": "http://stream.woodfencepods.com/pdf/OzggeXsgLi8CDXVrAAp2bGdb/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Plus",
+    "logo": "https://i.imgur.com/UnTtMbe.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap9/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Power",
+    "logo": "https://i.imgur.com/SWa6PX4.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap14/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Premium",
+    "logo": "https://i.imgur.com/UnTtMbe.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap1/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Premium 2",
+    "logo": "https://i.imgur.com/UnTtMbe.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Seven",
+    "logo": "https://i.imgur.com/UnTtMbe.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap5/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Ten",
+    "logo": "https://i.imgur.com/UnTtMbe.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap8/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Toon",
+    "logo": "https://i.imgur.com/UnTtMbe.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap17/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Variety+",
+    "logo": "https://i.imgur.com/SfA0YaR.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/3064/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Zoom",
+    "logo": "https://i.imgur.com/UnTtMbe.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/ap12/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Iraq HD",
+    "logo": "https://i.imgur.com/D0LxiPE.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/sat2MBCIRAQHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Masr",
+    "logo": "https://i.imgur.com/o2elx0u.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMASR/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MBC Masr 2",
+    "logo": "https://i.imgur.com/KHo7Gtn.png",
+    "c": "MBC",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/satMBCMasr2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Movies Action",
+    "logo": "https://i.imgur.com/uOzyKup.png",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNACTIONHD/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Movies Family",
+    "logo": "https://i.imgur.com/uOzyKup.png",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNFAMLY/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Movies First",
+    "logo": "https://i.imgur.com/uOzyKup.png",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNMoviesFirst2/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "OSN Showcase",
+    "logo": "https://i.imgur.com/o43yDem.png",
+    "c": "OSN",
+    "s": [
+      {
+        "n": "سيرفر 1 (orangecord)",
+        "u": "http://cloth.orangecord.net/pdf/OSNMOVIESFIRST/index.m3u8?token==",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Rasheed TV (1080p) [ليس 24/7]",
+    "logo": "https://i.imgur.com/ltyRjPK.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (Livaat)",
+        "u": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "ACI Sport TV (1080p)",
+    "logo": "https://i.imgur.com/U8cHMOt.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (multistream)",
+        "u": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Fox Deportes (1280p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (cooks)",
+        "u": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Sport (1080p)",
+    "logo": "https://i.imgur.com/2EmrZPQ.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (10)",
+        "u": "http://93.184.10.248/JordanSport/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (ercdn)",
+        "u": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "KTV Sport (1080p)",
+    "logo": "https://i.imgur.com/R1hGX1d.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (mangomolo)",
+        "u": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "KTV Sport Plus (1080p)",
+    "logo": "https://i.imgur.com/l4oX0gf.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (mangomolo)",
+        "u": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Multivisión Sports (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/wLjSSo2.jpg",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (digitalgt)",
+        "u": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Oman Sports TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1omi7p8.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (mgmlcdn)",
+        "u": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "ليبيا الوطنية",
+    "logo": "https://i.imgur.com/KSUny9D.jpeg",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "الشرقيه",
+    "logo": "https://i.imgur.com/mJIG5IV.png",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "الشرقيه الاخبارية",
+    "logo": "https://i.imgur.com/PeAcXB9.png",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "القران",
+    "logo": "https://i.ibb.co/qjsV044/IMG-20230628-141804.jpg",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (ktvlive)",
+        "u": "https://ktvlive.online/stream/hls/ch1.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "عراق المستقبل",
+    "logo": "https://i.imgur.com/Z7woTe5.png",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (bozztv)",
+        "u": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "امام حسين 1",
+    "logo": "https://i.imgur.com/pDdUvz7.png",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (imamhossaintv)",
+        "u": "https://live.imamhossaintv.com/live/ih2.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Abdulmajeed Abdullah (1080p)",
+    "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (cloudfront)",
+        "u": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alarabiya (1080p)",
+    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (alarabiya)",
+        "u": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (alarabiya)",
+        "u": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Arabiya Business (1080p)",
+    "logo": "https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",
+    "c": "أعمال",
+    "s": [
+      {
+        "n": "سيرفر 1 (alarabiya)",
+        "u": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Arabiya English (1080p)",
+    "logo": "https://i.ibb.co/fVfP7Yvy/en-night-logo.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (alarabiya)",
+        "u": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (edgenextcdn)",
+        "u": "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Arabiya Programs (1280p)",
+    "logo": "https://i.imgur.com/Hoc3cfO.png",
+    "c": "وثائقي;أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (alarabiya)",
+        "u": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Araby TV 2 (1080p)",
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (ottera)",
+        "u": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alaraby 2 TV (1080p)",
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (nextologies)",
+        "u": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Araby TV (1080p)",
+    "logo": "https://i.imgur.com/YMqWEe4.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (nextologies)",
+        "u": "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (ottera)",
+        "u": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Ekhbariya (1080p)",
+    "logo": "https://i.imgur.com/WcRlHQm.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Ghad TV (1080p)",
+    "logo": "https://i.imgur.com/ga6NXb9.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (erbvr)",
+        "u": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Hadath (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/De4SEWE.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (alarabiya)",
+        "u": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Hadath TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/De4SEWE.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (alarabiya)",
+        "u": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alhaqeqa Aldawlia (1080p) [Not 24/7]",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (ghaasiflu)",
+        "u": "https://ghaasiflu.online/alhqeqa/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Saudiya (1080p)",
+    "logo": "https://i.imgur.com/GRQTndk.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Saudiya Alaan (1080p)",
+    "logo": "https://i.imgur.com/sEOjApe.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Shallal TV (1080p)",
+    "logo": "https://i.imgur.com/otAHLRo.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (amagi)",
+        "u": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al-Sharqiya (1080p)",
+    "logo": "https://i.imgur.com/mJIG5IV.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Sharqiya Min Kabla (1080p)",
+    "logo": "https://i.imgur.com/m4qheI4.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al-Sharqiya News (1080p)",
+    "logo": "https://i.imgur.com/PeAcXB9.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Sunnah Al Nabawiyah TV (360p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Altaghier TV (1080p)",
+    "logo": "https://i.imgur.com/YTyCBvB.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (ercdn)",
+        "u": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Wilayah (720p)",
+    "logo": "https://i.imgur.com/OI1HQv5.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (livekadeh)",
+        "u": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Wousta TV (1080p)",
+    "logo": "https://i.imgur.com/zgMqQPQ.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Yaum TV (1080p)",
+    "logo": "https://i.imgur.com/rBixF3P.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (akamaized)",
+        "u": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Amman TV (720p)",
+    "logo": "https://i.imgur.com/5l7kw0b.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (ercdn)",
+        "u": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (erbvr)",
+        "u": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Amou Yazid TV (576p)",
+    "logo": "https://i.imgur.com/L8UPGPC.png",
+    "c": "أطفال",
+    "s": [
+      {
+        "n": "سيرفر 1 (servehttp)",
+        "u": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Asharq Discovery (1080p)",
+    "logo": "https://i.imgur.com/Czxi7yk.png",
+    "c": "وثائقي;تعليم",
+    "s": [
+      {
+        "n": "سيرفر 1 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Asharq Documentary (1080p)",
+    "logo": "https://i.imgur.com/v6VsFEt.png",
+    "c": "وثائقي",
+    "s": [
+      {
+        "n": "سيرفر 1 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Asharq News (1080p)",
+    "logo": "https://i.imgur.com/bqRC3sl.png",
+    "c": "أعمال;أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (asharq)",
+        "u": "https://live-news.asharq.com/asharq.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Asharq Radio (1080p)",
+    "logo": "https://i.imgur.com/M6K8cD3.jpeg",
+    "c": "أعمال;أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Assirat TV (576p)",
+    "logo": "https://i.imgur.com/ps4Gtj0.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (b-cdn)",
+        "u": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Atfal & Mawaheb TV (1080p)",
+    "logo": "https://i.imgur.com/Y2BqP9m.png",
+    "c": "أطفال",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (streamlock)",
+        "u": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Avar TV (1080p)",
+    "logo": "https://i.imgur.com/JazFBkW.jpeg",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (host247)",
+        "u": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Bab Al Hara (1080p)",
+    "logo": "https://i.imgur.com/QtlnZbq.png",
+    "c": "مسلسلات",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Big Time Plus (1080p)",
+    "logo": "https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Ch4Teen",
+    "logo": "https://i.imgur.com/pHpFGeg.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (ch14)",
+        "u": "https://ch14.tv/live/ch4teenclip/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "El Radio 9090 FM (480p)",
+    "logo": "https://www.9090.fm/images/logo.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (mobtada)",
+        "u": "https://9090video.mobtada.com/hls/stream.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "EmanTv (1080p)",
+    "logo": "https://i.imgur.com/QmgaPSi.png",
+    "c": "عائلة",
+    "s": [
+      {
+        "n": "سيرفر 1 (host247)",
+        "u": "https://avr.host247.net/live/emantv/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Fairuz (1080p)",
+    "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Falastini TV (1080p)",
+    "logo": "https://i.imgur.com/6B3Cims.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (tactivemedia)",
+        "u": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FX TV 1",
+    "logo": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (wns)",
+        "u": "https://fxtvhls.wns.live/hls/stream.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "FX TV 2",
+    "logo": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (wns)",
+        "u": "https://toonixhls.wns.live/hls/stream.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Goal Zone (1080p)",
+    "logo": "https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png",
+    "c": "رياضة",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Holy Quran Radio Nablus (720p)",
+    "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (zaytonatube)",
+        "u": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "iFilm Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+    "c": "أفلام",
+    "s": [
+      {
+        "n": "سيرفر 1 (presstv)",
+        "u": "https://live.presstv.ir/hls/ifilmar.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "iNEWS TV (1080p)",
+    "logo": "https://i.imgur.com/9lOuzHQ.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (i-news)",
+        "u": "https://live.i-news.tv/hls/stream.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Iqraa Africa & Europe (1080p)",
+    "logo": "https://i.imgur.com/nUlZvSe.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Iqraa Arabic (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/HPVsIa4.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Iqraa Quran (1080p)",
+    "logo": "https://i.imgur.com/HPVsIa4.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Iran Press",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (presstv)",
+        "u": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Iraq Future (480p)",
+    "logo": "https://i.imgur.com/Z7woTe5.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (bozztv)",
+        "u": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jeddah Radio (1080p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Archive (1080p)",
+    "logo": "https://i.imgur.com/8UrCl4k.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Comedy (1080p)",
+    "logo": "https://i.imgur.com/DuwwoO2.png",
+    "c": "كوميديا",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Drama (1080p)",
+    "logo": "https://i.imgur.com/gvIAEsJ.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Kitchen (1080p)",
+    "logo": "https://i.imgur.com/B45qcQX.png",
+    "c": "طبخ",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Songs (1080p)",
+    "logo": "https://i.imgur.com/1DE7Gmw.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Tourism (1080p)",
+    "logo": "https://i.imgur.com/gpeIoU9.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Jordan Satellite Channel (1080p)",
+    "logo": "https://i.imgur.com/0XozB5N.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (ercdn)",
+        "u": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "KTV News (1080p)",
+    "logo": "https://i.imgur.com/erZ0Ol1.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (mangomolo)",
+        "u": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Majid Al Mohandis (1080p)",
+    "logo": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (akamaized)",
+        "u": "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Makkah TV (576p)",
+    "logo": "https://i.ibb.co/r2k71w5N/download.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (streambrothers)",
+        "u": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Marina TV (1080p)",
+    "logo": "https://i.imgur.com/F2PzEaw.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (gulfsat)",
+        "u": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Marjaeyat TV Arabic (1080p)",
+    "logo": "https://i.imgur.com/LsYYkUI.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (marjaeyattv)",
+        "u": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Marjaeyat TV Persian (240p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fCj05f0.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (marjaeyattv)",
+        "u": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Mix Hollywood (1080p)",
+    "logo": "https://i.imgur.com/1ENdbZn.png",
+    "c": "أفلام",
+    "s": [
+      {
+        "n": "سيرفر 1 (myco)",
+        "u": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Mixkurdy (1080p)",
+    "logo": "https://i.imgur.com/WHeH5i7.png",
+    "c": "عائلة",
+    "s": [
+      {
+        "n": "سيرفر 1 (host247)",
+        "u": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Mohammed Abdo (1080p)",
+    "logo": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (cloudfront)",
+        "u": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Movies Action (1080p)",
+    "logo": "https://i.imgur.com/NIVhISa.png",
+    "c": "أفلام",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Movies Thriller (1080p)",
+    "logo": "https://i.imgur.com/JWihdcl.png",
+    "c": "أفلام",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "MusawaChannel (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/GB2Q9kl.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (furrera)",
+        "u": "https://pbc.furrera.ps/musawahd/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Nidae AlIslam Radio (1080p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "NogoumFMTV (672p) [Not 24/7]",
+    "logo": "https://i.imgur.com/krp3kgv.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (nrpstream)",
+        "u": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Palestine Edu (1080p)",
+    "logo": "https://i.imgur.com/AwVHXyC.png",
+    "c": "تعليم",
+    "s": [
+      {
+        "n": "سيرفر 1 (furrera)",
+        "u": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Palestine Mubasher (1080p)",
+    "logo": "https://i.imgur.com/68llVTZ.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (furrera)",
+        "u": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Palestine Satellite Channel (1080p)",
+    "logo": "https://i.imgur.com/4B5FvmX.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (furrera)",
+        "u": "https://pbc.furrera.ps/palestinehd/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Palestine Today (480p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/BS8XXug.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (paltodaytv)",
+        "u": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Panorama FM (1080p)",
+    "logo": "https://i.imgur.com/JkDD3bK.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (cloudfront)",
+        "u": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Qatar Television 2 (720p)",
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (akamaized)",
+        "u": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Qatar Television (1080p)",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Quran Radio (1080p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Rabeh Saqer (1080p)",
+    "logo": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Radio Albalad TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (zaytonatube)",
+        "u": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (zaytonatube)",
+        "u": "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Radio Fann Jordan Studio (1080p) [Not 24/7]",
+    "logo": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (116)",
+        "u": "http://45.63.116.205/hls2/stream1.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Radio Yaqeen Jordan City View (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/wHOQU0R.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (116)",
+        "u": "http://45.63.116.205/hls4/stream1.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Rajeen TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/6Cx22ya.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (mncdn)",
+        "u": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Rashid AlMajed (1080p)",
+    "logo": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (cloudfront)",
+        "u": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "RasoulallahTv (1080p)",
+    "logo": "https://i.imgur.com/Jh5ADee.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (host247)",
+        "u": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Rojava TV (1080p)",
+    "logo": "https://i.imgur.com/42noysO.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (akamaized)",
+        "u": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Roya Comedy (1080p)",
+    "logo": "https://i.imgur.com/oIThcM8.png",
+    "c": "كوميديا",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Roya Drama (1080p)",
+    "logo": "https://i.imgur.com/V7I0MVf.png",
+    "c": "مسلسلات",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Roya Kids",
+    "logo": "https://i.imgur.com/acuCGF8.png",
+    "c": "أطفال",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Roya Kids Originals (1080p)",
+    "logo": "https://i.imgur.com/acuCGF8.png",
+    "c": "أطفال",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Roya Kitchen (1080p)",
+    "logo": "https://i.imgur.com/lWfh8pP.png",
+    "c": "طبخ",
+    "s": [
+      {
+        "n": "سيرفر 1 (fasttvcdn)",
+        "u": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Saudia Radio (1080p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/32/f9/fullhd_4c7e170fe0169d36ed17d45a645d4e69fb961793.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Saudi Thaqafiya TV (1080p)",
+    "logo": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
+    "c": "ثقافة",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "SBC (1080p)",
+    "logo": "https://i.imgur.com/9JSQglj.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Shabab FM (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4Cyz4Bn.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (zaytonatube)",
+        "u": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Shams TV (1080p)",
+    "logo": "https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (shams)",
+        "u": "https://stream.shams.tv/hls/stream.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Sharjah Radio Quran (1080p)",
+    "logo": "https://i.imgur.com/MxZlOvc.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Sharjah TV (1080p)",
+    "logo": "https://i.imgur.com/Oz2bPOt.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (kwikmotion)",
+        "u": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Sky News Arabia (1080p)",
+    "logo": "https://i.imgur.com/SvjU4h6.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (skynewsarabia)",
+        "u": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (skynewsarabia)",
+        "u": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (skynewsarabia)",
+        "u": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4 (skynewsarabia)",
+        "u": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Sky News Arabia Vertical (1080p)",
+    "logo": "https://i.imgur.com/FjtzQQs.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (skynewsarabia)",
+        "u": "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Spacetoon Arabic (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+    "c": "رسوم متحركة;أطفال",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (spacetoongo)",
+        "u": "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Tarab (1080p)",
+    "logo": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (shahid)",
+        "u": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "VOX1",
+    "logo": "https://i.imgur.com/YtCmlNT.png",
+    "c": "ترفيه",
+    "s": [
+      {
+        "n": "سيرفر 1 (vox1)",
+        "u": "https://hls.vox1.live/hls/stream.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Wanasah (1080p)",
+    "logo": "https://i.imgur.com/nLtiXNf.png",
+    "c": "موسيقى",
+    "s": [
+      {
+        "n": "سيرفر 1 (edgenextcdn)",
+        "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Watan TV (1080p)",
+    "logo": "https://i.imgur.com/pZyKaUH.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (tactivemedia)",
+        "u": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Zagros (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9Mspf32.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (streamlock)",
+        "u": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Watar Radio (1080p)",
+    "logo": "https://maraya.faulio.com/storage/mediagallery/33/d7/fullhd_b25ca838c984b6ee2a9a254560f1e7bc1b04aa33.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (itworkscdn)",
+        "u": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Qamar TV (1080p)",
+    "logo": "https://i.imgur.com/zkBT0C8.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (premio)",
+        "u": "https://streamer3.premio.link/alqamar/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Rayyan Al Qadeem (1080p)",
+    "logo": "https://i.imgur.com/4qB5iN0.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (vidgyor)",
+        "u": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Rayyan (1080p)",
+    "logo": "https://i.imgur.com/Ts3RjTV.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (vidgyor)",
+        "u": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al-Jawadain TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Eo3UYCK.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (aljawadain)",
+        "u": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Jazeera (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (getaj)",
+        "u": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (getaj)",
+        "u": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (getaj)",
+        "u": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4 (thehlive)",
+        "u": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 5 (antik)",
+        "u": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Jazeera English (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (getaj)",
+        "u": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (getaj)",
+        "u": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (thehlive)",
+        "u": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4 (cloudfront)",
+        "u": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Jazeera Arabic (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (getaj)",
+        "u": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (getaj)",
+        "u": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "c": "وثائقي",
+    "s": [
+      {
+        "n": "سيرفر 1 (getaj)",
+        "u": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (getaj)",
+        "u": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (thehlive)",
+        "u": "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4 (getaj)",
+        "u": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Jazeera Mubasher 24 (1080p)",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (getaj)",
+        "u": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (getaj)",
+        "u": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (thehlive)",
+        "u": "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Jazeera Mubasher (1080p)",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (getaj)",
+        "u": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (getaj)",
+        "u": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (thehlive)",
+        "u": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4 (getaj)",
+        "u": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (getaj)",
+        "u": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2 (getaj)",
+        "u": "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (thehlive)",
+        "u": "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Maaref TV (1080p)",
+    "logo": "https://i.imgur.com/QFnztgo.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (zeuscdn724)",
+        "u": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Madina (720p)",
+    "logo": "https://i.imgur.com/NVOeM3P.png",
+    "c": "غير مصنف",
+    "s": [
+      {
+        "n": "سيرفر 1 (zaytonatube)",
+        "u": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Masirah (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/V055t5e.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (cdnbridge)",
+        "u": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Najah News (720p)",
+    "logo": "https://i.imgur.com/c2bwn4G.png",
+    "c": "أخبار",
+    "s": [
+      {
+        "n": "سيرفر 1 (najah)",
+        "u": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alquran (1080p)",
+    "logo": "https://i.imgur.com/lqVwrAF.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (ktvlive)",
+        "u": "https://ktvlive.online/stream/hls/ch1.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al Quran Al Kareem TV (360p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (akamaized)",
+        "u": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "TEST",
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1 (popcdn)",
+        "u": "https://popcdn.day/cue.php?stream=FOXSPORTS1",
+        "t": "i"
+      },
+      {
+        "n": "سيرفر 2 (com)",
+        "u": "https://x1co.com.br/hls/stream.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3 (forip)",
+        "u": "http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641628.ts",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4 ",
+        "u": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd",
+        "t": "i"
+      }
+    ]
+  },
+  {
+    "n": "اجيال افلام",
+    "logo": "https://i.imgur.com/i6Y7beR.jpg",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (ghaasiflu)",
+        "u": "https://htvajyal.mada.ps:4433/ajyal/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "دجله",
+    "logo": "https://i.imgur.com/kyzH3G5.png",
+    "c": "عام",
+    "s": [
+      {
+        "n": "سيرفر 1 (ghaasiflu)",
+        "u": "https://ghaasiflu.online/Dijlah/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Al-Sahat TV (720p)",
+    "logo": "https://i.imgur.com/UVndAta.png",
+    "c": "ديني",
+    "s": [
+      {
+        "n": "سيرفر 1 (b-cdn)",
+        "u": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
+        "t": "v"
+      }
+    ]
+  }
+]
