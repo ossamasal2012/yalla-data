@@ -30,11 +30,6 @@
     "s": [
       {
 
-        "n": "سيرفر 1 ",
-        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742074/master.m3u8",
-        "t": "v"
-      },
-      {
         "n": "انترنت ضعيف",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
         "t": "v"
@@ -48,11 +43,7 @@
     "s": [
       {
 
-        "n": "سيرفر 1 (API)",
-        "u": "https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742072/master.m3u8",
-        "t": "v"
-      },
-      {
+
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
         "t": "v"
@@ -88,16 +79,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": " سيرفر رئيسي",
-        "u": "https://live-cdn.tofi-xtv.com/hls/bein4.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1427.m3u8",
-        "t": "v"
-      },
-      {
+
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
         "t": "v"
@@ -110,11 +92,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1428.m3u8",
-        "t": "v"
-      },
-      {
+
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
         "t": "v"
@@ -127,11 +105,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1429.m3u8",
-        "t": "v"
-      },
-      {
+
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
         "t": "v"
@@ -144,11 +118,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "hd ",
-        "u": "https://dev-kdtv.pantheonsite.io/yacin/yacin1.php?action=stream&id=1430.m3u8",
-        "t": "v"
-      },
-      {
+
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee7",
         "t": "v"
