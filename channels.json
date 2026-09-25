@@ -1816,7 +1816,7 @@
   },
   {
     "n": "OSN Movies Action",
-    "logo": "https://i.imgur.com/uOzyKup.png",
+    "logo": "https://cablevision.com.lb/Content/uploads/Channel/1686302082.png",
     "c": "OSN",
     "s": [
       {
@@ -1828,7 +1828,7 @@
   },
   {
     "n": "OSN Movies Family",
-    "logo": "https://i.imgur.com/uOzyKup.png",
+    "logo": "https://cablevision.com.lb/Content/uploads/Channel/1686303000.png",
     "c": "OSN",
     "s": [
       {
@@ -1840,7 +1840,7 @@
   },
   {
     "n": "OSN Movies First",
-    "logo": "https://i.imgur.com/uOzyKup.png",
+    "logo": "https://cablevision.com.lb/Content/uploads/Channel/1672929531.png",
     "c": "OSN",
     "s": [
       {
@@ -1852,7 +1852,7 @@
   },
   {
     "n": "OSN Showcase",
-    "logo": "https://i.imgur.com/o43yDem.png",
+    "logo": "https://cablevision.com.lb/Content/uploads/Channel/1686301908.png",
     "c": "OSN",
     "s": [
       {
@@ -2049,7 +2049,7 @@
   },
   {
     "n": "Alarabiya (1080p)",
-    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/960px-Al-Arabiya_new_logo.svg.png?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "c": "أخبار",
     "s": [
       {
@@ -2083,7 +2083,7 @@
   },
   {
     "n": "Al Arabiya English (1080p)",
-    "logo": "https://i.ibb.co/fVfP7Yvy/en-night-logo.png",
+    "logo": "https://m.media-amazon.com/images/I/613SjtpFQ3L.png",
     "c": "أخبار",
     "s": [
       {
@@ -2192,7 +2192,7 @@
   },
   {
     "n": "Al Hadath (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/De4SEWE.png",
+    "logo": "https://i.imgur.com/Mh39hJV.jpeg",
     "c": "أخبار",
     "s": [
       {
@@ -2203,20 +2203,8 @@
     ]
   },
   {
-    "n": "Al Hadath TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/De4SEWE.png",
-    "c": "أخبار",
-    "s": [
-      {
-        "n": "سيرفر 1 (alarabiya)",
-        "u": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-        "t": "v"
-      }
-    ]
-  },
-  {
     "n": "Alhaqeqa Aldawlia (1080p) [Not 24/7]",
-    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
+    "logo": "https://jordandir.com/images/links/1711029171.webp",
     "c": "أخبار",
     "s": [
       {
@@ -2394,7 +2382,7 @@
   },
   {
     "n": "Asharq Discovery (1080p)",
-    "logo": "https://i.imgur.com/Czxi7yk.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D8%AF%D9%8A%D8%B3%D9%83%D9%81%D8%B1%D9%8A.jpg/330px-%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D8%AF%D9%8A%D8%B3%D9%83%D9%81%D8%B1%D9%8A.jpg?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "c": "وثائقي;تعليم",
     "s": [
       {
@@ -2406,7 +2394,7 @@
   },
   {
     "n": "Asharq Documentary (1080p)",
-    "logo": "https://i.imgur.com/v6VsFEt.png",
+    "logo": "https://arab-media-faces-bucket.nyc3.cdn.digitaloceanspaces.com/institutions/165/profile.png?v=0",
     "c": "وثائقي",
     "s": [
       {
@@ -3455,7 +3443,7 @@
   },
   {
     "n": "Watar Radio (1080p)",
-    "logo": "https://maraya.faulio.com/storage/mediagallery/33/d7/fullhd_b25ca838c984b6ee2a9a254560f1e7bc1b04aa33.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzD-avwgx7Dd7_oKSrf3jYHHQTHpKYCWj-2Sa8RMFsYw&s",
     "c": "غير مصنف",
     "s": [
       {
@@ -3467,7 +3455,7 @@
   },
   {
     "n": "Al Qamar TV (1080p)",
-    "logo": "https://i.imgur.com/zkBT0C8.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDA_SF4qrcUhqlv9z7O6zLB81rw4qVfpLwOjHz6pixQ&s=10",
     "c": "غير مصنف",
     "s": [
       {
@@ -3479,7 +3467,7 @@
   },
   {
     "n": "Al Rayyan Al Qadeem (1080p)",
-    "logo": "https://i.imgur.com/4qB5iN0.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jnJQph6EbUEynhPRIs4TpXuuPB8w821u-Y55dpZsJg&s=10",
     "c": "عام",
     "s": [
       {
