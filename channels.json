@@ -1133,7 +1133,7 @@
   },
   {
     "n": "mbc action",
-    "logo": "https://i.imgur.com/OWZAghw.png",
+    "logo": "https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/04/MBC-Action.png?fit=1000%2C1000&ssl=1",
     "c": "mbc",
     "s": [
       {
@@ -1155,7 +1155,7 @@
   },
   {
     "n": "MBC دراما",
-    "logo": "https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:MBC_Masr_Drama_Logo.svg",
+    "logo": "https://images.seeklogo.com/logo-png/37/1/mbc-drama-logo-png_seeklogo-379715.png",
     "c": "mbc",
     "s": [
       {
@@ -1172,7 +1172,7 @@
   },
   {
     "n": "MBC+ دراما",
-    "logo": "https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:MBC_Drama_Plus_TV_Channel_Logo.png",
+    "logo": "https://wasmenia.com/_next/image?url=https%3A%2F%2Fstrapi.wasmenia.com%2Fuploads%2FMBC_Drama_ed637784c7.svg&w=640&q=75",
     "c": "mbc",
     "s": [
       {
@@ -1257,7 +1257,7 @@
   },
   {
     "n": "mbc max",
-    "logo": "https://i.imgur.com/A02CptP.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/MBC_Max_Logo.svg?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=original",
     "c": "mbc",
     "s": [
       {
@@ -1392,342 +1392,7 @@
       }
     ]
   },
-  {
-    "n": "CANAL+",
-    "logo": "https://i.imgur.com/5HcyMnW.png",
-    "c": "Canal+ France",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-CANAL/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "CANAL D",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/960px-CanalD.svg.png",
-    "c": "Canal+ France",
-    "s": [
-      {
-        "n": "سيرفر 1 (probechef)",
-        "u": "http://3242ftgdgfdhtryt.probechef.net:8080/2287341/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "CANAL+ Sport",
-    "logo": "https://i.imgur.com/EOXnU15.png",
-    "c": "Sports",
-    "s": [
-      {
-        "n": "سيرفر 1 (bottledesk)",
-        "u": "http://stream.bottledesk.net/p/cmdZMXV9CgQGFxZkY2s/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "CANAL Vie HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/CanalVie.svg/960px-CanalVie.svg.png",
-    "c": "Canal+ France",
-    "s": [
-      {
-        "n": "سيرفر 1 (billyphilly)",
-        "u": "http://stream.billyphilly.com/p/W10GdgR6VVY/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Chasse & Pêche",
-    "logo": "https://i.imgur.com/ZIS2ZQ1.png",
-    "c": "Lifestyle",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-CHASSE/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Chérie 25",
-    "logo": "https://img1.dc2.oqee.net/channel_pictures/3606/w512",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-CHERIE25/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Ciné Emotion HD",
-    "logo": "https://i.imgur.com/upYjPvc.jpeg",
-    "c": "Movies",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-CINEEMOTION/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Ciné Pop",
-    "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNCIgZmlsbD0iIzNhM2Y0YiIvPgo8cmVjdCB4PSIyMCIgeT0iMzIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjUwIiBjeT0iNTIiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzOCIgeTE9IjMyIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8bGluZSB4MT0iNjIiIHkxPSIzMiIgeDI9IjcwIiB5Mj0iMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGxpbmUgeDE9IjMwIiB5MT0iODAiIHgyPSI3MCIgeTI9IjgwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==",
-    "c": "Movies",
-    "s": [
-      {
-        "n": "سيرفر 1 (cammonitorplus)",
-        "u": "http://stream.cammonitorplus.net/FR1003/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Ciné Premier",
-    "logo": "https://i.imgur.com/b20LLN6.png",
-    "c": "Movies",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-CINEPREMIER/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Ciné Frisson",
-    "logo": "https://i.imgur.com/MwFtbnR.jpeg",
-    "c": "Movies",
-    "s": [
-      {
-        "n": "سيرفر 1 (cammonitorplus)",
-        "u": "http://stream.cammonitorplus.net/FR1006/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "TF1",
-    "logo": "https://i.imgur.com/QxHt9NC.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-TF1/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "France 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE2/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "France 3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE3/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "France 4",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE4/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "France 5",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE5/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "France Foot",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-FRANCE0/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "W9",
-    "logo": "https://i.imgur.com/reYeMuE.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/W9_FR/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "6TER HD",
-    "logo": "https://i.imgur.com/2nd5Cox.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-6TERHD/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Paris Première",
-    "logo": "https://i.imgur.com/ily4bEm.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-PARISPREMIERE/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "City Montreal",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MAtv_%28en%29_logo.png/960px-MAtv_%28en%29_logo.png",
-    "c": "French TV",
-    "s": [
-      {
-        "n": "سيرفر 1 (cammonitorplus)",
-        "u": "http://stream.cammonitorplus.net/FR1004/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Disney Channel FR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "c": "Kids",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-DISNEYCHANNEL/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Disney Cinema FR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/960px-Disney_cinema_logo.png",
-    "c": "Movies",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/DisneyCinema_FR/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Disney Junior",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "c": "Kids",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-DISNEYJR/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Nickelodeon",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "c": "Kids",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-NICKELODEON/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Teletoon FR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png",
-    "c": "Kids",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-TELETOON/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Nat Geo FR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "c": "Documentary",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/NATGEO_FR/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Nat Geo Wild FR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "c": "Documentary",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/NATGEO_WILD_FR/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "History French",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "c": "Documentary",
-    "s": [
-      {
-        "n": "سيرفر 1 (185.246.209.71)",
-        "u": "http://185.246.209.71:8080/3740877/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
+
   {
     "n": "RMC Sport 1",
     "logo": "https://i.imgur.com/NsFTG7u.png",
@@ -1764,66 +1429,7 @@
       }
     ]
   },
-  {
-    "n": "Série Club HD",
-    "logo": "https://i.imgur.com/V8wRRg5.png",
-    "c": "Series",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-SERIECLUB/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Série +",
-    "logo": "https://i.imgur.com/pXVgaD5.png",
-    "c": "Series",
-    "s": [
-      {
-        "n": "سيرفر 1 (billyphilly)",
-        "u": "http://stream.billyphilly.com/p/UV0HcgJwU1Y/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Ushuaïa",
-    "logo": "https://i.imgur.com/WjjlqbP.png",
-    "c": "Lifestyle",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-USHUAIA/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Zeste",
-    "logo": "https://i.imgur.com/gS8BioG.png",
-    "c": "Lifestyle",
-    "s": [
-      {
-        "n": "سيرفر 1 (cammonitorplus)",
-        "u": "http://stream.cammonitorplus.net/FR10017/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Action HD",
-    "logo": "https://i.imgur.com/Zv9VsVq.png",
-    "c": "Movies",
-    "s": [
-      {
-        "n": "سيرفر 1 (orangecord)",
-        "u": "http://cloth.orangecord.net/pdf/FR-ACTIONHD/index.m3u8?token==",
-        "t": "v"
-      }
-    ]
-  },
+
   {
     "n": "AlBilad Algérie",
     "logo": "https://i.imgur.com/7c1JjCd.png",
