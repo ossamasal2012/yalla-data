@@ -1,12 +1,23 @@
 [
   {
-
-   "name": "السيرفر الاول",
-    "host": "http://hydraa.st:80",
-    "username": "926299362910",
-    "password": "836104629018"
+    "name": "السيرفر الأول",
+    "host": "http://sult-vo.xyz",
+    "username": "4695970483192186",
+    "password": "4695970483192186"
   },
   {
+    "name": "السيرفر الثاني",
+    "host": "http://sult-vo.xyz",
+    "username": "4491093578581029",
+    "password": "4491093578581029"
+  },
+  {
+    "name": "السيرفر الثالث",
+    "host": "http://sult-vo.xyz",
+    "username": "4690438215692774",
+    "password": "4690438215692774"
+  },
+{
    "name": "السيرفر الثاني",
     "host": "https://es.egys.gs",
     "username": "abdoyasser112",
