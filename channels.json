@@ -17,11 +17,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 ",
-        "u": "https://balance.footballii.ir/hls2/bein1.m3u8",
-        "t": "v"
-      },
-      {
+      
         "n": "انترنت ضعيف",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
         "t": "v"
@@ -34,11 +30,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 ",
-        "u": "https://balance.footballii.ir/hls2/bein2.m3u8",
-        "t": "v"
-      },
-      {
+   
 
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
@@ -52,11 +44,7 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 ",
-        "u": "https://balance.footballii.ir/hls2/bein3.m3u8",
-        "t": "v"
-      },
-      {
+  
         "n": "سيرفر 1",
         "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8",
         "t": "v"
