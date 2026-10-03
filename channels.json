@@ -22,7 +22,7 @@
         "t": "v"
       },
       {
-        "n": "انترنت ضعيف",
+        "n": "سيرفر 2 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
         "t": "v"
       }
@@ -40,7 +40,7 @@
       },
       {
 
-        "n": "سيرفر 1 (API)",
+        "n": "سيرفر 2",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
         "t": "v"
       }
@@ -57,12 +57,12 @@
         "t": "v"
       },
       {
-        "n": "سيرفر 1",
+        "n": "سيرفر 2",
         "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8",
         "t": "v"
       },
       {
-        "n": "سيرفر 1 (API)",
+        "n": "سيرفر 3",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
         "t": "v"
       }
