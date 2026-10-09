@@ -23,21 +23,6 @@
       },
       {
       
-        "n": "SD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4076&cat=331",
-        "t": "i"
-          },
-      {
-         "n": "HD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4111&cat=332",
-        "t": "i"
-          },
-      { 
-        "n": "FHD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4128&cat=333",
-        "t": "i"
-          },
-      {
         "n": "سيرفر 2 ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
         "t": "v"
@@ -55,21 +40,7 @@
         "t": "v"
       },
       {
-        "n": "SD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4074&cat=331",
-        "t": "v"
-          },
-      {
-         "n": "HD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4113&cat=332",
-        "t": "v"
-          },
-      { 
-        "n": "FHD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4129&cat=333",
-        "t": "v"
-          },
-      {
+
         "n": "سيرفر 2",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
         "t": "v"
@@ -87,21 +58,7 @@
         "t": "v"
       },
       {
-        "n": "SD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4071&cat=331",
-        "t": "v"
-          },
-      {
-         "n": "HD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4115&cat=332",
-        "t": "v"
-          },
-      { 
-        "n": "FHD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4132&cat=333",
-        "t": "v"
-          },
-      {
+
         "n": "سيرفر 2",
         "u": "http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6124/index.m3u8",
         "t": "v"
@@ -124,21 +81,7 @@
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
         "t": "v"
          },
-      {
-        "n": "SD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4098&cat=331",
-        "t": "v"
-          },
-      {
-         "n": "HD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4119&cat=332",
-        "t": "v"
-          },
-      { 
-        "n": "FHD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4134&cat=333",
-        "t": "v"
-          }
+
     ]
   },
   {
@@ -152,21 +95,7 @@
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
         "t": "v"
       },
-      {
-        "n": "SD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4101&cat=331",
-        "t": "v"
-          },
-      {
-         "n": "HD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4123&cat=332",
-        "t": "v"
-          },
-      { 
-        "n": "FHD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4136&cat=333",
-        "t": "v"
-          }
+
     ]
   },
   {
@@ -180,21 +109,7 @@
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
         "t": "v"
          },
-    {
-                "n": "SD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4104&cat=331",
-        "t": "v"
-          },
-      {
-         "n": "HD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4126&cat=332",
-        "t": "v"
-          },
-      { 
-        "n": "FHD",
-        "u": "http://92.119.165.177:8857/video.m3u8?id=4138&cat=333",
-        "t": "v"
-          }
+    
     ]
   },
   {
