@@ -151,7 +151,9 @@
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
         "t": "v"
-                "n": "SD",
+      },
+      {
+        "n": "SD",
         "u": "http://92.119.165.177:8857/video.m3u8?id=4101&cat=331",
         "t": "v"
           },
