@@ -293,7 +293,7 @@
         "t": "v"
       },
       {
-        "n": "SD"
+        "n": "SD",
         "u": "http://vlc.news:9000/live/mido1/10hh6543/395864.ts",
         "t": "v"
 
@@ -320,7 +320,7 @@
   },
   {
     "n": "Alwan sport 4",
-"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
     "c": "كرة قدم",
     "s": [
       {
@@ -338,7 +338,7 @@
   },
   {
     "n": "Alwan sport 5",
-"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
     "c": "كرة قدم",
     "s": [
       {
