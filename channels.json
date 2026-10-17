@@ -1,4 +1,21 @@
 [
+    {
+    "n": " برشلونة vs بتيس",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LlIDcs4RLoiuns4m_hnfzMCCff1qCjM0Op97QjqN9Q&s=10",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "https://1.syria-player.org/bein1/master.json",
+        "t": "v"
+      },
+       {
+         "n": "سيرفر 2",
+        "u": "https://1.syria-player.org/bein1/720p/manifest.json",
+        "t": "v" 
+      }
+    ]
+  },
    {
     "n": " الوان الرياضية لبث جميع المباريات",
     "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
