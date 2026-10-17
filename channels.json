@@ -7,12 +7,12 @@
       {
         "n": "سيرفر 1",
         "u": "https://1.syria-player.org/bein1/master.json",
-        "t": "v"
+        "t": "i"
       },
        {
          "n": "سيرفر 2",
         "u": "https://1.syria-player.org/bein1/720p/manifest.json",
-        "t": "v" 
+        "t": "i" 
       }
     ]
   },
