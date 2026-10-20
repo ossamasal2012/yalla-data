@@ -69,8 +69,18 @@
         "t": "v"
       },
       {
+         "n": "سيرفر 2 ",
+        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_hd.m3u8",
+        "t": "v"
+      },
+      {
+         "n": "سيرفر 3 ",
+        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_sd.m3u8",
+        "t": "v"
+      },
+      {
 
-        "n": "سيرفر 3",
+        "n": "سيرفر 4",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
         "t": "v"
       }
@@ -82,13 +92,7 @@
     "c": "كرة قدم",
     "s": [
        {
-        "n": "سيرفر 1 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.3/beinsport3_4K.m3u8",
-        "t": "v"
-      },
-      {
-
-        "n": "سيرفر 3",
+        "n": "سيرفر 1",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
         "t": "v"
       }
@@ -100,12 +104,6 @@
     "c": "كرة قدم",
     "s": [
        {
-        "n": "سيرفر 1 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.4/beinsport4_4K.m3u8",
-        "t": "v"
-      },
-      {
-
 
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
@@ -119,12 +117,6 @@
     "c": "كرة قدم",
     "s": [
        {
-        "n": "سيرفر 1 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.5/beinsport5_4K.m3u8",
-        "t": "v"
-      },
-      {
-
         "n": "سيرفر 1 (API)",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
         "t": "v"
