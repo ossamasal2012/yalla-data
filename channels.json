@@ -5,22 +5,37 @@
     "c": "كرة قدم",
     "s": [
       {
-          "n": "سيرفر 1",
-        "u": "https://customer-v4n77b7tsunuc58z.cloudflarestream.com/67e6f74aa9350450703ca4e698231a5c/manifest/video.m3u8",
+           "n": "سيرفر 1",
+        "u": "https://d2aq5dnud5ayhm.cloudfront.net/live/69854211/index.m3u8",
         "t": "v"
       },
        {
-        "n": "سيرفر 2",
-        "u": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/bein2/720p/manifest.m3u8",
+            "n": "سيرفر 2",
+        "u": "https://d2aq5dnud5ayhm.cloudfront.net/live/69854211/index.m3u8",
         "t": "v"
       },
        {
             "n": "سيرفر 3",
+        "u": "https://d2aq5dnud5ayhm.cloudfront.net/live/69854211/index.m3u8",
+        "t": "v"
+      },
+       {
+          "n": "سيرفر 4",
+        "u": "https://customer-v4n77b7tsunuc58z.cloudflarestream.com/67e6f74aa9350450703ca4e698231a5c/manifest/video.m3u8",
+        "t": "v"
+      },
+       {
+        "n": "سيرفر 5",
+        "u": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/bein2/720p/manifest.m3u8",
+        "t": "v"
+      },
+       {
+            "n": "سيرفر 6",
         "u": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/bein2/master.m3u8",
         "t": "v"
            },
        {
-            "n": "سيرفر 4",
+            "n": "سيرفر 7",
         "u": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
         "t": "v"
       }
