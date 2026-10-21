@@ -1,7 +1,7 @@
 [
 {
-    "n": ",
-    "logo": "",
+    "n": "ريال مدريد vs لايبزغ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANG_nAvFbnm5f2f6fT6ihXIpYDJ69iqoy3eOsg4RB7g&s=10",
     "c": "كرة قدم",
     "s": [
       {
@@ -12,6 +12,11 @@
        {
             "n": "سيرفر 2",
         "u": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/bein2/master.m3u8",
+        "t": "v"
+           },
+       {
+            "n": "سيرفر 3",
+        "u": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
         "t": "v"
       }
     ]
