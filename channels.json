@@ -254,6 +254,18 @@
       }
     ]
   },
+   {
+    "n": "راديو المستقبل",
+  "logo": "https://scontent.fnjf34-1.fna.fbcdn.net/v/t39.30808-6/283888942_1621030208276792_3288927549186956606_n.jpg?stp=dst-jpg_tt6&cstp=mx828x828&ctp=s828x828&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uMhTMO_dFx8Q7kNvwGZsnlP&_nc_oc=AdqSp5LIbmOZpZCezW2qLw2qYlJuQB9I7VnqNfVcpMDcbvtiabtlp6gYqYmOrgT7pFM&_nc_zt=23&_nc_ht=scontent.fnjf34-1.fna&_nc_gid=mCz3yAJ5MDJGXFoOtuInZA&_nc_ss=7b289&oh=00_AQK_vuX7I22xHiehPvZnglEFfEdbceiHt36IJ_RS2RXSsQ&oe=6ABC3566",
+    "c": "راديو",
+    "s": [
+      {
+        "n": "سيرفر 1 ",
+        "u": "https://edge.mixlr.com/channel/vnvcj",
+        "t": "v"
+      }
+    ]
+  },
   {
     "n": "Alwan sport 1",
     "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
@@ -535,18 +547,6 @@
         "n": "سيرفر 1 ",
         "u": "https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8",
         "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "راديو المستقبل",
-  "logo": "https://scontent.fnjf34-1.fna.fbcdn.net/v/t39.30808-6/283888942_1621030208276792_3288927549186956606_n.jpg?stp=dst-jpg_tt6&cstp=mx828x828&ctp=s828x828&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uMhTMO_dFx8Q7kNvwGZsnlP&_nc_oc=AdqSp5LIbmOZpZCezW2qLw2qYlJuQB9I7VnqNfVcpMDcbvtiabtlp6gYqYmOrgT7pFM&_nc_zt=23&_nc_ht=scontent.fnjf34-1.fna&_nc_gid=mCz3yAJ5MDJGXFoOtuInZA&_nc_ss=7b289&oh=00_AQK_vuX7I22xHiehPvZnglEFfEdbceiHt36IJ_RS2RXSsQ&oe=6ABC3566",
-    "c": "راديو",
-    "s": [
-      {
-        "n": "سيرفر 1 ",
-        "u": "https://edge.mixlr.com/channel/vnvcj",
-        "t": "i"
       }
     ]
   },
