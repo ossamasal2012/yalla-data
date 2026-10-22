@@ -1,4 +1,41 @@
 [
+  
+  {
+    "name": "TEST 1",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "4659348125",
+    "password": "4782328418"
+  },
+  {
+    "name": "TEST 2",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "4110041579",
+    "password": "8414193074"
+  },
+  {
+    "name": "TEST 3",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "gs72cd991v3",
+    "password": "bd75veo92b3"
+  },
+  {
+    "name": "TEST 4",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "1217126669",
+    "password": "9584667808"
+  },
+  {
+    "name": "TEST 5",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "0500538979",
+    "password": "8892684969"
+  },
+  {
+    "name": "TEST 6",
+    "host": "http://sharkiptvpro.xyz:80",
+    "username": "gs72cd991v3",
+    "password": "bd75veo92b3"
+  },
   {
       "name": "السيرفر الاول",
     "host": "http://vlc.news:9000",
