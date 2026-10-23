@@ -1,42 +1,6 @@
 [
   
   {
-    "name": "TEST 1",
-    "host": "http://dns1.hsk8f.cyou:80",
-    "username": "4659348125",
-    "password": "4782328418"
-  },
-  {
-    "name": "TEST 2",
-    "host": "http://dns1.hsk8f.cyou:80",
-    "username": "4110041579",
-    "password": "8414193074"
-  },
-  {
-    "name": "TEST 3",
-    "host": "http://dns1.hsk8f.cyou:80",
-    "username": "gs72cd991v3",
-    "password": "bd75veo92b3"
-  },
-  {
-    "name": "TEST 4",
-    "host": "http://dns1.hsk8f.cyou:80",
-    "username": "1217126669",
-    "password": "9584667808"
-  },
-  {
-    "name": "TEST 5",
-    "host": "http://dns1.hsk8f.cyou:80",
-    "username": "0500538979",
-    "password": "8892684969"
-  },
-  {
-    "name": "TEST 6",
-    "host": "http://sharkiptvpro.xyz:80",
-    "username": "gs72cd991v3",
-    "password": "bd75veo92b3"
-  },
-  {
       "name": "السيرفر الاول",
     "host": "http://vlc.news:9000",
     "username": "724457699526",
@@ -80,69 +44,63 @@
     "password": "4690438215692774"
   },
   {
-    "name": "السيرفر الثامن ",
-    "host": "https://es.egys.gs",
-    "username": "abdoyasser112",
-    "password": "01032783778"
-  },
-  {
-    "name": "السيرفر  التاسع",
-    "host": "http://dreamteev.xyz:80",
-    "username": "MagedHennawy",
-    "password": "635518K"
-  },
-  {
-    "name": "السيرفر العاشر",
+
+    "name": "السيرفر الثامن",
     "host": "http://front-main.fug-cloud.com:80",
     "username": "x9fmszlSze",
     "password": "l90qw0jiuh"
   },
   {
-    "name": "السيرفر الحادي عشر",
-    "host": "http://vod-4k.info:8089",
-    "username": "0541891367890",
-    "password": "1712068572863"
-  },
-  {
-    "name": "السيرفر الثاني عشر",
+    "name": "السيرفر التاسع",
     "host": "http://line.france-ott.net",
     "username": "VXCNIBAVFP",
     "password": "TXPRTD26KY"
   },
   {
-    "name": "السيرفر الثالث عشر",
-    "host": "http://megatv.cx:80",
-    "username": "2368258120",
-    "password": "C8A3A47A"
-  },
-  {
-    "name": "السيرفر الرابع عشر",
+
+    "name": "السيرفر العاشر",
     "host": "http://qatarworldcup.xyz:80",
     "username": "4110041579",
     "password": "8414193074"
   },
   {
-    "name": "السيرفر الخامس عشر",
+    "name": "السيرفر الحادي عشر",
     "host": "http://nxtportal.xyz:8080",
     "username": "q07W7PTU",
     "password": "qybqq23J"
+        "name": "TEST 1",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "4659348125",
+    "password": "4782328418"
+  },
+  {
+    "name": "السيرفر الثاني عشر",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "4110041579",
+    "password": "8414193074"
+  },
+  {
+    "name": "السيرفر الثالث عشر",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "gs72cd991v3",
+    "password": "bd75veo92b3"
+  },
+  {
+    "name":  "السيرفر الرابع عشر",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "1217126669",
+    "password": "9584667808"
+  },
+  {
+    "name": "السيرفر الخامس عشر",
+    "host": "http://dns1.hsk8f.cyou:80",
+    "username": "0500538979",
+    "password": "8892684969"
   },
   {
     "name": "السيرفر السادس عشر",
-    "host": "http://etvhosts.site:55337",
-    "username": "18ZvVme77G",
-    "password": "z542Lhag1T"
-  },
-  {
-    "name": "السيرفر السابع عشر",
-    "host": "http://185.191.126.127:8080",
-    "username": "b0:99:d7:15:88:50",
-    "password": "3090914536649669"
-  },
-  {
-    "name": "السيرفر الثامن عشر ",
-    "host": "http://tectonbrand.com",
-    "username": "F3ANK5Z",
-    "password": "7W11KJR"
+    "host": "http://sharkiptvpro.xyz:80",
+    "username": "gs72cd991v3",
+    "password": "bd75veo92b3"
   }
 ]
