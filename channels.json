@@ -1,47 +1,47 @@
 [
-{
+  {
     "n": "ريال مدريد vs لايبزغ",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANG_nAvFbnm5f2f6fT6ihXIpYDJ69iqoy3eOsg4RB7g&s=10",
     "c": "كرة قدم",
     "s": [
       {
-           "n": "سيرفر 1",
+        "n": "سيرفر 1",
         "u": "https://d2aq5dnud5ayhm.cloudfront.net/live/69854211/index.m3u8",
         "t": "v"
       },
-       {
-            "n": "سيرفر 2",
+      {
+        "n": "سيرفر 2",
         "u": "https://d2aq5dnud5ayhm.cloudfront.net/live/69854211/index.m3u8",
         "t": "v"
       },
-       {
-            "n": "سيرفر 3",
+      {
+        "n": "سيرفر 3",
         "u": "https://d2aq5dnud5ayhm.cloudfront.net/live/69854211/index.m3u8",
         "t": "v"
       },
-       {
-          "n": "سيرفر 4",
+      {
+        "n": "سيرفر 4",
         "u": "https://customer-v4n77b7tsunuc58z.cloudflarestream.com/67e6f74aa9350450703ca4e698231a5c/manifest/video.m3u8",
         "t": "v"
       },
-       {
+      {
         "n": "سيرفر 5",
         "u": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/bein2/720p/manifest.m3u8",
         "t": "v"
       },
-       {
-            "n": "سيرفر 6",
+      {
+        "n": "سيرفر 6",
         "u": "https://koorqwwqwd.s3.us-east-2.amazonaws.com/bein2/master.m3u8",
         "t": "v"
-           },
-       {
-            "n": "سيرفر 7",
+      },
+      {
+        "n": "سيرفر 7",
         "u": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
         "t": "v"
       }
     ]
   },
-   {
+  {
     "n": " الوان الرياضية لبث جميع المباريات",
     "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
     "c": "كرة قدم",
@@ -53,7 +53,6 @@
       }
     ]
   },
-
   {
     "n": "beIN Sport News",
     "logo": "https://i.imgur.com/ZNjQzR5.png",
@@ -72,28 +71,32 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_4K.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 2 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_hd.m3u8",
-        "t": "v"
-      },
-      {
-            "n": "سيرفر 3 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_sd.m3u8",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر 4 ",
+        "n": "سيرفر 1",
         "u": "https://balance.footballii.ir/hls2/bein1.m3u8",
         "t": "v"
       },
       {
-      
-        "n": "سيرفر 5 ",
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342993.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342984.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342957.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342966.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee1",
         "t": "v"
       }
@@ -104,24 +107,28 @@
     "logo": "https://i.imgur.com/vUJZSvs.png",
     "c": "كرة قدم",
     "s": [
-       {
-        "n": "سيرفر 1 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_4K.m3u8",
+      {
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342994.m3u8",
         "t": "v"
       },
       {
-         "n": "سيرفر 2 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_hd.m3u8",
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342985.m3u8",
         "t": "v"
       },
       {
-         "n": "سيرفر 3 ",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_sd.m3u8",
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342958.m3u8",
         "t": "v"
       },
       {
-
-        "n": "سيرفر 4",
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342967.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee2",
         "t": "v"
       }
@@ -132,8 +139,28 @@
     "logo": "https://i.imgur.com/UYSMao3.png",
     "c": "كرة قدم",
     "s": [
-       {
-        "n": "سيرفر 1",
+      {
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342995.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342986.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342959.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342968.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee3",
         "t": "v"
       }
@@ -144,12 +171,31 @@
     "logo": "https://i.imgur.com/vwAgJNi.png",
     "c": "كرة قدم",
     "s": [
-       {
-
-        "n": "سيرفر 1 (API)",
+      {
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342996.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342987.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342960.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342969.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee4",
         "t": "v"
-         }
+      }
     ]
   },
   {
@@ -157,8 +203,28 @@
     "logo": "https://i.imgur.com/2Rha5aY.png",
     "c": "كرة قدم",
     "s": [
-       {
-        "n": "سيرفر 1 (API)",
+      {
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342997.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342988.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342961.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342970.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee5",
         "t": "v"
       }
@@ -170,8 +236,27 @@
     "c": "كرة قدم",
     "s": [
       {
-
-        "n": "سيرفر 1 (API)",
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342998.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342989.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342962.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342971.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee6",
         "t": "v"
       }
@@ -183,8 +268,27 @@
     "c": "كرة قدم",
     "s": [
       {
-
-        "n": "سيرفر 1 (API)",
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342999.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342990.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342963.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/342972.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee7",
         "t": "v"
       }
@@ -196,7 +300,27 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 (API)",
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/144.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/142.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/136.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/138.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة ",
         "u": "https://adam-bein.vercel.app/api/channel?ch=beee8",
         "t": "v"
       }
@@ -208,9 +332,28 @@
     "c": "كرة قدم",
     "s": [
       {
-        "n": "سيرفر 1 (API)",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee9",
+        "n": "4K",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/145.m3u8",
         "t": "v"
+      },
+      {
+        "n": "FHD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/143.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "SD",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/137.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "LOW",
+        "u": "http://vlc.news:9000/live/724457699526/9562674673473/139.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "جودة ضعيفة",
+        "u": "https://adam-bein.vercel.app/api/channel?ch=beee9",
       }
     ]
   },
