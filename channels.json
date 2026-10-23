@@ -329,6 +329,153 @@
     ]
   },
   {
+    "n": "Alwan sport 1",
+    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "s": [
+      {
+    "n": "4k",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395875.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "HD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395869.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "SD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395863.m3u8",
+    "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 2",
+"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+    "n": "4k",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395876.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "HD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395870.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "SD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395864.m3u8",
+    "t": "v"
+
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 3",
+"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "c": "رياضة إضافي",
+    "s": [
+      {
+    "n": "4k",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395877.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "HD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395871.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "SD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395865.m3u8",
+    "t": "v"
+
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 4",
+    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "c": "كرة قدم",
+    "s": [
+      {
+
+     "n": "4k",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395878.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "HD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395872.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "SD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395866.m3u8",
+    "t": "v"
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 5",
+    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "c": "كرة قدم",
+    "s": [
+      {
+    "n": "4k",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395879.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "HD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395873.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "SD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395867.m3u8",
+    "t": "v"
+
+      }
+    ]
+  },
+  {
+    "n": "Alwan sport 6",
+"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
+    "c": "كرة قدم",
+    "s": [
+      {
+    "n": "4k",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395880.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "HD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395874.m3u8",
+    "t": "v"
+  },
+  {
+    "n": "SD",
+    "u": "http://vlc.news:9000/live/724457699526/9562674673473/395868.m3u8",
+    "t": "v"
+      }
+    ]
+  },
+     {
+    "n": "راديو المستقبل",
+  "logo": "https://scontent.fnjf34-1.fna.fbcdn.net/v/t39.30808-6/283888942_1621030208276792_3288927549186956606_n.jpg?stp=dst-jpg_tt6&cstp=mx828x828&ctp=s828x828&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uMhTMO_dFx8Q7kNvwGZsnlP&_nc_oc=AdqSp5LIbmOZpZCezW2qLw2qYlJuQB9I7VnqNfVcpMDcbvtiabtlp6gYqYmOrgT7pFM&_nc_zt=23&_nc_ht=scontent.fnjf34-1.fna&_nc_gid=mCz3yAJ5MDJGXFoOtuInZA&_nc_ss=7b289&oh=00_AQK_vuX7I22xHiehPvZnglEFfEdbceiHt36IJ_RS2RXSsQ&oe=6ABC3566",
+    "c": "راديو",
+    "s": [
+      {
+        "n": "سيرفر 1 ",
+        "u": "https://edge.mixlr.com/channel/vnvcj",
+        "t": "v"
+      }
+    ]
+  },
+    {
     "n": "TEST 1",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKS9RoTs5X8uAfhO6pReJQVR4Hco7tC6X3-IpeoluyfA&s=10",
     "c": "كرة قدم",
@@ -406,124 +553,6 @@
         "n": "سيرفر 11",
         "u": "http://f5944e6a.edemist.com/iptv/9EMB9V8Z6Z8CB7/31578/index.m3u8",
         "t": "v"
-      }
-    ]
-  },
-   {
-    "n": "راديو المستقبل",
-  "logo": "https://scontent.fnjf34-1.fna.fbcdn.net/v/t39.30808-6/283888942_1621030208276792_3288927549186956606_n.jpg?stp=dst-jpg_tt6&cstp=mx828x828&ctp=s828x828&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uMhTMO_dFx8Q7kNvwGZsnlP&_nc_oc=AdqSp5LIbmOZpZCezW2qLw2qYlJuQB9I7VnqNfVcpMDcbvtiabtlp6gYqYmOrgT7pFM&_nc_zt=23&_nc_ht=scontent.fnjf34-1.fna&_nc_gid=mCz3yAJ5MDJGXFoOtuInZA&_nc_ss=7b289&oh=00_AQK_vuX7I22xHiehPvZnglEFfEdbceiHt36IJ_RS2RXSsQ&oe=6ABC3566",
-    "c": "راديو",
-    "s": [
-      {
-        "n": "سيرفر 1 ",
-        "u": "https://edge.mixlr.com/channel/vnvcj",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 1",
-    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
-    "s": [
-      {
-        "n": "HD",
-        "u": "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_hd.m3u8",
-        "t": "v"
-      },
-       {
-          "n": "sd",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395863.ts",
-        "t": "v"
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 2",
-"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
-    "c": "رياضة إضافي",
-    "s": [
-      {
-        "n": "HD",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395870.ts",
-        "t": "v"
-      },
-      {
-        "n": "SD",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395864.ts",
-        "t": "v"
-
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 3",
-"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
-    "c": "رياضة إضافي",
-    "s": [
-      {
-        "n": "HD ",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395871.ts",
-        "t": "v"
-      },
-      {
-        "n": "SD",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395865.ts",
-        "t": "v"
-
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 4",
-    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "HD ",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395872.ts",
-        "t": "v"
-      },
-      {
-        "n": " SD",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395866.ts",
-        "t": "v"
- 
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 5",
-    "logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "سيرفر HD",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395873.ts",
-        "t": "v"
-      },
-      {
-        "n": "SD",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395867.ts",
-        "t": "v"
-
-      }
-    ]
-  },
-  {
-    "n": "Alwan sport 6",
-"logo": "https://www.newsroom.info/Upload/libfiles/55/4/385.jpeg",
-    "c": "كرة قدم",
-    "s": [
-      {
-        "n": "HD ",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395874.ts",
-        "t": "v"
-      },
-      {
-        "n": "SD",
-        "u": "http://vlc.news:9000/live/mido1/10hh6543/395868.ts",
-        "t": "v"
-
       }
     ]
   },
