@@ -321,10 +321,11 @@
         "u": "http://vlc.news:9000/live/724457699526/9562674673473/139.m3u8",
         "t": "v"
       },
-      {
-        "n": "جودة ضعيفة",
-        "u": "https://adam-bein.vercel.app/api/channel?ch=beee9",
-      }
+{
+  "n": "جودة ضعيفة",
+  "u": "https://adam-bein.vercel.app/api/channel?ch=beee9",
+  "t": "v"
+}
     ]
   },
   {
