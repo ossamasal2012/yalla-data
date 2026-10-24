@@ -1,5 +1,282 @@
 [
   {
+      {
+    "n": "TEST",
+    "logo": "https://i.imgur.com/fRWaDyF.png",
+    "c": "mbc",
+    "s": [
+      {
+        "n": "سيرفر 1",
+        "u": "http://cloth.orangecord.net/pdf/3057/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 2",
+        "u": "http://cloth.orangecord.net/pdf/3058/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 3",
+        "u": "http://cloth.orangecord.net/pdf/3059/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 4",
+        "u": "http://cloth.orangecord.net/pdf/3060/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 5",
+        "u": "http://cloth.orangecord.net/pdf/3061/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 6",
+        "u": "http://cloth.orangecord.net/pdf/3062/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 7",
+        "u": "http://cloth.orangecord.net/pdf/3063/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 8",
+        "u": "http://cloth.orangecord.net/pdf/3064/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 9",
+        "u": "http://cloth.orangecord.net/pdf/3065/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 10",
+        "u": "http://cloth.orangecord.net/pdf/3066/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 11",
+        "u": "http://cloth.orangecord.net/pdf/3067/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 12",
+        "u": "http://cloth.orangecord.net/pdf/3068/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 13",
+        "u": "http://cloth.orangecord.net/pdf/3069/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 14",
+        "u": "http://cloth.orangecord.net/pdf/3070/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 15",
+        "u": "http://cloth.orangecord.net/pdf/3071/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 16",
+        "u": "http://cloth.orangecord.net/pdf/3072/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 17",
+        "u": "http://cloth.orangecord.net/pdf/3073/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 18",
+        "u": "http://cloth.orangecord.net/pdf/3074/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 19",
+        "u": "http://cloth.orangecord.net/pdf/3075/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 20",
+        "u": "http://cloth.orangecord.net/pdf/3076/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 21",
+        "u": "http://cloth.orangecord.net/pdf/3077/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 22",
+        "u": "http://cloth.orangecord.net/pdf/3078/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 23",
+        "u": "http://cloth.orangecord.net/pdf/3079/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 24",
+        "u": "http://cloth.orangecord.net/pdf/3080/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 25",
+        "u": "http://cloth.orangecord.net/pdf/3081/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 26",
+        "u": "http://cloth.orangecord.net/pdf/3082/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 27",
+        "u": "http://cloth.orangecord.net/pdf/3083/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 28",
+        "u": "http://cloth.orangecord.net/pdf/3084/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 29",
+        "u": "http://cloth.orangecord.net/pdf/3085/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 30",
+        "u": "http://cloth.orangecord.net/pdf/3086/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 31",
+        "u": "http://cloth.orangecord.net/pdf/3087/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 32",
+        "u": "http://cloth.orangecord.net/pdf/3088/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 33",
+        "u": "http://cloth.orangecord.net/pdf/3089/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 34",
+        "u": "http://cloth.orangecord.net/pdf/3090/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 35",
+        "u": "http://cloth.orangecord.net/pdf/3091/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 36",
+        "u": "http://cloth.orangecord.net/pdf/3092/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 37",
+        "u": "http://cloth.orangecord.net/pdf/3093/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 38",
+        "u": "http://cloth.orangecord.net/pdf/3094/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 39",
+        "u": "http://cloth.orangecord.net/pdf/3095/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 40",
+        "u": "http://cloth.orangecord.net/pdf/3096/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 41",
+        "u": "http://cloth.orangecord.net/pdf/3097/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 42",
+        "u": "http://cloth.orangecord.net/pdf/3098/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 43",
+        "u": "http://cloth.orangecord.net/pdf/3099/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 44",
+        "u": "http://cloth.orangecord.net/pdf/3100/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 45",
+        "u": "http://cloth.orangecord.net/pdf/3101/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 46",
+        "u": "http://cloth.orangecord.net/pdf/3102/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 47",
+        "u": "http://cloth.orangecord.net/pdf/3103/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 48",
+        "u": "http://cloth.orangecord.net/pdf/3104/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 49",
+        "u": "http://cloth.orangecord.net/pdf/3105/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 50",
+        "u": "http://cloth.orangecord.net/pdf/3106/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 51",
+        "u": "http://cloth.orangecord.net/pdf/3107/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 52",
+        "u": "http://cloth.orangecord.net/pdf/3108/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 53",
+        "u": "http://cloth.orangecord.net/pdf/3109/index.m3u8",
+        "t": "v"
+      },
+      {
+        "n": "سيرفر 54",
+        "u": "http://cloth.orangecord.net/pdf/3110/index.m3u8",
+        "t": "v"
+      }
+    ]
+  },
     "n": "بث مباريات (تعليق اجنبي)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPg8YbtJt5avN243IwCmOp2EwjRLaBZESKl3NueM-QNA&s=10",
     "c": "كرة قدم",
@@ -1155,11 +1432,7 @@
     "c": "mbc",
     "s": [
       {
-        "n": "سيرفر رئيسي ",
-        "u": "http://cloth.orangecord.net/pdf/sat2MBC2/index.m3u8?token==",
-        "t": "v"
-      },
-      {
+
         "n": "سيرفر رئيسي ",
         "u": "http://cloth.orangecord.net/pdf/3051/index.m3u8?token==",
         "t": "v"
@@ -1176,11 +1449,6 @@
     "logo": "https://i.imgur.com/PVt8OPN.png",
     "c": "mbc",
     "s": [
-      {
-        "n": "سيرفر رئيسي ",
-        "u": "http://cloth.orangecord.net/pdf/sat2MBC3/index.m3u8?token==",
-        "t": "v"
-      },
       {
         "n": "سيرفر رئيسي ",
         "u": "http://cloth.orangecord.net/pdf/3052/index.m3u8?token==",
@@ -1200,11 +1468,6 @@
     "s": [
       {
         "n": "سيرفر رئيسي ",
-        "u": "http://cloth.orangecord.net/pdf/sat2MBC4/index.m3u8?token==",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر رئيسي ",
         "u": "http://cloth.orangecord.net/pdf/3053/index.m3u8?token==",
         "t": "v"
       },
@@ -1222,11 +1485,6 @@
     "s": [
       {
         "n": "سيرفر رئيسي ",
-        "u": "http://cloth.orangecord.net/pdf/sat2MBC5/index.m3u8?token==",
-        "t": "v"
-      },
-      {
-        "n": "سيرفر رئيسي ",
         "u": "http://cloth.orangecord.net/pdf/3054/index.m3u8?token==",
         "t": "v"
       },
@@ -1242,11 +1500,6 @@
     "logo": "https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/04/MBC-Action.png?fit=1000%2C1000&ssl=1",
     "c": "mbc",
     "s": [
-      {
-        "n": "سيرفر رئيسي ",
-        "u": "http://cloth.orangecord.net/pdf/sat2MBCAction/index.m3u8?token==",
-        "t": "v"
-      },
       {
         "n": "سيرفر رئيسي ",
         "u": "http://cloth.orangecord.net/pdf/3056/index.m3u8?token==",
