@@ -809,6 +809,42 @@
       }
     ]
   },
+    {
+    "n": "راديو الرشيد - بغداد",
+      "logo": "https://images.seeklogo.com/logo-png/32/1/4k-logo-png_seeklogo-328980.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://streaming.shoutcast.com/alrasheed-fm",
+        "t": "v"
+      }
+    ]
+  },
+    {
+    "n": "راديو الرشيد - البصرة",
+      "logo": "https://images.seeklogo.com/logo-png/32/1/4k-logo-png_seeklogo-328980.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://streaming.shoutcast.com/alrasheed-fm-basra",
+        "t": "v"
+      }
+    ]
+  },
+    {
+    "n": "راديو الرشيد - كركوك",
+      "logo": "https://images.seeklogo.com/logo-png/32/1/4k-logo-png_seeklogo-328980.png",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://streaming.shoutcast.com/alrasheed-kirkuk",
+        "t": "v"
+      }
+    ]
+  },
   {
     "n": "STARS PLAY SPORT",
     "logo": "https://media.appgoblin.info/app-icons/962284784/96c1693e96c1333e_128.png",
