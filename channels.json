@@ -809,6 +809,54 @@
       }
     ]
   },
+              {
+    "n": "راديو السراج",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gUYp3nHy_a4GfSErugAzXS4LdgoaYzoB0SCY_4SrmQ&s=10",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+        "t": "v"
+      }
+    ]
+  },
+            {
+    "n": "Times Square Radio",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gUYp3nHy_a4GfSErugAzXS4LdgoaYzoB0SCY_4SrmQ&s=10",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://edge.mixlr.com/channel/slpyo",
+        "t": "v"
+      }
+    ]
+  },
+          {
+    "n": "راديو شناشيل ",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gUYp3nHy_a4GfSErugAzXS4LdgoaYzoB0SCY_4SrmQ&s=10",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://stream-281.surfernetwork.com/a33ka0d94p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMzNrYTBkOTRwOHV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJnNXd5OW43NVIyNlF2cS1zaGxiN1JnIiwiaWF0IjoxNzkzOTk0MTkxLCJleHAiOjE3OTM5OTQyNTF9.nIEDx8buUtUsySQ0DcjXzU0Ne7r-0WghQHAjlt4rgXo",
+        "t": "v"
+      }
+    ]
+  },
+        {
+    "n": "راديو دجلة ",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gUYp3nHy_a4GfSErugAzXS4LdgoaYzoB0SCY_4SrmQ&s=10",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://listen.radioking.com/radio/96766/stream/136030",
+        "t": "v"
+      }
+    ]
+  },
       {
     "n": "راديو اصوات عصافير",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gUYp3nHy_a4GfSErugAzXS4LdgoaYzoB0SCY_4SrmQ&s=10",
