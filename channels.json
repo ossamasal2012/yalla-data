@@ -809,9 +809,21 @@
       }
     ]
   },
+      {
+    "n": "راديو اصوات عصافير",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gUYp3nHy_a4GfSErugAzXS4LdgoaYzoB0SCY_4SrmQ&s=10",
+    "c": "كرة قدم",
+    "s": [
+      {
+        "n": " سيرفر 1",
+        "u": "https://a1.radio.co/s5c5da6a36/listen",
+        "t": "v"
+      }
+    ]
+  },
     {
     "n": "راديو الرشيد - بغداد",
-      "logo": "https://images.seeklogo.com/logo-png/32/1/4k-logo-png_seeklogo-328980.png",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEZVoQizbb6aSl6O7TczgL9LhUNgcjNFvYLzMOMf-8w&s=10",
     "c": "كرة قدم",
     "s": [
       {
@@ -823,7 +835,7 @@
   },
     {
     "n": "راديو الرشيد - البصرة",
-      "logo": "https://images.seeklogo.com/logo-png/32/1/4k-logo-png_seeklogo-328980.png",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsITNXE5eX3jhMZtWQ40tXOe393J8dHG9cHfliJugJ2w&s=10",
     "c": "كرة قدم",
     "s": [
       {
@@ -835,7 +847,7 @@
   },
     {
     "n": "راديو الرشيد - كركوك",
-      "logo": "https://images.seeklogo.com/logo-png/32/1/4k-logo-png_seeklogo-328980.png",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKM2cFzfAGtfAMBOqODJQeB85q4LzDLnQgS8VYLPjfKA&s=10",
     "c": "كرة قدم",
     "s": [
       {
