@@ -1,24 +1,22 @@
 [
   
   {
-          "name": "السيرفر a",
+    "name": "السيرفر a",
     "host": "http://my99599.site:2095",
     "username": "893963693051",
     "password": "bHksg68fWnri8"
   },
   {
-          "name": "السيرفر b",
+    "name": "السيرفر b",
     "host": "http://blue4k.net:8080",
     "username": "05366097178",
     "password": "123456zX"
   },
-  {
-              "name": "السيرفر c",
+  { 
+    "name": "السيرفر c",
     "host": "http://neo-aps.me:80",
     "username": "04948e010edf",
     "password": "a75ca797f9"
-  },
-  {"
   },
   {
       "name": "السيرفر الاول",
