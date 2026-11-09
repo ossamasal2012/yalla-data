@@ -1,6 +1,18 @@
 [
   
   {
+          "name": "السيرفر a",
+    "host": "http://my99599.site:2095",
+    "username": "893963693051",
+    "password": "bHksg68fWnri8"
+  },
+  {
+          "name": "السيرفر b",
+    "host": "http://blue4k.net:8080",
+    "username": "05366097178",
+    "password": "123456zX"
+  },
+  {
       "name": "السيرفر الاول",
     "host": "http://vlc.news:9000",
     "username": "724457699526",
