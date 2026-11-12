@@ -1,32 +1,12 @@
 [
   {
-  "n": "ريال مدريد vs برشلونة",
+  "n": " ليل البنفسج ",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07oq_6eUW-6ISJHnXayBHCKdEsdn5lg3JVHMZnQIj_A&s=10",
   "c": "كرة قدم",
   "s": [
     {
-      "n": "1080p - Server 1",
-      "u": "https://castx.online/hls/local-mejarserver-ftv1-fullhd/1080p/index.m3u8",
-      "t": "v"
-    },
-    {
-      "n": "Server 2",
-      "u": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-      "t": "v"
-    },
-    {
-      "n": "1080p - Server 3",
-      "u": "https://wqdfwqq.s3.us-east-2.amazonaws.com/fhd1/1080p/manifest.m3u8",
-      "t": "v"
-    },
-    {
-      "n": "beIN - Master",
-      "u": "https://wqdfwqq.s3.us-east-2.amazonaws.com/bein1/master.m3u8",
-      "t": "v"
-    },
-    {
-      "n": "beIN - 720p",
-      "u": "https://wqdfwqq.s3.us-east-2.amazonaws.com/bein1/720p/manifest.m3u8",
+      "n": "S1",
+      "u": "https://dvcqiob7djhyygqcj3dvcqiob7djhyygqcj3dvcqiob7djhyygqcj3.vood78.xyz/hls/cxcumxf3yhcsvb3x6vycse72utkhwbgiodmukvexa2svgkkyberplnwuujea/master.m3u8",
       "t": "v"
     }
   ]
